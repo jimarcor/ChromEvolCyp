@@ -1,0 +1,76 @@
+
+cannot open parameter file: param_CONST_RATE_DEMI
+
+cannot open parameter file: param_CONST_RATE_DEMI
+System Error: No such file or directory
+System Error: No such file or directory
+chromEvol: errorMsg.cpp:41: static void errorMsg::reportError(const std::string&, int): Assertion `0' failed.
+/opt/sge/default/spool/nova27/job_scripts/153932: línea 7: 24778 Abortado                (`core' generado) /home/aescudero/PIP/chromEvol param_CONST_RATE_DEMI
+chromEvol Version: 2.0. Last updated December 2013
+Optimizing parameters
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
+Inferring ancestral states
+
+running 10000 simulations
+finished simulations
+
+total expectations
+dupl=27.8363
+gain=9543.12
+loss=11774.8
+halFDupl=43.0658
+baseNumber=0
+toMaxChr=14.1559
+
+TOTAL RUNNING TIME = 206048
+
+cannot open parameter file: param_CONST_RATE_DEMI
+
+cannot open parameter file: param_CONST_RATE_DEMI
+System Error: No such file or directory
+System Error: No such file or directory
+chromEvol: errorMsg.cpp:41: static void errorMsg::reportError(const std::string&, int): Assertion `0' failed.
+/opt/sge/default/spool/nova4/job_scripts/154190: línea 7: 27150 Abortado                (`core' generado) /home/aescudero/PIP/chromEvol param_CONST_RATE_DEMI
+chromEvol Version: 2.0. Last updated December 2013
+Optimizing parameters
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
+Inferring ancestral states
+
+running 10000 simulations
+finished simulations
+
+total expectations
+dupl=119.902
+gain=5159.84
+loss=5043.37
+halFDupl=79.0646
+baseNumber=0
+toMaxChr=0.198823
+chromEvol: someUtil.cpp:44: double copmutePoissonProbability(const int&, const long double&): Assertion `k>=0' failed.
+/opt/sge/default/spool/trixbox/job_scripts/154191: línea 7: 30845 Abortado                (`core' generado) /home/aescudero/PIP/chromEvol param_CONST_RATE_DEMI_EST
