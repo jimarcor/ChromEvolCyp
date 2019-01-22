@@ -1,0 +1,293 @@
+START OF LOG FILE
+chromEvol Version: 2.0. Last updated December 2013
+_bOptBaseNumber	(Int)	1
+_baseNumber	(Int)	7
+_baseNumberR	(Float)	1
+_baseTransitionProbs	(Str)	
+_branchModelType	(Str)	GRADUAL
+_branchMul	(Float)	999
+_dataFile	(Str)	cyperaceae.txt
+_demiPloidyR	(Float)	-999
+_duplConstR	(Float)	1
+_epsR	(Float)	-999
+_epsilonLLimprovement	(Float)	0.01
+_freqFile	(Str)	
+_gainConstR	(Float)	1
+_gainLinearR	(Float)	-999
+_inferTreeFile	(Str)	mlAncestors.tree
+_logFile	(Str)	log.txt
+_logValue	(Int)	6
+_lossConstR	(Float)	1
+_lossLinearR	(Float)	-999
+_mainType	(Str)	Optimize_Model
+_maxBaseTransition	(Int)	0
+_maxChrNum	(Int)	-10
+_maxChrNumForSimulations	(Int)	0
+_maxOptimizationIterations	(Int)	5
+_minChrNum	(Int)	1
+_modelType	(Str)	GENERAL_CHR_MODEL
+_optimizeIterNum	(Str)	0,2,5
+_optimizePointsNum	(Str)	10,3,1
+_outDir	(Str)	OUT/BASE_NUM_DUPL/
+_outFile	(Str)	chromEvol.res
+_pow2Scale	(Int)	1
+_rootAt	(Str)	
+_rootFreqType	(Str)	ROOT_LL
+_scaleBranch	(Float)	-999
+_simDemiTypes	(Str)	-999,-999,-2
+_simModels	(Str)	CONST_RATE_NO_DUPL,CONST_RATE,CONST_RATE
+_simulationsIter	(Int)	50
+_simulationsJumpsStats	(Str)	
+_simulationsNum	(Int)	10000
+_simulationsTreeDir	(Str)	
+_simulationsTreeLength	(Float)	0
+_smIter	(Int)	0
+_startSimulationsIter	(Int)	0
+_tolParamOptimization	(Float)	0.01
+_treeFile	(Str)	cyperaceae.tree
+
+ ---------------------- THE PARAMETERS ----------------------------
+main type: Optimize_Model
+tree file: cyperaceae.tree
+data file: cyperaceae.txt
+output file: chromEvol.res
+model Type: GENERAL_CHR_MODEL
+ max chromosome number allowed: -10
+ _gainConstR: 1
+ _lossConstR: 1
+ _duplConstR: 1
+ _demiPloidyR: -999
+ _baseNumber: 7
+ _baseNumberR: 1
+
+ -----------------------------------------------------------------
+max count = 66 min count = 4
+max count allowed= 76 min count allowed = 1
+tree rooted at N1 id, 0
+sons of root are: 
+N2
+N787
+Original total tree length = 5439.94
+rescaling tree by 0.00974275 so that total tree length is 53
+total tree length = 53
+Optimizing parameters
+=====Cycle======= 0
+=====optimizing point======= 0
+starting optimization:
+model params:
+LOSS_CONST=1	GAIN_CONST=1	DUPL=1	BASE_NUMBER_R=1	BASE_NUMBER=7	
+ll before optimization = -4641.64
+point: 0  likelihood = -4641.64
+
+=====optimizing point======= 1
+starting optimization:
+model params:
+LOSS_CONST=8.86306	GAIN_CONST=20.7649	DUPL=26.4046	BASE_NUMBER_R=18.1534	BASE_NUMBER=29	
+ll before optimization = -5634.59
+point: 1  likelihood = -5634.59
+
+=====optimizing point======= 2
+starting optimization:
+model params:
+LOSS_CONST=82.6113	GAIN_CONST=95.5317	DUPL=95.0143	BASE_NUMBER_R=32.775	BASE_NUMBER=28	
+ll before optimization = -8395.29
+point: 2  likelihood = -8395.29
+
+=====optimizing point======= 3
+starting optimization:
+model params:
+LOSS_CONST=17.3549	GAIN_CONST=78.6998	DUPL=45.3985	BASE_NUMBER_R=28.5771	BASE_NUMBER=42	
+ll before optimization = -6409.09
+point: 3  likelihood = -6409.09
+
+=====optimizing point======= 4
+starting optimization:
+model params:
+LOSS_CONST=84.4705	GAIN_CONST=64.1073	DUPL=55.7642	BASE_NUMBER_R=87.8564	BASE_NUMBER=3	
+ll before optimization = -47105.6
+point: 4  likelihood = -47105.6
+
+=====optimizing point======= 5
+starting optimization:
+model params:
+LOSS_CONST=67.4706	GAIN_CONST=38.9728	DUPL=22.3543	BASE_NUMBER_R=17.8367	BASE_NUMBER=34	
+ll before optimization = -4328.27
+point: 5  likelihood = -4328.27
+
+=====optimizing point======= 6
+starting optimization:
+model params:
+LOSS_CONST=90.8385	GAIN_CONST=12.971	DUPL=43.5507	BASE_NUMBER_R=26.7937	BASE_NUMBER=51	
+ll before optimization = -5062.88
+point: 6  likelihood = -5062.88
+
+=====optimizing point======= 7
+starting optimization:
+model params:
+LOSS_CONST=7.10247	GAIN_CONST=3.66054	DUPL=5.99494	BASE_NUMBER_R=85.8903	BASE_NUMBER=53	
+ll before optimization = -9416.1
+point: 7  likelihood = -9416.1
+
+=====optimizing point======= 8
+starting optimization:
+model params:
+LOSS_CONST=75.4729	GAIN_CONST=19.9033	DUPL=90.8648	BASE_NUMBER_R=60.5887	BASE_NUMBER=38	
+ll before optimization = -7849.04
+point: 8  likelihood = -7849.04
+
+=====optimizing point======= 9
+starting optimization:
+model params:
+LOSS_CONST=2.68926	GAIN_CONST=10.1217	DUPL=36.963	BASE_NUMBER_R=6.14167	BASE_NUMBER=59	
+ll before optimization = -4952.63
+point: 9  likelihood = -4952.63
+
+=====Cycle======= 1
+=====optimizing point======= 0
+starting optimization:
+model params:
+LOSS_CONST=1	GAIN_CONST=1	DUPL=1	BASE_NUMBER_R=1	BASE_NUMBER=7	
+ll before optimization = -4641.64
+iteration: 0 begin
+optmizing BASE_NUMBER
+ LL= -4287.8 new = 4.7082 old=7
+optmizing BASE_NUMBER_R
+ LL= -4229.69 new = 0.54959 old=1
+optmizing DUPL
+ LL= -4175.1 new = 4.54209 old=1
+optmizing LOSS_CONST
+ LL= -3017.05 new = 96.5903 old=1
+optmizing GAIN_CONST
+ LL= -2876.38 new = 87.3592 old=1
+iteration: 1 begin
+optmizing BASE_NUMBER
+ LL= -2788.08 new = 11.4187 old=5
+optmizing BASE_NUMBER_R
+ LL= -2745.31 new = 0.133878 old=0.54959
+optmizing DUPL
+ LL= -2710.98 new = 1.31736 old=4.54209
+optmizing LOSS_CONST
+ LL= -2710.98 new = 96.5903 old=96.5903
+optmizing GAIN_CONST
+ LL= -2696.08 new = 97.0751 old=87.3592
+point: 0  likelihood = -2696.08
+
+=====optimizing point======= 1
+starting optimization:
+model params:
+LOSS_CONST=67.4706	GAIN_CONST=38.9728	DUPL=22.3543	BASE_NUMBER_R=17.8367	BASE_NUMBER=34	
+ll before optimization = -4328.27
+iteration: 0 begin
+optmizing BASE_NUMBER
+ LL= -4308.61 new = 32.2724 old=34
+optmizing BASE_NUMBER_R
+ LL= -3248.71 new = 0.0601905 old=17.8367
+optmizing DUPL
+ LL= -3073.77 new = 3.47238 old=22.3543
+optmizing LOSS_CONST
+ LL= -3003.99 new = 97.1591 old=67.4706
+optmizing GAIN_CONST
+ LL= -2832.35 new = 96.5991 old=38.9728
+iteration: 1 begin
+optmizing BASE_NUMBER
+ LL= -2722.57 new = 10.6279 old=32
+optmizing BASE_NUMBER_R
+ LL= -2717.07 new = 0.133065 old=0.0601905
+optmizing DUPL
+ LL= -2696.23 new = 1.2998 old=3.47238
+optmizing LOSS_CONST
+ LL= -2696.23 new = 97.1591 old=97.1591
+optmizing GAIN_CONST
+ LL= -2696.23 new = 96.5991 old=96.5991
+point: 1  likelihood = -2696.23
+
+=====optimizing point======= 2
+starting optimization:
+model params:
+LOSS_CONST=2.68926	GAIN_CONST=10.1217	DUPL=36.963	BASE_NUMBER_R=6.14167	BASE_NUMBER=59	
+ll before optimization = -4952.63
+iteration: 0 begin
+optmizing BASE_NUMBER
+ LL= -4826.55 new = 20.5326 old=59
+optmizing BASE_NUMBER_R
+ LL= -4423.78 new = 0.595176 old=6.14167
+optmizing DUPL
+ LL= -3961.35 new = 9.58725 old=36.963
+optmizing LOSS_CONST
+ LL= -3196.85 new = 96.6484 old=2.68926
+optmizing GAIN_CONST
+ LL= -2929.71 new = 95.6424 old=10.1217
+iteration: 1 begin
+optmizing BASE_NUMBER
+ LL= -2905.23 new = 11.0101 old=21
+optmizing BASE_NUMBER_R
+ LL= -2836.26 new = 0.0822384 old=0.595176
+optmizing DUPL
+ LL= -2703.3 new = 1.47869 old=9.58725
+optmizing LOSS_CONST
+ LL= -2703.3 new = 96.6484 old=96.6484
+optmizing GAIN_CONST
+ LL= -2700.64 new = 97.5552 old=95.6424
+point: 2  likelihood = -2700.64
+
+=====Cycle======= 2
+=====optimizing point======= 0
+starting optimization:
+model params:
+LOSS_CONST=96.5903	GAIN_CONST=97.0751	DUPL=1.31736	BASE_NUMBER_R=0.133878	BASE_NUMBER=11	
+ll before optimization = -2696.08
+iteration: 0 begin
+optmizing BASE_NUMBER
+ LL= -2696.08 new = 11.1692 old=11
+optmizing BASE_NUMBER_R
+ LL= -2694.99 new = 0.178155 old=0.133878
+optmizing DUPL
+ LL= -2694.84 new = 1.17539 old=1.31736
+optmizing LOSS_CONST
+ LL= -2692.75 new = 98.8716 old=96.5903
+optmizing GAIN_CONST
+ LL= -2691.3 new = 98.1923 old=97.0751
+iteration: 1 begin
+optmizing BASE_NUMBER
+ LL= -2691.3 new = 11.1346 old=11
+optmizing BASE_NUMBER_R
+ LL= -2691.28 new = 0.184493 old=0.178155
+optmizing DUPL
+ LL= -2691.28 new = 1.15008 old=1.17539
+optmizing LOSS_CONST
+ LL= -2691.28 new = 98.8716 old=98.8716
+optmizing GAIN_CONST
+ LL= -2691.28 new = 98.1923 old=98.1923
+iteration: 2 begin
+optmizing BASE_NUMBER
+ LL= -2691.28 new = 11.1352 old=11
+optmizing BASE_NUMBER_R
+ LL= -2691.28 new = 0.186338 old=0.184493
+optmizing DUPL
+ LL= -2691.28 new = 1.13858 old=1.15008
+optmizing LOSS_CONST
+ LL= -2691.28 new = 98.8716 old=98.8716
+optmizing GAIN_CONST
+ LL= -2691.28 new = 98.1923 old=98.1923
+point: 0  likelihood = -2691.28
+
+
+FINAL LIKELIHOODS++++++++++++++
+point 0 likelihood = -2691.28
+after optmizations
+Inferring ancestral states
+Computing expectations
+
+running 10000 simulations
+simulaing state 0simulaing state 1simulaing state 2simulaing state 3simulaing state 4simulaing state 5simulaing state 6simulaing state 7simulaing state 8simulaing state 9simulaing state 10simulaing state 11simulaing state 12simulaing state 13simulaing state 14simulaing state 15simulaing state 16simulaing state 17simulaing state 18simulaing state 19simulaing state 20simulaing state 21simulaing state 22simulaing state 23simulaing state 24simulaing state 25simulaing state 26simulaing state 27simulaing state 28simulaing state 29simulaing state 30simulaing state 31simulaing state 32simulaing state 33simulaing state 34simulaing state 35simulaing state 36simulaing state 37simulaing state 38simulaing state 39simulaing state 40simulaing state 41simulaing state 42simulaing state 43simulaing state 44simulaing state 45simulaing state 46simulaing state 47simulaing state 48simulaing state 49simulaing state 50simulaing state 51simulaing state 52simulaing state 53simulaing state 54simulaing state 55simulaing state 56simulaing state 57simulaing state 58simulaing state 59simulaing state 60simulaing state 61simulaing state 62simulaing state 63simulaing state 64simulaing state 65simulaing state 66simulaing state 67simulaing state 68simulaing state 69simulaing state 70simulaing state 71simulaing state 72simulaing state 73simulaing state 74simulaing state 75finished simulations
+
+total expectations
+dupl=197.002
+gain=5307.62
+loss=5129.02
+halFDupl=3.52504
+baseNumber=46.8676
+toMaxChr=0.187392
+Printing results
+
+TOTAL RUNNING TIME = 141735

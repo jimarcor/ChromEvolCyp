@@ -1,0 +1,30 @@
+chromEvol Version: 2.0. Last updated December 2013
+Optimizing parameters
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++
+Inferring ancestral states
+
+running 10000 simulations
+finished simulations
+
+total expectations
+dupl=130.142
+gain=9200.56
+loss=9463.52
+halFDupl=112.195
+baseNumber=0
+toMaxChr=1.99017
+chromEvol: someUtil.cpp:44: double copmutePoissonProbability(const int&, const long double&): Assertion `k>=0' failed.
+/opt/sge/default/spool/nova18/job_scripts/153947: línea 7: 12166 Abortado                (`core' generado) /home/aescudero/PIP/chromEvol param_LINEAR_RATE_DEMI_EST
