@@ -1,0 +1,213 @@
+#Nodes with GAIN events with expectation above 0.5
+N3: 1.58463
+Carex_lingii: 0.611896
+Carex_scaposa: 6.84262
+N7: 3.66414
+N8: 16.7686
+N9: 1.02962
+N10: 0.70901
+Trichophorum_alpinum: 3.25547
+Trichophorum_pumilum: 13.2555
+Trichophorum_cespitosum: 26.7888
+Trichophorum_uniflorum: 12.9945
+N11: 2.1114
+N12: 7.45971
+Scirpus_lineatus: 1.19198
+Scirpus_pendulus: 3.19197
+N13: 8.07649
+N14: 0.869734
+Scirpus_maximowiczii: 13.6669
+N16: 3.75972
+N17: 1.1757
+Scirpus_polyphyllus: 5.73148
+N18: 1.63296
+Scirpus_georgianus: 1.06891
+N20: 2.09789
+Scirpus_pallidus: 1.00063
+Scirpus_ancistrochaetus: 4.90719
+N21: 3.96714
+Scirpus_radicans: 5.73833
+N22: 3.58961
+N23: 2.34374
+Scirpus_sylvaticus: 2.80495
+Scirpus_microcarpus: 3.80495
+Scirpus_expansus: 6.14869
+N24: 1.19721
+N25: 4.74868
+Scirpus_polystachyus: 6.62928
+N26: 3.12571
+Scirpus_longii: 6.50345
+N27: 3.51782
+Scirpus_pedicellatus: 3.98562
+N28: 1.9441
+Scirpus_atrocinctus: 2.04152
+Scirpus_cyperinus: 1.04152
+N29: 2.80178
+N30: 2.35887
+N31: 0.596936
+Eriophorum_angustifolium: 4.62037
+N32: 0.585125
+N33: 2.51326
+Eriophorum_callitrix: 2.52197
+Eriophorum_vaginatum: 1.08549
+N35: 1.26228
+Eriophorum_brachyantherum: 2.36948
+Eriophorum_scheuchzeri: 2.36948
+Eriophorum_chamissonis: 3.77295
+Eriophorum_latifolium: 3.21731
+N37: 4.3052
+Eriophorum_virginicum: 3.27098
+Eriophorum_gracile: 4.27098
+N38: 6.39009
+N39: 4.24798
+Blysmus_compressus: 7.94784
+Blysmus_rufus: 5.94786
+Dulichium_arundinaceum: 6.19633
+Total number of gain events: 284.219
+#+++++++++++++++++++++++++++++
+
+#Nodes with LOSS events with expectation above 0.5
+Total number of loss events: 0
+#+++++++++++++++++++++++++++++
+
+#Nodes with duplication events with expectation above 0.5
+Total number of duplication events: 0
+#+++++++++++++++++++++++++++++
+
+#Nodes with demi-duplication events with expectation above 0.5
+Total number of demi-dulications events: 0
+#+++++++++++++++++++++++++++++
+
+#EVENTS NOT ACCOUNTED FOR IN THE SIMULATIONS: 
+N6:ML=5 to Carex_grandiligulata:ML=6  sum expections= 0.4305
+	HEURISTIC ESTIMATION:	Gains = 1	Losses = 0	Duplications = 0	Demi-dupl = 0
+N6:ML=5 to Carex_pachygyna:ML=6  sum expections= 0.4305
+	HEURISTIC ESTIMATION:	Gains = 1	Losses = 0	Duplications = 0	Demi-dupl = 0
+N5:ML=5 to Carex_siderosticta:ML=6  sum expections= 0.491709
+	HEURISTIC ESTIMATION:	Gains = 1	Losses = 0	Duplications = 0	Demi-dupl = 0
+#+++++++++++++++++++++++++++++
+
+#ALL EVENTS EXPECTATIONS PER NODE
+NODE	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+N2	0.159158	0	0	0
+N3	1.58463	0	0	0
+N4	0.230735	0	0	0
+Carex_lingii	0.611896	0	0	0
+N5	0.120187	0	0	0
+N6	0.0612086	0	0	0
+Carex_grandiligulata	1	0	0	0
+Carex_pachygyna	1	0	0	0
+Carex_siderosticta	1	0	0	0
+Carex_scaposa	6.84262	0	0	0
+N7	3.66414	0	0	0
+N8	16.7686	0	0	0
+N9	1.02962	0	0	0
+N10	0.70901	0	0	0
+Trichophorum_alpinum	3.25547	0	0	0
+Trichophorum_pumilum	13.2555	0	0	0
+Trichophorum_cespitosum	26.7888	0	0	0
+Trichophorum_uniflorum	12.9945	0	0	0
+N11	2.1114	0	0	0
+N12	7.45971	0	0	0
+Scirpus_lineatus	1.19198	0	0	0
+Scirpus_pendulus	3.19197	0	0	0
+N13	8.07649	0	0	0
+N14	0.869734	0	0	0
+N15	0.0385488	0	0	0
+Scirpus_maximowiczii	13.6669	0	0	0
+N16	3.75972	0	0	0
+N17	1.1757	0	0	0
+Scirpus_polyphyllus	5.73148	0	0	0
+N18	1.63296	0	0	0
+N19	0.029609	0	0	0
+Scirpus_atrovirens	0.0689099	0	0	0
+Scirpus_georgianus	1.06891	0	0	0
+N20	2.09789	0	0	0
+Scirpus_flaccidifolius	0.000627968	0	0	0
+Scirpus_pallidus	1.00063	0	0	0
+Scirpus_ancistrochaetus	4.90719	0	0	0
+N21	3.96714	0	0	0
+Scirpus_radicans	5.73833	0	0	0
+N22	3.58961	0	0	0
+N23	2.34374	0	0	0
+Scirpus_sylvaticus	2.80495	0	0	0
+Scirpus_microcarpus	3.80495	0	0	0
+Scirpus_expansus	6.14869	0	0	0
+N24	1.19721	0	0	0
+N25	4.74868	0	0	0
+Scirpus_polystachyus	6.62928	0	0	0
+N26	3.12571	0	0	0
+Scirpus_longii	6.50345	0	0	0
+N27	3.51782	0	0	0
+Scirpus_pedicellatus	3.98562	0	0	0
+N28	1.9441	0	0	0
+Scirpus_atrocinctus	2.04152	0	0	0
+Scirpus_cyperinus	1.04152	0	0	0
+N29	2.80178	0	0	0
+N30	2.35887	0	0	0
+N31	0.596936	0	0	0
+Eriophorum_angustifolium	4.62037	0	0	0
+N32	0.585125	0	0	0
+N33	2.51326	0	0	0
+Eriophorum_callitrix	2.52197	0	0	0
+N34	0.43648	0	0	0
+Scirpus_hattorianus	0.0854919	0	0	0
+Eriophorum_vaginatum	1.08549	0	0	0
+N35	1.26228	0	0	0
+N36	0.403462	0	0	0
+Eriophorum_brachyantherum	2.36948	0	0	0
+Eriophorum_scheuchzeri	2.36948	0	0	0
+Eriophorum_chamissonis	3.77295	0	0	0
+Eriophorum_latifolium	3.21731	0	0	0
+N37	4.3052	0	0	0
+Eriophorum_virginicum	3.27098	0	0	0
+Eriophorum_gracile	4.27098	0	0	0
+N38	6.39009	0	0	0
+N39	4.24798	0	0	0
+Blysmus_compressus	7.94784	0	0	0
+Blysmus_rufus	5.94786	0	0	0
+Dulichium_arundinaceum	6.19633	0	0	0
+#+++++++++++++++++++++++++++++
+
+#Expected number of events from root to leaf
+LEAF	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+Carex_lingii	2.58642	0	0	0
+Carex_grandiligulata	3.15592	0	0	0
+Carex_pachygyna	3.15592	0	0	0
+Carex_siderosticta	3.09471	0	0	0
+Carex_scaposa	8.58641	0	0	0
+Trichophorum_alpinum	25.586	0	0	0
+Trichophorum_pumilum	35.586	0	0	0
+Trichophorum_cespitosum	48.4103	0	0	0
+Trichophorum_uniflorum	33.5864	0	0	0
+Scirpus_lineatus	14.5864	0	0	0
+Scirpus_pendulus	16.5864	0	0	0
+Scirpus_maximowiczii	28.5864	0	0	0
+Scirpus_polyphyllus	25.5864	0	0	0
+Scirpus_atrovirens	21.5864	0	0	0
+Scirpus_georgianus	22.5864	0	0	0
+Scirpus_flaccidifolius	23.5864	0	0	0
+Scirpus_pallidus	24.5864	0	0	0
+Scirpus_ancistrochaetus	23.5864	0	0	0
+Scirpus_radicans	24.5864	0	0	0
+Scirpus_sylvaticus	27.5864	0	0	0
+Scirpus_microcarpus	28.5864	0	0	0
+Scirpus_expansus	28.5864	0	0	0
+Scirpus_polystachyus	26.5864	0	0	0
+Scirpus_longii	29.5862	0	0	0
+Scirpus_pedicellatus	30.5862	0	0	0
+Scirpus_atrocinctus	30.5862	0	0	0
+Scirpus_cyperinus	29.5862	0	0	0
+Eriophorum_angustifolium	25.5863	0	0	0
+Eriophorum_callitrix	26.5863	0	0	0
+Scirpus_hattorianus	24.5863	0	0	0
+Eriophorum_vaginatum	25.5863	0	0	0
+Eriophorum_brachyantherum	25.5863	0	0	0
+Eriophorum_scheuchzeri	25.5863	0	0	0
+Eriophorum_chamissonis	26.5863	0	0	0
+Eriophorum_latifolium	23.5864	0	0	0
+Eriophorum_virginicum	25.5864	0	0	0
+Eriophorum_gracile	26.5864	0	0	0
+Blysmus_compressus	18.5859	0	0	0
+Blysmus_rufus	16.5859	0	0	0
+Dulichium_arundinaceum	12.5864	0	0	0
