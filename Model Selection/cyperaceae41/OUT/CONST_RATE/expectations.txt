@@ -1,0 +1,3856 @@
+#Nodes with GAIN events with expectation above 0.5
+N2: 7.01197
+N3: 31.2235
+N4: 19.6644
+N5: 10.3633
+N6: 11.6132
+N7: 7.27672
+Carex_microglochin: 25.9823
+N8: 13.7746
+Carex_baldensis: 19.4531
+Carex_curvula: 18.3099
+N9: 2.0514
+N10: 0.717147
+N11: 11.3496
+N12: 3.81589
+Carex_pauciflora: 12.3882
+N13: 9.79945
+N14: 6.44149
+Carex_nigricans: 2.96647
+Carex_pyrenaica: 7.78802
+Carex_anthoxanthea: 17.994
+N15: 1.26768
+N16: 1.30235
+N17: 3.56268
+N18: 18.9658
+Carex_alatauensis: 10.7509
+Carex_simpliciuscula: 9.71003
+N19: 9.68481
+Carex_macroprophylla: 14.8869
+N20: 5.55365
+N21: 5.90277
+Carex_cercostachys: 4.45625
+Carex_neesii: 2.29844
+N22: 0.89097
+N23: 0.589571
+Carex_parvula: 8.92337
+N24: 0.820419
+Carex_deasyi: 1.73835
+N25: 3.99389
+Carex_myosuroides: 2.70472
+Carex_borealipolaris: 2.70472
+Carex_esenbeckii: 10.0014
+N26: 0.787436
+N27: 2.25597
+N28: 18.148
+N29: 2.94404
+Carex_phleoides: 10.6232
+N30: 9.38938
+Carex_parvispica: 0.549485
+Carex_subtilis: 0.549485
+N31: 2.39133
+N32: 7.17775
+Carex_longifructus: 1.69208
+Carex_drucei: 1.69208
+N33: 1.52591
+N34: 0.748352
+Carex_austrocompacta: 6.65692
+N35: 1.21105
+N36: 2.82058
+Carex_subviridis: 1.53768
+Carex_banksiana: 1.07144
+Carex_obtusifolia: 0.849727
+N42: 0.515079
+N44: 0.695339
+Carex_cyanea: 0.798435
+Carex_healyi: 0.533054
+Carex_punicea: 1.59501
+Carex_purpurata: 1.47102
+Carex_strictissima: 1.47102
+Carex_silvestris: 1.61334
+Carex_egmontiana: 1.43278
+Carex_astricta: 0.725108
+Carex_zotovii: 0.725108
+N53: 0.6529
+Carex_umbricola: 2.38035
+N54: 1.10817
+N55: 1.8763
+N56: 0.666139
+Carex_uncinata: 2.68718
+N57: 2.03737
+N58: 2.58593
+Carex_crispa: 1.53377
+Carex_edura: 1.53377
+Carex_erebus: 7.42723
+N59: 1.55317
+Carex_leptalea: 21.7759
+N60: 19.6851
+Carex_nardina: 6.46326
+Carex_filifolia: 2.04337
+N61: 4.39974
+Carex_rupestris: 20.6706
+N62: 7.09628
+Carex_obtusata: 13.9391
+N63: 7.43448
+Carex_capitata: 5.93607
+Carex_runssoroensis: 5.93607
+Carex_bonatiana: 27.2467
+N64: 27.1734
+N65: 2.05733
+Carex_saximontana: 3.52246
+Carex_backii: 3.90442
+N66: 1.59039
+Carex_latebracteata: 9.07667
+N67: 3.17252
+Carex_willdenowii: 4.48047
+Carex_jamesii: 1.62008
+N68: 13.7531
+Carex_pseudorufa: 32.3229
+N69: 2.51031
+N70: 5.16916
+N71: 5.93884
+N72: 2.03186
+Carex_uhligii: 8.18833
+Carex_schimperiana: 7.75848
+Carex_spartea: 11.1067
+N73: 7.13925
+Carex_ludwigii: 10.7822
+Carex_killickii: 16.2098
+N74: 1.53993
+N75: 7.14342
+Carex_lancea: 22.4452
+N76: 7.08708
+Carex_schweickerdtii: 13.3723
+Carex_capensis: 7.83567
+N77: 6.56088
+Carex_distachya: 24.3657
+N78: 4.59742
+Carex_oedipostyla: 18.2885
+N79: 6.6309
+Carex_pulicaris: 9.52741
+Carex_peregrina: 9.98842
+N80: 1.27141
+N81: 5.56937
+Carex_bostrychostigma: 44.9317
+N82: 10.7064
+N83: 4.87967
+Carex_cruciata: 28.768
+N84: 13.5415
+Carex_brunnea: 19.1248
+N85: 8.26412
+Carex_ussuriensis: 2.48342
+N86: 2.91546
+Carex_alba: 3.1141
+Carex_eburnea: 3.1141
+N87: 4.21137
+N88: 1.72871
+N89: 0.872733
+N90: 5.43546
+N91: 2.60627
+N92: 5.88781
+Carex_macrolepis: 11.4246
+Carex_mucronata: 11.4246
+N93: 10.0814
+Carex_firma: 6.72231
+Carex_sempervirens_subsp._sempervirens: 6.23942
+N94: 0.688908
+N95: 15.7449
+Carex_melanocarpa: 0.895103
+Carex_ericetorum: 2.28677
+N96: 7.10136
+N97: 0.8344
+N98: 2.25009
+Carex_acaulis: 12.5891
+N99: 0.581964
+N100: 2.83823
+Carex_flacca_subsp._flacca: 6.03941
+N101: 0.794485
+Carex_grioletii: 7.8222
+Carex_hispida: 5.21576
+N102: 4.58587
+Carex_ferruginea: 8.95926
+N103: 1.9617
+Carex_caudata: 0.675485
+Carex_austroalpina: 3.60056
+N104: 1.26809
+Carex_asturica: 12.4682
+Carex_depauperata: 11.9045
+Carex_fimbriata: 13.5576
+N106: 8.06563
+N108: 0.82162
+N109: 1.52129
+N110: 7.7003
+N111: 2.39261
+N112: 2.88182
+Carex_conoidea: 10.022
+N113: 2.87379
+N114: 2.2516
+Carex_corrugata: 1.89747
+Carex_grisea: 0.991085
+Carex_amphibola: 1.09077
+N117: 0.67246
+Carex_oligocarpa: 2.43265
+Carex_bulbostylis: 2.20642
+N120: 1.0465
+Carex_calcifugens: 0.534668
+Carex_planispicata: 0.628264
+N123: 1.33814
+N124: 2.63358
+N125: 0.550986
+Carex_austrocaroliniana: 5.49479
+Carex_plantaginea: 3.72343
+N126: 4.08703
+Carex_platyphylla: 5.72135
+Carex_careyana: 5.06615
+N129: 4.02424
+Carex_brysonii: 1.96967
+Carex_hitchcockiana: 2.96934
+N130: 1.9291
+N131: 3.1343
+Carex_asynchrona: 1.67511
+Carex_ouachitana: 4.56015
+N132: 1.90728
+N133: 1.18399
+N134: 1.08297
+Carex_cumberlandensis: 1.21176
+Carex_laxiculmis: 1.21176
+Carex_abscondita: 2.81305
+N135: 1.57159
+N138: 2.02833
+Carex_pigra: 3.6196
+Carex_glaucodea: 1.23468
+Carex_granularis: 1.00798
+N140: 5.51479
+Carex_crawei: 0.554536
+Carex_microdonta: 2.89499
+Carex_edwardsiana: 10.9138
+N141: 2.44121
+N142: 13.4175
+N143: 1.47032
+Carex_umbrosa_subsp._huetiana: 4.46919
+N145: 1.16426
+Carex_pisiformis: 4.38706
+Carex_depressa: 2.84422
+Carex_caryophyllea: 4.83681
+N146: 1.33308
+N147: 4.87656
+Carex_nervata: 2.4437
+Carex_breviculmis_var._fibrillosa: 0.806208
+Carex_mitrata: 5.53353
+Carex_macrandrolepis: 21.761
+N148: 1.06276
+N149: 7.21687
+Carex_atrofusca: 8.56152
+Carex_cruenta: 9.85639
+N150: 1.13696
+N151: 1.42909
+N152: 1.40753
+Carex_tomentosa: 14.1185
+Carex_hordeistichos: 15.8746
+N154: 2.63597
+N155: 1.12079
+N156: 5.43474
+Carex_laxa: 7.67988
+Carex_papulosa: 3.66756
+N158: 0.801545
+N159: 3.89361
+Carex_vaginata: 1.01794
+Carex_filipes: 2.40991
+Carex_panicea: 4.91083
+N160: 0.59057
+N161: 2.02955
+Carex_manhartii: 2.38411
+N164: 1.81219
+Carex_woodii: 3.86083
+Carex_purpurifera: 1.42987
+N165: 1.08718
+N166: 0.55704
+Carex_livida: 2.06372
+N170: 2.03111
+Carex_albursina: 3.3674
+Carex_leptonervia: 1.31656
+N172: 0.67017
+N173: 0.543965
+N174: 0.564822
+Carex_laxiflora: 0.730133
+Carex_radfordii: 3.01156
+Carex_blanda: 0.933791
+N176: 0.612464
+Carex_crebriflora: 1.91393
+Carex_styloflexa: 4.00013
+Carex_olbiensis: 8.45598
+Carex_pilosa: 9.92463
+Carex_assiniboinensis: 11.9041
+N177: 9.46092
+Carex_tristis: 5.05649
+N178: 1.50989
+Carex_fuliginosa: 3.98572
+Carex_stenocarpa: 3.98572
+N179: 2.7204
+N180: 3.23935
+N181: 1.92447
+N182: 3.62281
+N184: 3.14701
+N185: 5.18021
+N186: 0.982158
+N187: 1.78451
+Carex_lupuliformis: 0.807317
+Carex_retrorsa: 4.75526
+N188: 1.33892
+Carex_lurida: 2.83306
+N190: 0.839403
+Carex_hystericina: 1.06894
+N191: 0.932061
+Carex_comosa: 1.00095
+Carex_pseudocyperus: 1.55025
+Carex_oligosperma: 5.51818
+N195: 1.18599
+N197: 1.4579
+Carex_songorica: 4.92215
+Carex_atherodes: 2.02757
+Carex_fedia: 2.76016
+Carex_houghtoniana: 1.25538
+N198: 1.28233
+Carex_lasiocarpa: 0.83814
+Carex_pellita: 5.8109
+N202: 0.899869
+Carex_pumila: 1.45667
+Carex_lacustris: 4.12897
+N204: 2.46222
+N205: 0.690882
+N206: 2.04849
+Carex_utriculata: 1.71844
+Carex_rotundata: 1.00835
+Carex_rostrata: 1.39215
+Carex_membranacea: 0.970421
+N208: 1.80327
+Carex_vesicaria: 2.71313
+Carex_saxatilis: 1.99698
+N209: 0.914546
+N210: 2.12841
+Carex_phacota_var._gracilispica: 9.23688
+Carex_frankii: 11.2273
+N211: 1.10062
+Carex_intumescens: 3.9725
+Carex_grayi: 4.62989
+N212: 1.99418
+N213: 1.09744
+N214: 0.771198
+Carex_stylosa: 5.44145
+N215: 5.22711
+N216: 2.84237
+N217: 0.672975
+N218: 2.28096
+Carex_augustinowiczii: 3.91615
+Carex_typhina: 1.42009
+Carex_squarrosa: 1.69116
+N222: 2.33638
+Carex_gynandra: 1.7781
+Carex_mitchelliana: 1.13888
+Carex_torta: 1.13888
+Carex_crinita: 1.47794
+N225: 0.822123
+Carex_nebraskensis: 2.17292
+N229: 0.835939
+Carex_spectabilis: 0.857982
+N230: 1.87266
+Carex_stricta: 0.846406
+Carex_bigelowii: 1.23711
+N233: 0.954147
+Carex_scopulorum: 2.6136
+Carex_nudata: 0.714893
+N237: 1.05313
+N238: 0.739665
+Carex_salina: 1.79522
+N239: 0.757409
+N240: 0.962307
+Carex_subspathacea: 0.70527
+N241: 0.533336
+Carex_ramenskii: 2.08837
+N242: 0.655314
+N243: 1.8628
+Carex_eleusinoides: 4.85405
+Carex_dacica: 3.15584
+N245: 1.01064
+N246: 5.12971
+Carex_trinervis: 1.95687
+Carex_nigra: 0.714327
+Carex_orbicularis: 1.32151
+Carex_reuteriana: 1.79303
+Carex_macrochaeta: 0.813834
+Carex_mertensii: 1.13193
+N255: 0.816793
+Carex_emoryi: 3.53661
+Carex_interrupta: 1.07456
+Carex_podocarpa: 2.14699
+Carex_obnupta: 5.12826
+N257: 2.15104
+Carex_rariflora: 0.639413
+Carex_magellanica: 3.47216
+Carex_limosa: 5.01585
+Carex_pichinchensis: 12.023
+Carex_meyeriana: 6.22891
+Carex_alopecuroides: 11.9456
+N260: 1.07862
+Carex_pedunculata: 6.47662
+N261: 8.85406
+Carex_halleriana: 2.3784
+Carex_rorulenta: 1.8541
+N262: 1.67682
+N263: 1.9093
+Carex_scabrata: 9.63427
+N264: 2.49065
+Carex_scabriuscula: 8.09949
+N265: 1.06877
+Carex_curatorum: 8.10108
+Carex_scirpoidea: 8.10108
+N266: 1.73338
+N267: 1.6888
+N268: 3.21449
+Carex_hirtifolia: 3.82502
+N269: 2.27637
+N270: 0.797352
+Carex_gracillima: 1.0851
+Carex_formosa: 1.0851
+N274: 1.55689
+Carex_hirtissima: 3.13399
+Carex_castanea: 0.607706
+Carex_arctata: 1.85751
+Carex_mendocinensis: 2.92977
+Carex_debilis: 3.85803
+N279: 0.557455
+Carex_swanii: 1.48086
+N281: 1.81826
+Carex_misera: 7.01052
+Carex_aestivalis: 1.0017
+N282: 1.58829
+Carex_torreyi: 7.43599
+Carex_pallescens: 9.02642
+N283: 1.43581
+Carex_acutiformis: 5.30431
+N284: 8.2012
+Carex_nemostachys: 8.42176
+Carex_ischnostachya: 2.7508
+N285: 0.535098
+N286: 3.5301
+N287: 4.48784
+N288: 0.860202
+Carex_delicata: 1.4615
+Carex_ledebouriana: 0.798463
+Carex_williamsii: 4.67259
+N290: 3.23784
+Carex_frigida: 12.3734
+N291: 0.844961
+N292: 1.35038
+N295: 6.77295
+Carex_rainbowii: 3.15493
+N296: 0.797427
+Carex_sylvatica: 2.33486
+Carex_cretica: 2.33486
+N297: 2.06493
+Carex_strigosa: 10.0458
+N298: 6.38252
+Carex_hostiana: 1.40598
+N299: 0.505964
+Carex_castroviejoi: 1.99252
+N300: 1.31026
+Carex_flava: 0.607552
+Carex_cryptolepis: 1.21435
+N303: 2.42798
+Carex_derelicta: 0.664251
+Carex_demissa: 0.598254
+Carex_viridula: 2.32697
+N306: 3.48544
+Carex_doniana: 8.04339
+N307: 3.59834
+Carex_microcarpa: 3.80103
+N308: 0.599151
+Carex_pendula: 2.66888
+Carex_bequaertii: 2.66888
+N309: 4.65179
+N310: 4.75251
+N311: 0.573316
+Carex_helodes: 4.69637
+N312: 0.827596
+Carex_perraudieriana: 4.06091
+Carex_aethiopica: 3.54768
+Carex_mairei: 2.14552
+Carex_paulo-vargasii: 3.59898
+N319: 0.525868
+Carex_simensis: 1.9816
+Carex_fischeri: 1.56574
+Carex_petitiana: 0.980664
+Carex_petitiana_subsp._attenuata: 0.980664
+N325: 1.04514
+N326: 0.869624
+Carex_binervis: 2.82039
+Carex_camposii: 2.20699
+Carex_fissirostris: 1.71229
+Carex_laevigata: 2.23863
+Carex_hochstetteriana: 4.78517
+Carex_lowei: 5.01618
+N329: 1.87271
+Carex_punctata: 2.27261
+Carex_fuscula: 1.84999
+N330: 0.62018
+N331: 0.663418
+N332: 3.05903
+Carex_extensa: 2.36534
+Carex_vixdentata: 2.5434
+Carex_ecklonii: 3.10484
+N334: 2.20814
+N335: 4.04191
+N336: 1.04152
+Carex_idaea: 2.3198
+Carex_distans: 3.45517
+Carex_lainzii: 5.24639
+N338: 7.06415
+Carex_calcis: 1.03455
+N339: 7.97708
+Carex_michauxiana: 5.6706
+Carex_folliculata: 3.63463
+Carex_richardsonii: 18.2008
+Carex_kitaibeliana: 17.4267
+N340: 15.381
+Carex_echinochloe: 11.2961
+Carex_filicina: 11.2961
+N341: 5.94001
+N342: 9.63829
+Carex_humilis_var._nana: 11.3178
+N343: 10.9301
+N344: 4.1125
+Carex_pediformis_subsp._macroura: 4.03646
+Carex_rhizina_subsp._rhizina: 4.03646
+Carex_pediformis: 3.43105
+N346: 18.4051
+Carex_quadriflora: 4.11274
+N347: 3.26426
+Carex_pallidula: 1.74417
+N348: 1.61908
+Carex_ornithopoda: 1.19815
+Carex_digitata: 0.622011
+N349: 1.50553
+N350: 0.874304
+N351: 1.13564
+N352: 13.1631
+Carex_tristachya: 4.79534
+Carex_tristachya_var._pocilliformis: 3.79444
+N353: 1.90358
+N354: 2.65138
+Carex_gifuensis: 13.4879
+N355: 14.3995
+N356: 1.93943
+Carex_michelii: 1.66326
+Carex_nodaeana: 5.92596
+N357: 3.63369
+Carex_tsushimensis: 10.1472
+N358: 1.78899
+Carex_blepharicarpa: 7.97154
+Carex_pisiformis_var._sikokiana: 12.335
+N359: 3.91963
+N360: 8.16365
+N361: 7.88101
+Carex_holostoma: 3.65133
+Carex_adelostoma: 1.69825
+Carex_buxbaumii: 1.66479
+Carex_hartmanii: 6.88855
+N364: 3.14082
+Carex_melanantha: 5.35028
+N365: 2.30483
+N366: 0.638478
+Carex_albonigra: 2.74097
+Carex_atrata: 1.72541
+Carex_atratiformis: 1.72541
+Carex_norvegica: 2.35992
+Carex_media: 2.35992
+Carex_gmelinii: 5.1952
+Carex_melanocephala: 1.80239
+N374: 0.934034
+Carex_bella: 0.788531
+N376: 0.79779
+Carex_parviflora: 1.91345
+Carex_raynoldsii: 3.28033
+N377: 2.29289
+Carex_obscura_var._brachycarpa: 4.95235
+N379: 2.1004
+Carex_infuscata: 2.22246
+Carex_caucasica: 1.6908
+N380: 8.19653
+Carex_sprengelii: 6.91826
+Carex_arnellii: 6.4882
+N381: 1.41193
+Carex_liparocarpos: 17.6058
+N382: 2.08801
+N383: 1.57387
+N384: 4.93438
+Carex_petricosa: 7.64796
+N385: 1.91208
+Carex_inanis: 8.1657
+Carex_baccans: 9.27832
+N386: 3.96168
+Carex_pilulifera: 5.78737
+N387: 5.49325
+N388: 0.984318
+Carex_inops: 2.93001
+Carex_albicans: 2.93001
+Carex_nigromarginata: 2.51606
+Carex_peckii: 3.38087
+N392: 0.795256
+Carex_rossii: 2.96701
+Carex_pensylvanica: 3.12553
+N395: 1.34972
+Carex_lucorum: 3.74501
+Carex_tonsa: 0.527016
+Carex_communis: 1.81057
+N398: 5.29367
+N399: 2.54499
+Carex_glacialis: 6.6463
+Carex_supina: 7.6942
+N400: 3.82653
+Carex_fritschii: 4.45981
+N401: 3.93469
+Carex_montana: 2.82472
+Carex_tricolor: 0.679808
+Carex_durieui: 31.8641
+N403: 10.6393
+N404: 12.3049
+N405: 3.67857
+N406: 17.2554
+Carex_physodes: 1.00512
+Carex_pachystylis: 1.00512
+N407: 10.9174
+N408: 15.6929
+Carex_siccata: 3.94295
+N409: 0.770774
+Carex_pseudofoetida_subsp._afghanica: 0.824476
+N410: 12.4996
+Carex_hookeriana: 3.73146
+N411: 0.60831
+N412: 2.43329
+Carex_curaica: 2.11401
+N413: 0.749211
+Carex_disticha: 0.67119
+Carex_sartwellii: 0.615108
+Carex_disticha_subsp._lithophila: 0.615108
+Carex_hoodii: 3.51492
+N415: 1.76722
+N416: 1.6268
+N417: 4.31036
+N418: 16.214
+Carex_retroflexa: 3.12775
+N419: 2.11302
+N420: 1.31761
+Carex_radiata: 3.74763
+Carex_rosea: 2.11097
+N421: 0.609411
+Carex_appalachica: 2.80085
+Carex_socialis: 4.46938
+N422: 23.5613
+Carex_kobomugi: 5.71119
+Carex_macrocephala: 2.91432
+N423: 19.8085
+Carex_leiorhyncha: 6.23163
+N424: 3.89657
+Carex_nubigena: 6.41884
+N425: 0.811302
+Carex_albata: 6.74199
+Carex_neurocarpa: 6.74199
+N426: 3.67821
+N427: 2.91976
+N428: 1.21511
+Carex_decomposita: 22.885
+N429: 4.42113
+N430: 3.81499
+N431: 0.587077
+N432: 3.18707
+Carex_bromoides: 11.1876
+Carex_vernacula: 7.61369
+N433: 3.28184
+Carex_cephalophora: 6.5668
+N434: 2.10736
+N435: 0.666066
+Carex_aggregata: 4.56649
+Carex_cephaloidea: 3.87181
+N438: 0.926193
+Carex_conjuncta: 1.73208
+Carex_alopecoidea: 2.58589
+Carex_triangularis: 4.27125
+Carex_densa: 4.23179
+Carex_vulpinoidea: 3.68312
+Carex_leavenworthii: 4.33873
+N441: 2.64814
+N442: 3.31276
+Carex_simulata: 8.35208
+N443: 2.51217
+Carex_cusickii: 5.30234
+Carex_diandra: 4.78825
+Carex_occidentalis: 10.7183
+N444: 7.8417
+N445: 2.16053
+N446: 1.84921
+N447: 0.620521
+Carex_gravida: 1.70098
+Carex_mesochorea: 1.70098
+N448: 0.918937
+Carex_annectens: 1.89196
+Carex_sparganioides: 1.3987
+Carex_muehlenbergii: 3.92547
+N449: 2.77558
+N450: 4.91333
+Carex_praegracilis: 1.62789
+Carex_pansa: 1.10873
+Carex_prairea: 8.41752
+N451: 5.46756
+Carex_nervina: 15.3969
+N452: 2.18089
+Carex_crus-corvi: 13.3042
+Carex_conferta: 13.3042
+N453: 4.58395
+N454: 1.65196
+N455: 1.32468
+N456: 6.74945
+Carex_appropinquata: 12.5266
+Carex_appressa: 11.5332
+N457: 9.22492
+Carex_deweyana: 7.535
+N458: 1.27991
+N459: 3.17903
+Carex_leptopoda: 3.0452
+Carex_bolanderi: 1.98718
+Carex_infirminervia: 4.38174
+N460: 6.41412
+Carex_foetida: 12.6462
+N461: 4.36425
+Carex_elongata: 7.69595
+N462: 2.33538
+N463: 0.804807
+Carex_exilis: 6.47717
+Carex_seorsa: 2.75693
+N464: 1.18373
+Carex_atlantica: 1.69098
+N465: 3.28667
+Carex_echinata: 1.65517
+N466: 4.8653
+N467: 1.0893
+N468: 3.8444
+Carex_maackii: 13.0635
+N469: 5.05278
+Carex_resectans: 6.00528
+N470: 3.79503
+Carex_kirkii: 4.62594
+Carex_trachycarpa: 4.08875
+N471: 11.6364
+N472: 1.05875
+N474: 3.77745
+Carex_praticola: 2.17387
+N477: 1.08769
+Carex_leporinella: 2.60708
+Carex_phaeocephala: 3.26735
+Carex_argyrantha: 3.56563
+Carex_davyi: 2.56284
+N478: 1.35688
+N480: 2.01777
+Carex_subfusca: 4.72405
+Carex_mariposana: 4.14581
+Carex_gracilior: 7.39201
+Carex_preslii: 5.71247
+N484: 1.93289
+Carex_pachystachya: 3.03869
+Carex_macloviana: 5.42668
+N485: 1.18529
+N486: 2.38914
+Carex_harfordii: 1.76582
+Carex_subbracteata: 1.76582
+Carex_abrupta: 3.22936
+Carex_leporina: 2.10987
+N491: 0.639123
+Carex_cumulata: 0.538103
+Carex_crawfordii: 1.43257
+N494: 1.0378
+Carex_tribuloides_var._sangamonensis: 1.04387
+N497: 0.501154
+N498: 0.558296
+N500: 1.51842
+Carex_oronensis: 1.97451
+N507: 0.775845
+Carex_tincta: 1.14817
+Carex_echinodes: 2.1194
+Carex_normalis: 0.645477
+Carex_muskingumensis: 4.245
+Carex_bicknellii: 2.26048
+Carex_silicea: 1.71831
+Carex_molestiformis: 1.44083
+Carex_hyalina: 2.68458
+Carex_reniformis: 5.60639
+Carex_ozarkana: 0.745422
+N518: 3.89819
+N519: 0.858108
+N520: 0.937945
+Carex_alata: 2.86984
+Carex_vexans: 1.38596
+Carex_suberecta: 2.3656
+Carex_scoparia_var._tessellata: 1.37994
+Carex_scoparia_var._scoparia: 1.09363
+N526: 1.06718
+Carex_athrostachya: 1.76357
+Carex_sychnocephala: 0.979029
+N527: 2.59462
+Carex_petasata: 1.88879
+Carex_adusta: 5.60874
+N528: 1.95408
+Carex_foenea: 6.73145
+N529: 1.04069
+Carex_feta: 2.1759
+Carex_bohemica: 5.23806
+N530: 2.96058
+Carex_straminiformis: 6.77891
+N531: 1.70437
+N532: 1.59106
+Carex_fracta: 0.794723
+Carex_integra: 3.76381
+Carex_multicostata: 2.07067
+N534: 1.07742
+N535: 2.62317
+Carex_haydeniana: 1.23866
+Carex_ebenea: 1.92686
+Carex_microptera: 0.673407
+Carex_peucophila: 1.71304
+N537: 1.69039
+N538: 5.37378
+Carex_chordorrhiza: 9.92161
+Carex_pseudocuraica: 3.79706
+N539: 0.801603
+N540: 3.04368
+N541: 2.90398
+N542: 1.7031
+Carex_bonanzensis: 3.77074
+N543: 2.77321
+Carex_traiziscana: 3.89424
+N544: 1.5584
+Carex_lapponica: 0.552849
+N546: 1.11344
+N547: 1.47798
+N549: 0.683834
+Carex_trisperma: 3.83196
+N552: 0.963575
+Carex_nemurensis: 1.16037
+N553: 1.04968
+N554: 0.642274
+Carex_mackenziei: 2.01467
+Carex_lachenalii: 2.01467
+N555: 1.60049
+Carex_ursina: 1.06125
+Carex_glareosa: 1.71687
+Carex_heleonastes: 2.47127
+N556: 1.93057
+Carex_loliacea: 0.962262
+Carex_marina: 2.40156
+Carex_tenuiflora: 4.50013
+N557: 2.03936
+Carex_brunnescens: 1.95403
+Carex_brunnescens_subsp._sphaerostachya: 1.95403
+Carex_furva: 6.6671
+N558: 4.81297
+Carex_laeviculmis: 4.97186
+N559: 2.8425
+Carex_arcta: 3.00804
+Carex_illota: 4.12763
+Carex_disperma: 16.2445
+N561: 1.24769
+N562: 3.17096
+N563: 9.30369
+Carex_paniculata: 1.05827
+N564: 2.92574
+N565: 2.31235
+Carex_otrubae: 2.96951
+Carex_spicata: 2.96624
+Carex_muricata_subsp._muricata: 2.34793
+N569: 1.67947
+Carex_leersii: 0.568006
+Carex_pairae: 0.568006
+Carex_divulsa: 2.63181
+Carex_canariensis: 5.42733
+N570: 1.63718
+N571: 2.02541
+N573: 2.62972
+Carex_duriuscula: 5.61544
+Carex_stenophylla: 5.61544
+N574: 3.26895
+N575: 1.42715
+Carex_davalliana: 0.506885
+Carex_gynocrates: 2.22031
+Carex_dioica: 3.26377
+N577: 1.47211
+N578: 0.839729
+N580: 2.10927
+Carex_brizoides: 2.4731
+N582: 0.948489
+Carex_praecox: 1.47086
+Carex_colchica: 1.47086
+N583: 1.02002
+Carex_arenaria: 1.90809
+Carex_pseudobrizoides: 1.90809
+N584: 4.363
+Carex_planata: 2.98383
+Carex_rochebrunii: 2.36021
+Carex_remota: 6.57628
+Carex_divisa: 6.94155
+N585: 7.52094
+Carex_stipata: 0.972088
+Carex_laevivaginata: 0.510976
+Carex_gibba: 37.6139
+N586: 33.7907
+N587: 11.2131
+Carex_lingii: 17.824
+N588: 3.9746
+N589: 1.79196
+Carex_grandiligulata: 12.0115
+Carex_pachygyna: 12.0115
+Carex_siderosticta: 13.8004
+Carex_scaposa: 32.7346
+N590: 29.2212
+N591: 55.9996
+N592: 2.29548
+N593: 2.98132
+Trichophorum_alpinum: 14.4937
+Trichophorum_pumilum: 19.0193
+Trichophorum_cespitosum: 25.6044
+Trichophorum_uniflorum: 23.3258
+N594: 17.899
+N595: 46.6646
+Scirpus_lineatus: 6.88148
+Scirpus_pendulus: 7.86306
+N596: 28.7633
+N597: 2.95245
+Scirpus_maximowiczii: 28.3115
+N599: 13.4879
+N600: 3.47494
+Scirpus_polyphyllus: 9.67915
+N601: 6.12208
+Scirpus_atrovirens: 1.25456
+Scirpus_georgianus: 1.67714
+N603: 2.66714
+Scirpus_pallidus: 0.568248
+Scirpus_ancistrochaetus: 12.1747
+N604: 10.6645
+Scirpus_radicans: 15.6685
+N605: 6.68726
+N606: 4.50542
+Scirpus_sylvaticus: 5.84662
+Scirpus_microcarpus: 6.33973
+Scirpus_expansus: 10.9096
+N607: 3.38154
+N608: 10.976
+Scirpus_polystachyus: 15.9514
+N609: 5.47934
+Scirpus_longii: 11.9353
+N610: 5.8867
+Scirpus_pedicellatus: 6.44677
+N611: 3.43814
+Scirpus_atrocinctus: 2.93075
+Scirpus_cyperinus: 2.43986
+N612: 8.61838
+N613: 6.59787
+N614: 1.17291
+Eriophorum_angustifolium: 9.87155
+N615: 1.16837
+N616: 5.65339
+Eriophorum_callitrix: 3.42488
+N617: 1.58924
+Scirpus_hattorianus: 0.788666
+Eriophorum_vaginatum: 1.26286
+N618: 2.47192
+N619: 0.939503
+Eriophorum_brachyantherum: 5.17619
+Eriophorum_scheuchzeri: 5.17619
+Eriophorum_chamissonis: 6.67005
+Eriophorum_latifolium: 10.1349
+N620: 10.1897
+Eriophorum_virginicum: 7.49553
+Eriophorum_gracile: 8.01851
+N621: 70.6413
+N622: 17.0189
+Blysmus_compressus: 22.0558
+Blysmus_rufus: 21.048
+Dulichium_arundinaceum: 36.205
+Total number of gain events: 4879.67
+#+++++++++++++++++++++++++++++
+
+#Nodes with LOSS events with expectation above 0.5
+N2: 6.65944
+N3: 33.2594
+N4: 15.6915
+N5: 7.59657
+N6: 8.41533
+N7: 5.31208
+Carex_microglochin: 29.6538
+N8: 8.70757
+Carex_baldensis: 14.5787
+Carex_curvula: 15.348
+N9: 2.03255
+N10: 0.876305
+N11: 12.6936
+N12: 3.82665
+Carex_pauciflora: 18.4431
+N13: 6.59152
+N14: 5.4594
+Carex_micropoda: 2.71624
+Carex_pyrenaica: 6.17692
+Carex_anthoxanthea: 20.0768
+N15: 1.38639
+N16: 1.19236
+N17: 2.8037
+N18: 13.2671
+Carex_alatauensis: 8.07627
+Carex_simpliciuscula: 9.02839
+N19: 10.8726
+Carex_macroprophylla: 14.8732
+N20: 6.24473
+N21: 5.49884
+Carex_cercostachys: 2.14342
+Carex_neesii: 3.59005
+N22: 1.07636
+N23: 1.16186
+Carex_parvula: 5.45483
+N24: 2.66333
+Carex_deasyi: 11.5446
+N25: 2.31721
+Carex_myosuroides: 2.06094
+Carex_borealipolaris: 2.06094
+Carex_esenbeckii: 6.10899
+N26: 0.916948
+N27: 1.83881
+N28: 11.4378
+N29: 1.75606
+Carex_phleoides: 7.80603
+N30: 7.62581
+N31: 2.46278
+N32: 7.10648
+Carex_longifructus: 1.68438
+Carex_drucei: 1.68438
+N33: 1.58787
+N34: 0.794355
+Carex_austrocompacta: 6.46993
+N35: 1.32415
+N36: 2.5568
+Carex_subviridis: 1.52801
+Carex_banksiana: 1.06706
+Carex_obtusifolia: 0.847019
+N42: 0.512711
+N44: 0.688178
+Carex_cyanea: 0.796415
+Carex_healyi: 0.532246
+Carex_punicea: 1.58639
+Carex_purpurata: 1.46366
+Carex_strictissima: 1.46366
+Carex_silvestris: 1.60325
+Carex_egmontiana: 1.42573
+Carex_astricta: 0.723041
+Carex_zotovii: 0.723041
+N53: 0.649018
+Carex_umbricola: 2.34405
+N54: 1.33818
+N55: 2.69137
+N56: 2.3985
+N57: 0.798559
+N58: 2.17977
+Carex_crispa: 1.40979
+Carex_edura: 1.40979
+Carex_erebus: 7.2863
+N59: 1.93592
+Carex_leptalea: 26.0961
+N60: 20.4714
+Carex_nardina: 2.08831
+Carex_filifolia: 6.59364
+N61: 6.29753
+Carex_rupestris: 24.0665
+N62: 8.73133
+Carex_obtusata: 14.6874
+N63: 8.68632
+Carex_capitata: 6.41926
+Carex_runssoroensis: 6.41926
+Carex_bonatiana: 32.5849
+N64: 22.0147
+N65: 4.11611
+Carex_saximontana: 5.57927
+Carex_backii: 4.96124
+N66: 0.647527
+Carex_latebracteata: 2.63427
+N67: 3.8932
+Carex_willdenowii: 1.83028
+Carex_jamesii: 4.96937
+N68: 13.8574
+Carex_pseudorufa: 27.7846
+N69: 2.93199
+N70: 9.81123
+N71: 11.3687
+N72: 3.46594
+Carex_uhligii: 10.1201
+Carex_schimperiana: 10.6855
+Carex_spartea: 12.4948
+N73: 7.06543
+Carex_ludwigii: 15.7308
+Carex_killickii: 10.718
+N74: 0.947178
+N75: 7.06093
+Carex_lancea: 16.6473
+N76: 9.12129
+Carex_schweickerdtii: 8.98204
+Carex_capensis: 15.0569
+N77: 4.07071
+Carex_distachya: 17.9604
+N78: 3.8667
+Carex_oedipostyla: 15.0792
+N79: 6.75975
+Carex_pulicaris: 10.127
+Carex_peregrina: 9.58677
+N80: 1.3829
+N81: 6.20807
+Carex_bostrychostigma: 46.3534
+N82: 11.5323
+N83: 5.34821
+Carex_cruciata: 29.6978
+N84: 14.3457
+Carex_brunnea: 12.4598
+N85: 13.4853
+Carex_ussuriensis: 7.05677
+N86: 1.65638
+Carex_alba: 2.32485
+Carex_eburnea: 2.32485
+N87: 4.13768
+N88: 1.88826
+N89: 0.929041
+N90: 7.7417
+N91: 3.38331
+N92: 6.41941
+Carex_macrolepis: 11.9317
+Carex_mucronata: 11.9317
+N93: 12.0045
+Carex_firma: 6.81497
+Carex_sempervirens_subsp._sempervirens: 7.32236
+N94: 0.75629
+N95: 21.6804
+Carex_melanocarpa: 2.66911
+Carex_ericetorum: 1.06411
+N96: 5.65886
+N97: 0.655031
+N98: 2.07238
+Carex_acaulis: 9.19163
+N99: 0.735428
+N100: 3.26729
+Carex_flacca_subsp._flacca: 7.98687
+N101: 0.691243
+Carex_grioletii: 4.90539
+Carex_hispida: 7.26667
+N102: 5.04364
+Carex_ferruginea: 3.2731
+N103: 5.47416
+Carex_caudata: 6.02211
+Carex_austroalpina: 1.07887
+N104: 1.08203
+Carex_asturica: 11.0522
+Carex_depauperata: 11.467
+Carex_fimbriata: 13.7652
+N106: 5.71531
+N108: 0.588096
+N109: 0.513603
+N110: 6.65488
+N111: 1.90738
+N112: 1.85106
+Carex_conoidea: 4.50054
+N113: 4.0831
+N114: 1.62345
+Carex_corrugata: 0.753571
+Carex_grisea: 0.627133
+N116: 1.08226
+Carex_godfreyi: 1.9283
+N117: 1.32601
+Carex_oligocarpa: 2.00687
+N118: 0.606016
+Carex_bulbostylis: 1.42786
+N119: 0.553084
+N120: 1.32345
+Carex_acidicola: 0.613748
+N121: 1.17986
+Carex_planispicata: 0.66733
+N122: 0.500387
+Carex_paeninsulae: 0.858987
+N123: 1.66389
+N124: 1.05484
+N125: 0.905339
+Carex_austrocaroliniana: 4.7999
+Carex_plantaginea: 7.02852
+N126: 0.992117
+Carex_platyphylla: 2.49011
+Carex_careyana: 2.8348
+N127: 0.636472
+N129: 4.41354
+Carex_brysonii: 3.08754
+Carex_hitchcockiana: 2.08721
+N130: 2.57621
+N131: 4.32152
+Carex_impressinervia: 1.97263
+Carex_ouachitana: 4.421
+N132: 4.07217
+N133: 1.77142
+N134: 1.68243
+Carex_cumberlandensis: 1.50843
+Carex_laxiculmis: 1.50843
+Carex_abscondita: 2.70918
+N135: 2.23726
+N136: 1.3165
+Carex_gholsonii: 5.05947
+Carex_flaccosperma: 1.51703
+Carex_glaucodea: 2.08525
+Carex_granularis: 4.91347
+Carex_crawei: 0.806206
+Carex_edwardsiana: 11.8391
+N141: 0.943912
+N142: 8.20022
+N143: 1.42846
+Carex_umbrosa_subsp._huetiana: 4.66695
+N145: 1.04712
+Carex_pisiformis: 2.70196
+Carex_depressa: 4.15913
+Carex_caryophyllea: 5.01313
+N146: 0.839596
+N147: 3.29531
+Carex_nervata: 0.65313
+Carex_breviculmis_var._fibrillosa: 2.01563
+Carex_mitrata: 5.1617
+Carex_macrandrolepis: 13.7586
+N148: 2.26113
+N149: 9.17096
+Carex_atrofusca: 11.2246
+Carex_cruenta: 9.53382
+N150: 1.90473
+N151: 1.86466
+N152: 1.19444
+Carex_tomentosa: 12.7758
+Carex_hordeistichos: 10.7627
+N154: 3.6644
+N155: 1.619
+N156: 2.77794
+Carex_laxa: 2.60337
+Carex_papulosa: 5.46696
+N157: 1.26912
+N158: 1.83105
+N159: 5.36325
+Carex_vaginata: 2.81748
+Carex_filipes: 1.20958
+Carex_panicea: 8.18003
+N160: 0.729802
+N161: 3.76515
+Carex_manhartii: 6.80828
+N163: 0.95662
+N164: 0.766987
+Carex_woodii: 0.930271
+Carex_purpurifera: 2.49867
+N165: 5.46739
+Carex_aurea: 0.635815
+N169: 0.541384
+N170: 0.633004
+Carex_albursina: 1.31025
+Carex_leptonervia: 3.25939
+N173: 0.894707
+Carex_laxiflora: 0.862502
+Carex_striatula: 2.38426
+Carex_blanda: 1.94894
+Carex_crebriflora: 1.76982
+Carex_styloflexa: 0.856027
+Carex_olbiensis: 5.64463
+Carex_pilosa: 9.55271
+Carex_assiniboinensis: 18.3139
+N177: 12.1481
+Carex_tristis: 6.21791
+N178: 1.57823
+Carex_fuliginosa: 4.07612
+Carex_stenocarpa: 4.07612
+N179: 1.96751
+N180: 2.42592
+N181: 1.21057
+N182: 1.46426
+N184: 1.30856
+N185: 3.01646
+N186: 1.44453
+N187: 5.16892
+Carex_lupulina: 1.36445
+Carex_retrorsa: 2.44483
+N188: 0.531696
+Carex_lurida: 4.79304
+N190: 2.69783
+Carex_hystericina: 4.23632
+N191: 0.739037
+Carex_comosa: 1.36139
+Carex_pseudocyperus: 0.910697
+Carex_oligosperma: 2.0461
+Carex_songorica: 0.695819
+Carex_atherodes: 1.72109
+Carex_houghtoniana: 7.80053
+N199: 1.93332
+Carex_lasiocarpa: 6.58485
+Carex_pellita: 0.712886
+N202: 1.34537
+N203: 0.529394
+Carex_melanostachya: 5.22688
+Carex_rotundata: 0.75241
+N207: 0.610065
+Carex_rostrata: 1.24425
+Carex_membranacea: 1.82252
+Carex_vesicaria: 0.842465
+Carex_saxatilis: 1.12632
+N209: 0.654768
+Carex_phacota_var._gracilispica: 5.18501
+Carex_frankii: 4.22538
+N211: 3.71284
+Carex_intumescens: 8.59544
+Carex_grayi: 7.25284
+N212: 2.32544
+N213: 0.660013
+N214: 1.45785
+Carex_stylosa: 8.0089
+N215: 6.72701
+Carex_haydenii: 0.562946
+Carex_aperta: 0.562946
+N216: 0.903663
+N217: 0.854131
+N218: 1.09929
+N220: 0.619547
+Carex_augustinowiczii: 2.56894
+N221: 1.74503
+Carex_typhina: 4.56269
+Carex_squarrosa: 3.83381
+N222: 1.45549
+Carex_gynandra: 0.904557
+Carex_mitchelliana: 1.25913
+Carex_torta: 1.25913
+Carex_crinita: 1.50199
+N228: 0.684964
+Carex_nebraskensis: 2.19428
+N229: 1.99395
+Carex_microchaeta: 1.34216
+Carex_spectabilis: 0.721321
+N232: 0.751106
+Carex_stricta: 1.78102
+Carex_bigelowii: 1.17172
+Carex_scopulorum: 0.569225
+Carex_lenticularis: 1.49325
+Carex_angustata: 1.49325
+Carex_nudata: 1.20692
+Carex_paleacea: 1.27203
+Carex_lyngbyei: 1.69948
+Carex_eleusinoides: 0.526639
+Carex_dacica: 0.810644
+N248: 1.46406
+Carex_elata: 1.89004
+Carex_appendiculata: 0.909092
+Carex_reuteriana: 1.35313
+N253: 0.55351
+N254: 1.53155
+Carex_macrochaeta: 2.36865
+Carex_mertensii: 1.68675
+Carex_emoryi: 0.739815
+Carex_interrupta: 2.27776
+Carex_podocarpa: 3.1526
+Carex_obnupta: 2.01494
+N256: 1.32131
+N257: 6.50979
+Carex_pluriflora: 1.09393
+Carex_magellanica: 4.70942
+Carex_limosa: 3.25311
+Carex_pichinchensis: 3.09833
+Carex_meyeriana: 12.0458
+Carex_alopecuroides: 9.9733
+N260: 3.03321
+Carex_pedunculata: 18.0827
+N261: 9.1
+Carex_halleriana: 1.90843
+Carex_rorulenta: 2.38413
+N262: 0.931222
+N263: 1.33605
+Carex_scabrata: 10.6887
+N264: 1.57232
+Carex_scabriuscula: 8.07029
+N265: 0.679145
+Carex_curatorum: 6.46077
+Carex_scirpoidea: 6.46077
+N266: 1.37797
+N267: 1.34464
+N268: 4.10123
+Carex_hirtifolia: 6.11516
+N269: 1.82061
+N270: 1.93777
+Carex_gracillima: 1.69057
+Carex_formosa: 1.69057
+N274: 0.610563
+Carex_gynodynama: 3.9485
+N276: 0.72444
+Carex_castanea: 5.47344
+Carex_arctata: 1.75106
+Carex_mendocinensis: 1.46114
+Carex_debilis: 1.70362
+N278: 1.40003
+N279: 2.00403
+Carex_caroliniana: 1.69325
+Carex_swanii: 1.51304
+Carex_misera: 0.895163
+Carex_aestivalis: 2.6384
+N282: 0.9941
+Carex_torreyi: 7.20789
+Carex_pallescens: 5.80479
+N283: 1.43893
+Carex_acutiformis: 14.1324
+N284: 3.10123
+Carex_nemostachys: 1.58009
+Carex_ischnostachya: 5.09536
+N285: 0.637696
+N286: 13.1303
+N287: 7.04778
+Carex_delicata: 0.531074
+Carex_ledebouriana: 0.867884
+N289: 4.6831
+Carex_williamsii: 11.4362
+N290: 0.998812
+Carex_frigida: 12.6824
+N295: 7.57891
+Carex_rainbowii: 3.29664
+N296: 0.854877
+Carex_sylvatica: 2.41909
+Carex_cretica: 2.41909
+N297: 1.46527
+Carex_strigosa: 7.60011
+N298: 5.9894
+Carex_hostiana: 4.34657
+Carex_castroviejoi: 2.28447
+Carex_flava: 2.65472
+Carex_cryptolepis: 1.26152
+Carex_viridula: 0.786693
+N306: 3.38438
+Carex_doniana: 6.99196
+N307: 4.02534
+Carex_microcarpa: 3.32244
+N308: 0.766753
+Carex_pendula: 3.02266
+Carex_bequaertii: 3.02266
+N309: 2.04422
+N310: 2.15975
+Carex_helodes: 4.09387
+Carex_perraudieriana: 3.09492
+Carex_aethiopica: 2.43421
+Carex_mairei: 4.03205
+Carex_paulo-vargasii: 2.51519
+N319: 1.10322
+Carex_simensis: 2.32044
+N320: 0.648453
+Carex_fischeri: 1.61522
+Carex_petitiana: 0.908523
+Carex_petitiana_subsp._attenuata: 0.908523
+N324: 0.760875
+N325: 0.738441
+N326: 0.602137
+Carex_binervis: 2.07801
+Carex_camposii: 2.46867
+Carex_fissirostris: 2.04906
+Carex_laevigata: 1.5754
+Carex_hochstetteriana: 2.81859
+Carex_lowei: 2.95923
+N329: 2.87253
+Carex_punctata: 2.26633
+Carex_fuscula: 2.84372
+N330: 0.600405
+N331: 0.608957
+N332: 4.21802
+Carex_extensa: 3.68118
+Carex_vixdentata: 2.88723
+Carex_ecklonii: 2.44867
+N334: 1.47297
+N335: 3.17559
+Carex_troodi: 1.15389
+Carex_diluta: 3.97743
+Carex_lainzii: 4.45643
+N338: 7.45653
+Carex_forsteri: 1.7863
+N339: 7.12773
+Carex_michauxiana: 3.41789
+Carex_folliculata: 5.38167
+Carex_richardsonii: 17.569
+Carex_kitaibeliana: 23.9073
+N340: 16.2359
+Carex_echinochloe: 11.591
+Carex_filicina: 11.591
+N341: 6.09941
+N342: 7.99606
+Carex_humilis_var._nana: 15.9908
+N343: 6.3905
+N344: 1.06128
+Carex_pediformis_subsp._macroura: 2.04723
+Carex_rhizina_subsp._rhizina: 2.04723
+Carex_pediformis: 7.51806
+N346: 16.1086
+Carex_quadriflora: 5.46154
+N347: 2.14574
+Carex_pallidula: 2.21326
+N348: 0.84249
+Carex_digitata: 0.867727
+N349: 2.12947
+N350: 0.690581
+N351: 1.1943
+N352: 14.4163
+Carex_tristachya: 3.994
+Carex_tristachya_var._pocilliformis: 4.9924
+N353: 1.82941
+N354: 1.66695
+Carex_gifuensis: 15.0487
+N355: 8.08912
+N356: 3.18955
+Carex_brevicollis: 2.14914
+Carex_nodaeana: 1.96848
+N357: 5.55685
+Carex_tsushimensis: 13.737
+N358: 2.02069
+Carex_blepharicarpa: 12.3279
+Carex_pisiformis_var._sikokiana: 8.68415
+N359: 2.94572
+N360: 5.22729
+N361: 5.23203
+N362: 0.759411
+Carex_holostoma: 1.27225
+Carex_adelostoma: 3.17945
+Carex_buxbaumii: 4.66676
+Carex_hartmanii: 1.05987
+N364: 3.02464
+Carex_melanantha: 6.97001
+N365: 1.70682
+N366: 0.801455
+Carex_albonigra: 2.7561
+Carex_aterrima_subsp._medwedewii: 4.69898
+Carex_atrata: 1.52951
+Carex_atratiformis: 1.52951
+Carex_norvegica: 1.36753
+Carex_media: 1.36753
+Carex_gmelinii: 0.871605
+Carex_melanocephala: 2.47879
+N374: 1.07815
+Carex_bella: 6.69814
+Carex_parviflora: 1.52867
+Carex_raynoldsii: 0.895553
+N377: 1.34428
+Carex_obscura_var._brachycarpa: 3.19023
+N379: 1.92223
+Carex_infuscata: 1.63852
+Carex_caucasica: 2.10685
+N380: 9.61388
+Carex_sprengelii: 6.97727
+Carex_arnellii: 7.54519
+N381: 2.53151
+Carex_liparocarpos: 18.8459
+N382: 3.49933
+N383: 2.17181
+N384: 4.03859
+Carex_petricosa: 10.735
+N385: 1.11481
+Carex_inanis: 7.08001
+Carex_baccans: 6.23993
+N386: 6.68168
+Carex_pilulifera: 12.2437
+N387: 4.37138
+N388: 0.506055
+Carex_inops: 2.0647
+Carex_albicans: 2.0647
+Carex_nigromarginata: 2.59679
+Carex_peckii: 1.83843
+N392: 1.55504
+Carex_deflexa: 4.17519
+Carex_rossii: 0.671321
+Carex_pensylvanica: 1.69566
+N395: 1.54816
+Carex_umbellata: 1.26059
+Carex_tonsa: 0.524752
+Carex_novae-angliae: 1.6373
+Carex_communis: 4.20081
+N398: 6.43129
+N399: 2.40186
+Carex_glacialis: 7.43387
+Carex_supina: 6.49677
+N400: 4.92688
+Carex_fritschii: 5.99569
+N401: 3.76744
+Carex_montana: 0.53291
+N402: 2.28409
+Carex_riloensis: 1.9036
+Carex_durieui: 28.561
+N403: 10.3859
+N404: 10.0761
+N405: 5.0979
+N406: 33.7319
+Carex_physodes: 1.41064
+Carex_pachystylis: 1.41064
+N407: 7.65904
+N408: 12.2955
+Carex_siccata: 1.15255
+N409: 2.074
+Carex_pseudofoetida_subsp._afghanica: 0.729883
+Carex_maritima: 1.35218
+N410: 11.1515
+Carex_hookeriana: 4.79881
+N412: 1.57275
+Carex_curaica: 1.228
+N413: 0.837833
+Carex_disticha: 0.696553
+Carex_sartwellii: 0.637186
+Carex_disticha_subsp._lithophila: 0.637186
+Carex_hoodii: 3.76836
+N415: 1.0428
+N416: 1.21984
+N417: 3.51644
+N418: 19.3933
+Carex_retroflexa: 8.50854
+N419: 0.933009
+N420: 0.89858
+Carex_radiata: 1.73826
+Carex_rosea: 3.10161
+Carex_appalachica: 3.58761
+Carex_socialis: 2.25614
+N422: 15.9313
+Carex_kobomugi: 2.42805
+Carex_macrocephala: 4.62926
+N423: 17.7517
+Carex_leiorhyncha: 12.9572
+N424: 1.49632
+Carex_nubigena: 5.64543
+Carex_albata: 4.42978
+Carex_neurocarpa: 4.42978
+N426: 2.88619
+N427: 2.93411
+N428: 1.02649
+Carex_decomposita: 19.2041
+N429: 4.44392
+N430: 3.59855
+N431: 0.813825
+N432: 2.68284
+Carex_bromoides: 6.92742
+Carex_vernacula: 10.3233
+N433: 5.4144
+Carex_cephalophora: 8.6392
+N434: 2.64345
+N435: 0.618039
+Carex_aggregata: 4.15072
+Carex_cephaloidea: 4.452
+N438: 1.73989
+Carex_conjuncta: 3.53567
+Carex_alopecoidea: 2.38949
+Carex_triangularis: 3.03714
+Carex_densa: 3.00786
+Carex_vulpinoidea: 3.4592
+Carex_leavenworthii: 5.87492
+N441: 1.80279
+N442: 2.41892
+Carex_simulata: 6.5256
+N443: 2.34832
+Carex_cusickii: 4.63813
+Carex_diandra: 5.12408
+Carex_occidentalis: 9.99886
+N444: 8.36272
+N445: 4.65016
+N446: 2.54085
+N447: 0.846905
+Carex_gravida: 1.98706
+Carex_mesochorea: 1.98706
+N448: 0.925196
+Carex_annectens: 1.39817
+Carex_sparganioides: 1.90491
+Carex_muehlenbergii: 6.12962
+N449: 1.37858
+N450: 4.56002
+Carex_praegracilis: 1.07857
+Carex_pansa: 1.55941
+Carex_prairea: 4.5235
+N451: 6.51155
+Carex_nervina: 16.418
+N452: 2.43738
+Carex_crus-corvi: 14.0663
+Carex_conferta: 14.0663
+N453: 3.58197
+N454: 1.91613
+N455: 1.39994
+N456: 5.58143
+Carex_appropinquata: 10.4461
+Carex_appressa: 11.4404
+N457: 11.8002
+Carex_deweyana: 6.68944
+N458: 1.84761
+N459: 2.88344
+Carex_leptopoda: 1.92679
+Carex_bolanderi: 2.86877
+Carex_infirminervia: 6.96767
+N460: 7.04386
+Carex_foetida: 11.8344
+N461: 5.12804
+Carex_elongata: 7.11114
+N462: 2.97454
+N463: 0.62508
+Carex_exilis: 2.43099
+Carex_seorsa: 5.70761
+N464: 1.94703
+Carex_atlantica: 5.69837
+N465: 1.61323
+Carex_interior: 1.1381
+N466: 3.2819
+N468: 3.47058
+Carex_maackii: 11.744
+N469: 5.08074
+Carex_resectans: 8.65036
+N470: 2.65186
+Carex_kirkii: 3.41449
+Carex_trachycarpa: 3.87729
+N471: 5.2296
+N472: 0.608085
+N474: 3.06388
+Carex_praticola: 3.69456
+Carex_leporinella: 1.85758
+Carex_phaeocephala: 1.51785
+Carex_argyrantha: 2.88114
+Carex_davyi: 4.6746
+N478: 0.960678
+N480: 1.31043
+Carex_subfusca: 3.36337
+Carex_mariposana: 3.78513
+Carex_gracilior: 4.32395
+N481: 0.86334
+Carex_preslii: 4.28929
+N484: 0.939709
+Carex_pachystachya: 3.7571
+Carex_macloviana: 2.1451
+N485: 1.0149
+N486: 1.59993
+Carex_harfordii: 1.45034
+Carex_subbracteata: 1.45034
+Carex_abrupta: 4.12467
+N487: 2.75372
+N488: 0.506206
+N489: 1.46654
+N490: 0.517936
+Carex_leporina: 3.27624
+N491: 0.946167
+Carex_cumulata: 5.11884
+Carex_crawfordii: 1.24707
+N494: 0.55
+Carex_bebbii: 0.629059
+N496: 0.715373
+Carex_projecta: 1.33686
+N502: 0.753352
+Carex_molesta: 0.951717
+Carex_opaca: 1.93515
+N508: 1.22039
+N509: 1.69757
+Carex_shinnersii: 0.684469
+Carex_missouriensis: 2.69287
+Carex_festucacea: 1.28064
+Carex_tenera: 3.76177
+Carex_molestiformis: 0.922134
+Carex_tetrastachya: 1.76485
+Carex_brevior: 4.50743
+N516: 0.560944
+N517: 0.556214
+Carex_ozarkana: 6.60121
+N518: 0.905637
+N519: 0.974753
+N520: 0.575804
+N521: 0.61722
+Carex_longii: 3.93241
+Carex_albolutescens: 2.3418
+Carex_scoparia_var._tessellata: 1.36529
+Carex_scoparia_var._scoparia: 2.07609
+N526: 2.64156
+Carex_athrostachya: 1.55639
+Carex_sychnocephala: 2.77186
+N527: 2.48578
+Carex_xerantica: 1.8304
+Carex_adusta: 2.72225
+N528: 1.95321
+Carex_foenea: 4.02211
+N529: 1.73832
+Carex_feta: 6.76735
+Carex_bohemica: 2.83071
+N530: 2.31871
+Carex_straminiformis: 4.25971
+N531: 2.12604
+N532: 1.62474
+Carex_fracta: 3.8201
+Carex_integra: 0.789287
+Carex_multicostata: 5.09814
+N534: 0.530752
+N535: 0.684676
+Carex_haydeniana: 0.751394
+Carex_microptera: 1.2172
+Carex_peucophila: 3.28722
+N537: 2.81013
+N538: 9.63591
+Carex_chordorrhiza: 5.33402
+Carex_pseudocuraica: 12.8949
+N539: 0.743562
+N540: 3.3242
+N541: 3.38533
+N542: 2.31333
+Carex_bonanzensis: 6.98882
+N543: 2.0367
+Carex_traiziscana: 1.84885
+N544: 2.40661
+Carex_lapponica: 0.659239
+N546: 0.956888
+N547: 1.50044
+N549: 0.527865
+Carex_trisperma: 3.13185
+Carex_nemurensis: 5.02625
+Carex_mackenziei: 1.2164
+Carex_lachenalii: 1.2164
+N555: 0.50403
+Carex_ursina: 0.951624
+Carex_glareosa: 0.607243
+Carex_heleonastes: 3.85242
+N556: 2.37688
+Carex_loliacea: 2.649
+Carex_marina: 1.0883
+Carex_tenuiflora: 4.4772
+N557: 2.70452
+Carex_brunnescens: 2.25132
+Carex_brunnescens_subsp._sphaerostachya: 2.25132
+Carex_furva: 5.65209
+N558: 4.5148
+Carex_laeviculmis: 6.5798
+N559: 2.01388
+Carex_arcta: 3.44477
+Carex_illota: 2.56436
+Carex_disperma: 10.9491
+N561: 1.57733
+N562: 2.97289
+N563: 7.87468
+Carex_paniculata_subsp._lusitanica: 0.968329
+N564: 3.24571
+N565: 2.47231
+Carex_otrubae: 3.01599
+Carex_spicata: 3.01248
+Carex_muricata_subsp._muricata: 2.37625
+N569: 1.7036
+Carex_leersii: 0.57219
+Carex_pairae: 0.57219
+Carex_divulsa: 2.66649
+Carex_canariensis: 5.63377
+N570: 2.21141
+N571: 1.93645
+N573: 2.04784
+Carex_duriuscula: 4.96037
+Carex_stenophylla: 4.96037
+N574: 7.20421
+N575: 3.56787
+Carex_parallela: 0.813496
+Carex_gynocrates: 3.05284
+Carex_dioica: 2.0963
+N577: 0.823926
+N578: 0.507887
+N580: 2.77769
+N581: 0.544686
+Carex_brizoides: 2.63762
+N582: 1.04176
+Carex_praecox: 1.5421
+Carex_colchica: 1.5421
+N583: 1.14716
+Carex_arenaria: 2.02455
+Carex_pseudobrizoides: 2.02455
+N584: 2.44627
+Carex_planata: 1.81259
+Carex_rochebrunii: 2.18897
+Carex_remota: 5.39989
+Carex_divisa: 6.43291
+N585: 10.6346
+Carex_stipata: 0.612493
+Carex_laevivaginata: 1.15138
+Carex_gibba: 44.6913
+N586: 44.0888
+N587: 14.3766
+Carex_lingii: 17.413
+N588: 4.50926
+N589: 1.85004
+Carex_grandiligulata: 10.9967
+Carex_pachygyna: 10.9967
+Carex_siderosticta: 12.8528
+Carex_scaposa: 29.7463
+N590: 25.8188
+N591: 48.6997
+N592: 2.02679
+N593: 3.7587
+Trichophorum_alpinum: 21.4665
+Trichophorum_pumilum: 16.1712
+Trichophorum_cespitosum: 17.6182
+Trichophorum_uniflorum: 22.9186
+N594: 18.065
+N595: 52.7875
+Scirpus_lineatus: 8.32971
+Scirpus_pendulus: 7.33156
+N596: 25.5055
+N597: 2.88566
+Scirpus_maximowiczii: 25.9288
+N599: 15.1055
+N600: 3.64099
+Scirpus_polyphyllus: 8.36917
+N601: 7.43269
+Scirpus_atrovirens: 2.38251
+Scirpus_georgianus: 1.80509
+N603: 1.60005
+Scirpus_ancistrochaetus: 13.0224
+N604: 10.1714
+Scirpus_radicans: 17.644
+N605: 5.66706
+N606: 4.20548
+Scirpus_sylvaticus: 6.14327
+Scirpus_microcarpus: 5.63659
+Scirpus_expansus: 9.90788
+N607: 3.06324
+N608: 9.46616
+Scirpus_polystachyus: 17.2096
+N609: 4.38061
+Scirpus_longii: 11.3015
+N610: 4.9747
+Scirpus_pedicellatus: 5.72115
+N611: 3.27569
+Scirpus_atrocinctus: 2.36757
+Scirpus_cyperinus: 2.87668
+N612: 9.05858
+N613: 7.04955
+N614: 1.06263
+Eriophorum_angustifolium: 9.80933
+N615: 1.06658
+N616: 5.54798
+Eriophorum_callitrix: 2.56572
+N617: 2.08174
+Scirpus_hattorianus: 1.437
+Eriophorum_vaginatum: 0.911191
+N618: 2.30135
+N619: 0.994307
+Eriophorum_brachyantherum: 5.32721
+Eriophorum_scheuchzeri: 5.32721
+Eriophorum_chamissonis: 5.8761
+Eriophorum_latifolium: 11.9582
+N620: 10.0315
+Eriophorum_virginicum: 7.93741
+Eriophorum_gracile: 7.46066
+N621: 73.1763
+N622: 15.9056
+Blysmus_compressus: 20.3551
+Blysmus_rufus: 21.239
+Dulichium_arundinaceum: 39.0595
+Total number of loss events: 4834.76
+#+++++++++++++++++++++++++++++
+
+#Nodes with duplication events with expectation above 0.5
+Carex_neesii: 0.971881
+N86: 0.661467
+N167: 0.980828
+N168: 0.65035
+N288: 0.830359
+Carex_krausei: 0.996397
+Carex_pisiformis_var._sikokiana: 0.643655
+Carex_adelostoma: 0.995356
+Carex_buxbaumii: 0.994544
+Carex_tricolor: 0.785822
+N423: 0.631328
+N586: 0.854858
+N587: 1.04739
+Carex_lingii: 1.65784
+N588: 0.522004
+Carex_grandiligulata: 1.03555
+Carex_pachygyna: 1.03555
+Carex_siderosticta: 1.21209
+Carex_scaposa: 0.965234
+N621: 0.514377
+Total number of duplication events: 22.6416
+#+++++++++++++++++++++++++++++
+
+#Nodes with demi-duplication events with expectation above 0.5
+Total number of demi-dulications events: 0
+#+++++++++++++++++++++++++++++
+
+#EVENTS NOT ACCOUNTED FOR IN THE SIMULATIONS: 
+N56:ML=41 to Carex_perplexa:ML=66  sum expections= 3.30952e-05
+	HEURISTIC ESTIMATION:	Gains = 25	Losses = 0	Duplications = 0	Demi-dupl = 0
+N196:ML=36 to Carex_hirta:ML=56  sum expections= 0.309903
+	HEURISTIC ESTIMATION:	Gains = 20	Losses = 0	Duplications = 0	Demi-dupl = 0
+N202:ML=34 to Carex_laeviconica:ML=55  sum expections= 0.105697
+	HEURISTIC ESTIMATION:	Gains = 21	Losses = 0	Duplications = 0	Demi-dupl = 0
+N244:ML=35 to Carex_buekii:ML=20  sum expections= 1.78235e-06
+	HEURISTIC ESTIMATION:	Gains = 0	Losses = 15	Duplications = 0	Demi-dupl = 0
+#+++++++++++++++++++++++++++++
+
+#ALL EVENTS EXPECTATIONS PER NODE
+NODE	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+N2	7.01197	6.65944	0.0182117	0
+N3	31.2235	33.2594	0.0940032	0
+N4	19.6644	15.6915	0.0856565	0
+N5	10.3633	7.59657	0.0291785	0
+N6	11.6132	8.41533	0.0236105	0
+N7	7.27672	5.31208	0.00503204	0
+Carex_microglochin	25.9823	29.6538	0.00359904	0
+N8	13.7746	8.70757	0.0928727	0
+Carex_baldensis	19.4531	14.5787	0.0119202	0
+Carex_curvula	18.3099	15.348	0.00829439	0
+N9	2.0514	2.03255	0.000323113	0
+N10	0.717147	0.876305	1.51435e-05	0
+N11	11.3496	12.6936	0.000287596	0
+N12	3.81589	3.82665	0.000159627	0
+Carex_pauciflora	12.3882	18.4431	0.000107887	0
+N13	9.79945	6.59152	0.00672305	0
+N14	6.44149	5.4594	0.00014187	0
+Carex_nigricans	2.96647	0.335057	3.02127e-07	0
+Carex_micropoda	0.348984	2.71624	1.23018e-07	0
+Carex_pyrenaica	7.78802	6.17692	0.00028842	0
+Carex_anthoxanthea	17.994	20.0768	0.00141537	0
+N15	1.26768	1.38639	9.75213e-06	0
+N16	1.30235	1.19236	1.89506e-05	0
+N17	3.56268	2.8037	0.000173524	0
+N18	18.9658	13.2671	0.0213648	0
+Carex_alatauensis	10.7509	8.07627	0.000875336	0
+Carex_simpliciuscula	9.71003	9.02839	0.000576692	0
+N19	9.68481	10.8726	0.000273981	0
+Carex_macroprophylla	14.8869	14.8732	0.000858053	0
+N20	5.55365	6.24473	8.53074e-05	0
+N21	5.90277	5.49884	1.98323e-05	0
+Carex_cercostachys	4.45625	2.14342	2.41972e-07	0
+Carex_neesii	2.29844	3.59005	0.971881	0
+N22	0.89097	1.07636	4.1089e-07	0
+N23	0.589571	1.16186	1.25587e-08	0
+Carex_parvula	8.92337	5.45483	0.000440843	0
+N24	0.820419	2.66333	1.0805e-09	0
+Carex_deasyi	1.73835	11.5446	2.27416e-10	0
+N25	3.99389	2.31721	5.39507e-05	0
+Carex_myosuroides	2.70472	2.06094	6.14811e-07	0
+Carex_borealipolaris	2.70472	2.06094	6.14811e-07	0
+Carex_esenbeckii	10.0014	6.10899	0.000583095	0
+N26	0.787436	0.916948	7.28579e-07	0
+N27	2.25597	1.83881	6.57602e-05	0
+N28	18.148	11.4378	0.276129	0
+N29	2.94404	1.75606	0.000381239	0
+Carex_phleoides	10.6232	7.80603	4.52205e-05	0
+N30	9.38938	7.62581	2.76464e-05	0
+Carex_parvispica	0.549485	0.495416	1.44762e-09	0
+Carex_subtilis	0.549485	0.495416	1.44762e-09	0
+N31	2.39133	2.46278	0.000388821	0
+N32	7.17775	7.10648	4.78946e-06	0
+Carex_longifructus	1.69208	1.68438	5.55942e-09	0
+Carex_drucei	1.69208	1.68438	5.55942e-09	0
+N33	1.52591	1.58787	4.64253e-06	0
+N34	0.748352	0.794355	4.12821e-08	0
+Carex_austrocompacta	6.65692	6.46993	1.13333e-09	0
+N35	1.21105	1.32415	1.08198e-09	0
+N36	2.82058	2.5568	7.45947e-12	0
+N37	0.182777	0.168483	3.69338e-15	0
+N38	0.0414835	0.0393415	1.36549e-19	0
+N39	0.479051	0.468845	2.7922e-20	0
+Carex_subviridis	1.53768	1.52801	1.07482e-22	0
+N40	0.376485	0.371208	9.23708e-23	0
+Carex_banksiana	1.07144	1.06706	2.04521e-25	0
+N41	0.190149	0.188467	1.68601e-25	0
+Carex_obtusifolia	0.849727	0.847019	1.73745e-27	0
+N42	0.515079	0.512711	1.70899e-27	0
+Carex_horizontalis	0.210606	0.210265	1.03178e-28	0
+Carex_aucklandica	0.210606	0.210265	1.03178e-28	0
+N43	0.371903	0.361215	2.85518e-20	0
+N44	0.695339	0.688178	6.81067e-24	0
+Carex_cyanea	0.798435	0.796415	1.11068e-26	0
+N45	0.18465	0.183437	7.02126e-27	0
+Carex_healyi	0.533054	0.532246	1.83541e-29	0
+N46	0.0692867	0.069018	7.32307e-31	0
+Carex_potens	0.423789	0.423249	2.49858e-31	0
+Carex_erythrovaginata	0.423789	0.423249	2.49858e-31	0
+N47	0.0319642	0.0314051	3.20875e-25	0
+Carex_punicea	1.59501	1.58639	1.16665e-21	0
+N48	0.114954	0.113694	2.44156e-22	0
+Carex_purpurata	1.47102	1.46366	6.06668e-23	0
+Carex_strictissima	1.47102	1.46366	6.06668e-23	0
+N49	0.44176	0.429842	2.05909e-18	0
+Carex_silvestris	1.61334	1.60325	3.79506e-21	0
+N50	0.154194	0.151144	3.06963e-21	0
+Carex_egmontiana	1.43278	1.42573	1.60952e-23	0
+N51	0.145361	0.143358	1.31812e-23	0
+N52	0.440046	0.437069	8.79555e-26	0
+Carex_astricta	0.725108	0.723041	5.13871e-28	0
+Carex_zotovii	0.725108	0.723041	5.13871e-28	0
+N53	0.6529	0.649018	9.91899e-26	0
+Carex_minor	0.475335	0.474171	5.01202e-27	0
+Carex_imbecilla	0.475335	0.474171	5.01202e-27	0
+Carex_umbricola	2.38035	2.34405	4.97998e-15	0
+N54	1.10817	1.33818	7.27928e-12	0
+N55	1.8763	2.69137	7.94804e-14	0
+N56	0.666139	2.3985	5.11254e-16	0
+Carex_uncinata	2.68718	0.0830579	5.31809e-15	0
+Carex_perplexa	25	0	0	0
+N57	2.03737	0.798559	1.10068e-14	0
+Carex_megalepis	0.294901	0.189012	4.35668e-16	0
+Carex_corynoidea	0.294901	0.189012	4.35668e-16	0
+N58	2.58593	2.17977	8.33608e-14	0
+Carex_crispa	1.53377	1.40979	1.15065e-14	0
+Carex_edura	1.53377	1.40979	1.15065e-14	0
+Carex_erebus	7.42723	7.2863	4.40417e-08	0
+N59	1.55317	1.93592	5.99583e-06	0
+Carex_leptalea	21.7759	26.0961	0.00147089	0
+N60	19.6851	20.4714	0.00230101	0
+Carex_nardina	6.46326	2.08831	0.00375722	0
+Carex_filifolia	2.04337	6.59364	4.44548e-05	0
+N61	4.39974	6.29753	6.09454e-06	0
+Carex_rupestris	20.6706	24.0665	0.00219475	0
+N62	7.09628	8.73133	0.00014788	0
+Carex_obtusata	13.9391	14.6874	0.00119039	0
+N63	7.43448	8.68632	0.000276702	0
+Carex_capitata	5.93607	6.41926	4.00485e-05	0
+Carex_runssoroensis	5.93607	6.41926	4.00485e-05	0
+Carex_bonatiana	27.2467	32.5849	0.00401909	0
+N64	27.1734	22.0147	0.0194902	0
+N65	2.05733	4.11611	2.70627e-05	0
+Carex_saximontana	3.52246	5.57927	8.09249e-07	0
+Carex_backii	3.90442	4.96124	9.11133e-07	0
+N66	1.59039	0.647527	0.000129903	0
+Carex_latebracteata	9.07667	2.63427	0.0704718	0
+N67	3.17252	3.8932	6.57074e-05	0
+Carex_willdenowii	4.48047	1.83028	5.89536e-06	0
+Carex_jamesii	1.62008	4.96937	3.06204e-06	0
+N68	13.7531	13.8574	0.00416452	0
+Carex_pseudorufa	32.3229	27.7846	0.0325748	0
+N69	2.51031	2.93199	0.000198625	0
+N70	5.16916	9.81123	3.7272e-05	0
+N71	5.93884	11.3687	0.000219901	0
+N72	2.03186	3.46594	0.000124334	0
+Carex_uhligii	8.18833	10.1201	0.00236278	0
+Carex_schimperiana	7.75848	10.6855	0.00179598	0
+Carex_spartea	11.1067	12.4948	0.0044959	0
+N73	7.13925	7.06543	0.00334454	0
+Carex_ludwigii	10.7822	15.7308	0.00167698	0
+Carex_killickii	16.2098	10.718	0.473132	0
+N74	1.53993	0.947178	0.00416869	0
+N75	7.14342	7.06093	0.00150624	0
+Carex_lancea	22.4452	16.6473	0.487345	0
+N76	7.08708	9.12129	0.000487845	0
+Carex_schweickerdtii	13.3723	8.98204	0.0247017	0
+Carex_capensis	7.83567	15.0569	0.000322808	0
+N77	6.56088	4.07071	0.0182309	0
+Carex_distachya	24.3657	17.9604	0.0320187	0
+N78	4.59742	3.8667	0.00131889	0
+Carex_oedipostyla	18.2885	15.0792	0.00387717	0
+N79	6.6309	6.75975	0.000296792	0
+Carex_pulicaris	9.52741	10.127	0.000300924	0
+Carex_peregrina	9.98842	9.58677	0.000218077	0
+N80	1.27141	1.3829	0.00040134	0
+N81	5.56937	6.20807	0.00112976	0
+Carex_bostrychostigma	44.9317	46.3534	0.035448	0
+N82	10.7064	11.5323	0.00353492	0
+N83	4.87967	5.34821	0.00072646	0
+Carex_cruciata	28.768	29.6978	0.01722	0
+N84	13.5415	14.3457	0.00615325	0
+Carex_brunnea	19.1248	12.4598	0.213787	0
+N85	8.26412	13.4853	0.00104871	0
+Carex_ussuriensis	2.48342	7.05677	0.000119561	0
+N86	2.91546	1.65638	0.661467	0
+Carex_alba	3.1141	2.32485	0.00483861	0
+Carex_eburnea	3.1141	2.32485	0.00483861	0
+N87	4.21137	4.13768	0.00126941	0
+N88	1.72871	1.88826	0.000201999	0
+N89	0.872733	0.929041	1.81623e-05	0
+N90	5.43546	7.7417	0.000114907	0
+N91	2.60627	3.38331	6.79677e-05	0
+N92	5.88781	6.41941	0.00099355	0
+Carex_macrolepis	11.4246	11.9317	0.00475495	0
+Carex_mucronata	11.4246	11.9317	0.00475495	0
+N93	10.0814	12.0045	0.00207685	0
+Carex_firma	6.72231	6.81497	0.00179172	0
+Carex_sempervirens_subsp._sempervirens	6.23942	7.32236	0.000740644	0
+N94	0.688908	0.75629	2.91312e-05	0
+N95	15.7449	21.6804	0.00250365	0
+Carex_melanocarpa	0.895103	2.66911	1.07884e-05	0
+Carex_ericetorum	2.28677	1.06411	0.000447336	0
+N96	7.10136	5.65886	0.00315576	0
+N97	0.8344	0.655031	0.000146105	0
+N98	2.25009	2.07238	5.22093e-05	0
+Carex_acaulis	12.5891	9.19163	0.00544923	0
+N99	0.581964	0.735428	2.00853e-06	0
+N100	2.83823	3.26729	3.15408e-05	0
+Carex_flacca_subsp._flacca	6.03941	7.98687	1.37893e-05	0
+N101	0.794485	0.691243	1.12388e-05	0
+Carex_grioletii	7.8222	4.90539	0.00251605	0
+Carex_hispida	5.21576	7.26667	1.35755e-05	0
+N102	4.58587	5.04364	0.000111247	0
+Carex_ferruginea	8.95926	3.2731	0.160268	0
+N103	1.9617	5.47416	1.98803e-05	0
+Carex_caudata	0.675485	6.02211	2.93252e-06	0
+Carex_austroalpina	3.60056	1.07887	0.00854171	0
+N104	1.26809	1.08203	3.90079e-05	0
+Carex_asturica	12.4682	11.0522	0.00375297	0
+Carex_depauperata	11.9045	11.467	0.00195208	0
+Carex_fimbriata	13.5576	13.7652	0.00323553	0
+N105	0.0841094	0.0630183	6.29964e-06	0
+N106	8.06563	5.71531	0.00278657	0
+N107	0.207983	0.107295	0.000152391	0
+N108	0.82162	0.588096	1.33914e-05	0
+N109	1.52129	0.513603	0.00213563	0
+N110	7.7003	6.65488	0.000595906	0
+N111	2.39261	1.90738	5.0865e-05	0
+N112	2.88182	1.85106	2.01613e-06	0
+Carex_conoidea	10.022	4.50054	0.00219991	0
+N113	2.87379	4.0831	2.18003e-06	0
+N114	2.2516	1.62345	6.31627e-09	0
+Carex_corrugata	1.89747	0.753571	9.92679e-11	0
+N115	0.274749	0.494793	8.18242e-11	0
+Carex_grisea	0.991085	0.627133	7.25368e-13	0
+N116	0.376698	1.08226	6.54967e-13	0
+Carex_amphibola	1.09077	0.0212539	3.11976e-16	0
+Carex_godfreyi	0.00528778	1.9283	2.48224e-16	0
+N117	0.67246	1.32601	5.34355e-09	0
+Carex_oligocarpa	2.43265	2.00687	1.75371e-11	0
+N118	0.253279	0.606016	1.46992e-11	0
+Carex_bulbostylis	2.20642	1.42786	6.55031e-14	0
+N119	0.149518	0.553084	4.71162e-14	0
+N120	1.0465	1.32345	5.97612e-16	0
+Carex_acidicola	0.0734057	0.613748	1.63019e-14	0
+Carex_calcifugens	0.534668	0.0750131	1.62069e-14	0
+N121	0.401643	1.17986	5.06891e-16	0
+Carex_planispicata	0.628264	0.66733	1.80885e-16	0
+N122	0.182606	0.500387	1.23652e-16	0
+Carex_thornei	0.479181	0.200465	1.84018e-18	0
+Carex_paeninsulae	0.137702	0.858987	3.73179e-19	0
+N123	1.33814	1.66389	5.47895e-07	0
+N124	2.63358	1.05484	3.96833e-07	0
+N125	0.550986	0.905339	3.15394e-08	0
+Carex_austrocaroliniana	5.49479	4.7999	8.094e-07	0
+Carex_plantaginea	3.72343	7.02852	3.3681e-08	0
+N126	4.08703	0.992117	0.000124322	0
+Carex_platyphylla	5.72135	2.49011	2.11099e-05	0
+Carex_careyana	5.06615	2.8348	2.02754e-05	0
+N127	0.205009	0.636472	1.05145e-09	0
+N128	0.306349	0.447691	7.33896e-11	0
+N129	4.02424	4.41354	6.32358e-06	0
+Carex_brysonii	1.96967	3.08754	1.62753e-08	0
+Carex_hitchcockiana	2.96934	2.08721	1.77669e-07	0
+N130	1.9291	2.57621	4.80523e-10	0
+N131	3.1343	4.32152	7.73809e-08	0
+Carex_asynchrona	1.67511	0.34785	2.77802e-09	0
+Carex_impressinervia	0.300142	1.97263	2.3675e-09	0
+Carex_ouachitana	4.56015	4.421	6.80438e-05	0
+N132	1.90728	4.07217	5.4276e-11	0
+N133	1.18399	1.77142	2.63773e-09	0
+N134	1.08297	1.68243	6.28459e-10	0
+Carex_cumberlandensis	1.21176	1.50843	6.4738e-11	0
+Carex_laxiculmis	1.21176	1.50843	6.4738e-11	0
+Carex_abscondita	2.81305	2.70918	1.02769e-09	0
+N135	1.57159	2.23726	2.27885e-09	0
+N136	0.349449	1.3165	1.65917e-09	0
+N137	0.145684	0.324583	2.91793e-11	0
+Carex_gholsonii	0.41195	5.05947	3.18124e-11	0
+N138	2.02833	0.362588	1.73529e-07	0
+Carex_flaccosperma	0.177753	1.51703	3.13929e-09	0
+Carex_pigra	3.6196	0.0378444	7.1347e-08	0
+Carex_glaucodea	1.23468	2.08525	4.2795e-09	0
+N139	0.1415	0.0539764	7.96357e-11	0
+Carex_granularis	1.00798	4.91347	6.44169e-11	0
+N140	5.51479	0.411346	0.00194819	0
+Carex_crawei	0.554536	0.806206	4.04875e-05	0
+Carex_microdonta	2.89499	0.157614	4.08438e-05	0
+Carex_edwardsiana	10.9138	11.8391	0.000365264	0
+N141	2.44121	0.943912	0.0134712	0
+N142	13.4175	8.20022	0.0139465	0
+N143	1.47032	1.42846	9.37208e-06	0
+N144	0.346994	0.325573	1.94926e-08	0
+Carex_umbrosa_subsp._huetiana	4.46919	4.66695	9.69899e-10	0
+N145	1.16426	1.04712	9.28308e-10	0
+Carex_pisiformis	4.38706	2.70196	7.27037e-11	0
+Carex_depressa	2.84422	4.15913	3.2365e-11	0
+Carex_caryophyllea	4.83681	5.01313	2.75048e-08	0
+N146	1.33308	0.839596	8.60319e-06	0
+N147	4.87656	3.29531	5.08857e-07	0
+Carex_nervata	2.4437	0.65313	6.17806e-09	0
+Carex_breviculmis_var._fibrillosa	0.806208	2.01563	5.47091e-09	0
+Carex_mitrata	5.53353	5.1617	4.13279e-07	0
+Carex_macrandrolepis	21.761	13.7586	0.0657974	0
+N148	1.06276	2.26113	2.6161e-07	0
+N149	7.21687	9.17096	0.00014282	0
+Carex_atrofusca	8.56152	11.2246	0.000506889	0
+Carex_cruenta	9.85639	9.53382	0.0017092	0
+N150	1.13696	1.90473	4.90865e-07	0
+N151	1.42909	1.86466	2.47576e-06	0
+N152	1.40753	1.19444	3.16194e-05	0
+Carex_tomentosa	14.1185	12.7758	0.00291433	0
+N153	0.467582	0.438835	3.41903e-06	0
+Carex_hordeistichos	15.8746	10.7627	0.015697	0
+N154	2.63597	3.6644	5.55245e-06	0
+N155	1.12079	1.619	1.44336e-06	0
+N156	5.43474	2.77794	0.00149335	0
+Carex_laxa	7.67988	2.60337	0.00828249	0
+Carex_papulosa	3.66756	5.46696	5.24111e-05	0
+N157	0.449053	1.26912	6.78509e-08	0
+N158	0.801545	1.83105	1.43077e-08	0
+N159	3.89361	5.36325	3.22306e-05	0
+Carex_vaginata	1.01794	2.81748	4.29026e-07	0
+Carex_filipes	2.40991	1.20958	1.33465e-05	0
+Carex_panicea	4.91083	8.18003	4.39905e-05	0
+N160	0.59057	0.729802	1.92401e-07	0
+N161	2.02955	3.76515	5.50182e-07	0
+Carex_manhartii	2.38411	6.80828	9.05076e-08	0
+N162	0.276796	0.180953	1.42464e-06	0
+N163	0.459752	0.95662	6.57774e-08	0
+N164	1.81219	0.766987	2.92715e-05	0
+Carex_woodii	3.86083	0.930271	5.69837e-05	0
+Carex_purpurifera	1.42987	2.49867	1.58466e-06	0
+N165	1.08718	5.46739	8.70811e-06	0
+N166	0.55704	0.0296242	3.40506e-10	0
+Carex_livida	2.06372	0.0977487	1.12537e-11	0
+N167	0.312191	0.264623	0.980828	0
+Carex_tetanica	0.00336148	0.00307867	2.69858e-05	0
+Carex_meadii	0.00336148	0.00307867	2.69858e-05	0
+N168	0.00408674	0.00913559	0.65035	0
+Carex_aurea	0.313858	0.635815	0.0262205	0
+N169	0.226732	0.541384	0.0262166	0
+Carex_garberi	0.0186744	0.0259151	3.24799e-06	0
+Carex_bicolor	0.0186744	0.0259151	3.24799e-06	0
+N170	2.03111	0.633004	2.40248e-05	0
+N171	0.492082	0.467916	4.92941e-08	0
+Carex_albursina	3.3674	1.31025	1.95543e-06	0
+Carex_leptonervia	1.31656	3.25939	1.93842e-09	0
+N172	0.67017	0.223046	7.15414e-08	0
+N173	0.543965	0.894707	5.73743e-10	0
+N174	0.564822	0.447604	2.03756e-11	0
+Carex_laxiflora	0.730133	0.862502	3.52188e-12	0
+N175	0.16566	0.110915	1.59018e-12	0
+Carex_striatula	0.19714	2.38426	5.56648e-12	0
+Carex_radfordii	3.01156	0.198689	3.89676e-11	0
+Carex_blanda	0.933791	1.94894	6.59665e-12	0
+N176	0.612464	0.122617	2.3e-09	0
+Carex_crebriflora	1.91393	1.76982	1.89166e-09	0
+Carex_styloflexa	4.00013	0.856027	3.99202e-07	0
+Carex_olbiensis	8.45598	5.64463	0.00230055	0
+Carex_pilosa	9.92463	9.55271	0.000750647	0
+Carex_assiniboinensis	11.9041	18.3139	0.000461749	0
+N177	9.46092	12.1481	0.000358705	0
+Carex_tristis	5.05649	6.21791	0.000353046	0
+N178	1.50989	1.57823	2.67826e-05	0
+Carex_fuliginosa	3.98572	4.07612	4.20696e-05	0
+Carex_stenocarpa	3.98572	4.07612	4.20696e-05	0
+N179	2.7204	1.96751	0.00010023	0
+N180	3.23935	2.42592	9.09957e-05	0
+N181	1.92447	1.21057	0.000488044	0
+N182	3.62281	1.46426	8.5162e-05	0
+N183	0.2351	0.1143	3.79148e-07	0
+N184	3.14701	1.30856	2.01538e-06	0
+N185	5.18021	3.01646	4.28224e-05	0
+N186	0.982158	1.44453	7.66352e-08	0
+N187	1.78451	5.16892	3.03145e-09	0
+Carex_lupuliformis	0.807317	0.112258	1.23629e-12	0
+Carex_lupulina	0.0595281	1.36445	1.9371e-12	0
+Carex_retrorsa	4.75526	2.44483	5.26225e-09	0
+N188	1.33892	0.531696	8.13073e-08	0
+Carex_lurida	2.83306	4.79304	6.04926e-11	0
+N189	0.0871808	0.0205788	5.44853e-11	0
+N190	0.839403	2.69783	9.78904e-13	0
+Carex_hystericina	1.06894	4.23632	5.98845e-15	0
+N191	0.932061	0.739037	6.60763e-15	0
+Carex_comosa	1.00095	1.36139	1.71749e-14	0
+Carex_pseudocyperus	1.55025	0.910697	1.22104e-14	0
+N192	0.262395	0.0198663	8.59064e-13	0
+N193	0.383236	0.126667	6.32914e-15	0
+Carex_oligosperma	5.51818	2.0461	2.315e-09	0
+N194	0.24161	0.219556	1.07475e-16	0
+N195	1.18599	0.188162	6.50638e-07	0
+N196	0.246952	0.419353	1.20027e-07	0
+Carex_hirta	20	0	0	0
+N197	1.4579	0.181342	6.23569e-07	0
+Carex_songorica	4.92215	0.695819	1.37362e-06	0
+Carex_atherodes	2.02757	1.72109	1.37362e-06	0
+Carex_fedia	2.76016	0.168814	4.68022e-05	0
+Carex_houghtoniana	1.25538	7.80053	6.16838e-17	0
+N198	1.28233	0.296346	2.70294e-13	0
+N199	0.48062	1.93332	9.49033e-14	0
+Carex_lasiocarpa	0.83814	6.58485	2.64154e-14	0
+N200	0.0845433	0.0322366	8.68001e-15	0
+Carex_pellita	5.8109	0.712886	8.80494e-09	0
+N201	0.0942713	0.331999	3.38045e-16	0
+N202	0.899869	1.34537	1.04536e-05	0
+Carex_laeviconica	21	0	0	0
+Carex_pumila	1.45667	0.0956713	0.0012217	0
+N203	0.216253	0.529394	9.94005e-15	0
+Carex_melanostachya	0.231387	5.22688	1.96491e-16	0
+Carex_lacustris	4.12897	0.458798	2.45239e-09	0
+N204	2.46222	0.16068	5.67057e-10	0
+N205	0.690882	0.229014	1.2164e-11	0
+N206	2.04849	0.402891	1.53751e-13	0
+Carex_utriculata	1.71844	0.4625	3.92406e-16	0
+Carex_rotundata	1.00835	0.75241	3.85537e-16	0
+N207	0.363784	0.610065	1.11907e-13	0
+Carex_rostrata	1.39215	1.24425	2.3075e-15	0
+Carex_membranacea	0.970421	1.82252	2.1402e-15	0
+N208	1.80327	0.310659	2.12879e-11	0
+Carex_vesicaria	2.71313	0.842465	1.86226e-13	0
+Carex_saxatilis	1.99698	1.12632	1.84487e-13	0
+N209	0.914546	0.654768	8.84921e-08	0
+N210	2.12841	0.461755	0.000340556	0
+Carex_phacota_var._gracilispica	9.23688	5.18501	0.000291043	0
+Carex_frankii	11.2273	4.22538	0.00262779	0
+N211	1.10062	3.71284	6.10279e-09	0
+Carex_intumescens	3.9725	8.59544	1.85439e-07	0
+Carex_grayi	4.62989	7.25284	2.20985e-07	0
+N212	1.99418	2.32544	5.95314e-08	0
+N213	1.09744	0.660013	2.26386e-07	0
+N214	0.771198	1.45785	5.68847e-09	0
+Carex_stylosa	5.44145	8.0089	3.7383e-08	0
+N215	5.22711	6.72701	1.51249e-07	0
+Carex_haydenii	0.495385	0.562946	8.30072e-10	0
+Carex_aperta	0.495385	0.562946	8.30072e-10	0
+N216	2.84237	0.903663	4.91858e-06	0
+N217	0.672975	0.854131	7.61966e-07	0
+N218	2.28096	1.09929	3.8558e-08	0
+N219	0.0267905	0.0800076	2.25117e-11	0
+N220	0.129393	0.619547	7.39698e-13	0
+Carex_augustinowiczii	3.91615	2.56894	9.26859e-14	0
+N221	0.238146	1.74503	4.00706e-14	0
+Carex_typhina	1.42009	4.56269	3.26116e-15	0
+Carex_squarrosa	1.69116	3.83381	3.2226e-15	0
+N222	2.33638	1.45549	1.39599e-12	0
+N223	0.264344	0.161974	7.18466e-14	0
+Carex_gynandra	1.7781	0.904557	1.04973e-16	0
+N224	0.0279877	0.0341824	8.81166e-17	0
+Carex_mitchelliana	1.13888	1.25913	8.84067e-18	0
+Carex_torta	1.13888	1.25913	8.84067e-18	0
+Carex_crinita	1.47794	1.50199	1.23252e-13	0
+N225	0.822123	0.132259	2.41549e-11	0
+N226	0.492777	0.203334	2.05318e-13	0
+N227	0.28755	0.0425441	5.83011e-17	0
+N228	0.282551	0.684964	1.74606e-13	0
+Carex_nebraskensis	2.17292	2.19428	2.73163e-15	0
+N229	0.835939	1.99395	2.70512e-15	0
+Carex_microchaeta	0.478822	1.34216	3.44397e-17	0
+Carex_spectabilis	0.857982	0.721321	1.0414e-16	0
+N230	1.87266	0.119608	6.37534e-19	0
+N231	0.360496	0.233795	7.10173e-08	0
+N232	0.37334	0.751106	2.12905e-09	0
+Carex_stricta	0.846406	1.78102	3.02248e-11	0
+Carex_bigelowii	1.23711	1.17172	3.02248e-11	0
+N233	0.954147	0.310993	2.16455e-09	0
+Carex_scopulorum	2.6136	0.569225	2.98211e-12	0
+N234	0.0833905	0.124651	2.29952e-12	0
+N235	0.0220704	0.444209	2.74368e-15	0
+N236	0.0392273	0.462339	2.30943e-17	0
+Carex_lenticularis	0.42453	1.49325	7.8679e-19	0
+Carex_angustata	0.42453	1.49325	7.8679e-19	0
+Carex_nudata	0.714893	1.20692	2.77431e-17	0
+N237	1.05313	0.0772375	5.52601e-15	0
+N238	0.739665	0.39745	1.10809e-17	0
+Carex_paleacea	0.0393524	1.27203	4.48862e-21	0
+Carex_salina	1.79522	0.0279159	4.48862e-21	0
+N239	0.757409	0.104066	1.12905e-17	0
+N240	0.962307	0.211109	2.163e-20	0
+Carex_subspathacea	0.70527	0.000310894	0	0
+Carex_aquatilis	0.000966517	0.296008	7.57843e-26	0
+N241	0.533336	0.33391	2.50082e-20	0
+Carex_ramenskii	2.08837	0.0262779	6.73271e-23	0
+Carex_lyngbyei	0.00135752	1.69948	7.72666e-23	0
+N242	0.655314	0.0622811	2.52904e-17	0
+N243	1.8628	0.0563519	3.05377e-07	0
+Carex_eleusinoides	4.85405	0.526639	1.96359e-08	0
+Carex_dacica	3.15584	0.810644	1.91302e-08	0
+N244	0.0825354	0.266988	3.40426e-20	0
+Carex_buekii	0	15	0	0
+N245	1.01064	0.0494179	2.43345e-07	0
+N246	5.12971	0.301413	3.37745e-08	0
+N247	0.00654183	0.0675444	3.40288e-19	0
+N248	0.0107168	1.46406	5.01495e-16	0
+Carex_elata	0.00187043	1.89004	9.97764e-20	0
+N249	0.0223503	0.0109916	3.27361e-31	0
+Carex_appendiculata	0.00955907	0.909092	0	0
+N250	0.14473	0.000628122	1.76758e-36	0
+Carex_cespitosa	0.0327635	0.0764134	2.62319e-21	0
+Carex_trinervis	1.95687	0.00052345	2.60048e-21	0
+Carex_nigra	0.714327	0.0563497	7.89828e-15	0
+N251	0.316536	0.00196254	2.57688e-16	0
+Carex_acuta	0.369615	0.08815	1.15734e-15	0
+Carex_orbicularis	1.32151	0.0402903	1.63398e-17	0
+Carex_reuteriana	1.79303	1.35313	1.87266e-08	0
+N252	0.0938912	0.264359	1.41821e-13	0
+N253	0.289074	0.55351	2.91208e-15	0
+N254	0.345541	1.53155	1.39025e-17	0
+Carex_macrochaeta	0.813834	2.36865	6.01126e-19	0
+Carex_mertensii	1.13193	1.68675	6.01126e-19	0
+N255	0.816793	0.354758	1.22754e-17	0
+Carex_emoryi	3.53661	0.739815	1.64657e-15	0
+Carex_interrupta	1.07456	2.27776	3.6008e-16	0
+Carex_podocarpa	2.14699	3.1526	3.43106e-15	0
+Carex_obnupta	5.12826	2.01494	4.63557e-13	0
+N256	0.498988	1.32131	1.81203e-08	0
+N257	2.15104	6.50979	3.23805e-10	0
+Carex_pluriflora	0.261072	1.09393	3.98734e-12	0
+Carex_rariflora	0.639413	0.472273	4.1023e-12	0
+N258	0.375321	0.330037	7.92806e-10	0
+Carex_magellanica	3.47216	4.70942	1.23694e-07	0
+Carex_limosa	5.01585	3.25311	3.90984e-09	0
+Carex_pichinchensis	12.023	3.09833	0.0360756	0
+Carex_meyeriana	6.22891	12.0458	2.41402e-08	0
+Carex_alopecuroides	11.9456	9.9733	3.50089e-05	0
+N259	0.242535	0.377272	7.22208e-07	0
+N260	1.07862	3.03321	3.74273e-08	0
+Carex_pedunculata	6.47662	18.0827	2.13808e-07	0
+N261	8.85406	9.1	0.000266108	0
+Carex_halleriana	2.3784	1.90843	1.14267e-06	0
+Carex_rorulenta	1.8541	2.38413	1.01011e-06	0
+N262	1.67682	0.931222	6.25666e-05	0
+N263	1.9093	1.33605	9.84845e-07	0
+Carex_scabrata	9.63427	10.6887	0.000257625	0
+N264	2.49065	1.57232	2.78294e-06	0
+Carex_scabriuscula	8.09949	8.07029	0.000108291	0
+N265	1.06877	0.679145	7.63231e-07	0
+Carex_curatorum	8.10108	6.46077	2.79592e-05	0
+Carex_scirpoidea	8.10108	6.46077	2.79592e-05	0
+N266	1.73338	1.37797	4.76507e-07	0
+N267	1.6888	1.34464	1.85415e-06	0
+N268	3.21449	4.10123	3.39261e-06	0
+Carex_hirtifolia	3.82502	6.11516	3.43864e-08	0
+N269	2.27637	1.82061	1.97905e-07	0
+N270	0.797352	1.93777	3.17494e-10	0
+Carex_gracillima	1.0851	1.69057	1.80712e-12	0
+Carex_formosa	1.0851	1.69057	1.80712e-12	0
+N271	0.116251	0.0385734	2.86367e-10	0
+N272	0.0739795	0.0522878	3.16956e-13	0
+N273	0.225015	0.362055	1.03935e-14	0
+N274	1.55689	0.610563	8.1408e-16	0
+Carex_hirtissima	3.13399	0.170665	1.19652e-06	0
+Carex_gynodynama	0.365788	3.9485	9.57188e-12	0
+N275	0.0575668	0.2346	1.9683e-17	0
+N276	0.0869591	0.72444	2.97027e-19	0
+Carex_castanea	0.607706	5.47344	4.8381e-20	0
+Carex_arctata	1.85751	1.75106	3.47564e-15	0
+Carex_mendocinensis	2.92977	1.46114	5.49265e-17	0
+Carex_debilis	3.85803	1.70362	1.35375e-14	0
+N277	0.430672	0.201881	2.80127e-13	0
+N278	0.379747	1.40003	4.84146e-15	0
+N279	0.557455	2.00403	6.49353e-16	0
+Carex_caroliniana	0.107674	1.69325	5.68663e-16	0
+N280	0.436274	0.0907533	2.23453e-15	0
+Carex_hirsutella	0.135116	0.0662192	2.97106e-18	0
+Carex_bushii	0.135116	0.0662192	2.97106e-18	0
+Carex_swanii	1.48086	1.51304	5.51266e-16	0
+N281	1.81826	0.237863	3.12554e-11	0
+Carex_misera	7.01052	0.895163	3.78366e-05	0
+Carex_aestivalis	1.0017	2.6384	6.46021e-09	0
+N282	1.58829	0.9941	1.12614e-06	0
+Carex_torreyi	7.43599	7.20789	3.01969e-05	0
+Carex_pallescens	9.02642	5.80479	0.000420579	0
+N283	1.43581	1.43893	1.47031e-08	0
+Carex_acutiformis	5.30431	14.1324	1.0357e-06	0
+N284	8.2012	3.10123	0.0209439	0
+Carex_nemostachys	8.42176	1.58009	0.0104316	0
+Carex_ischnostachya	2.7508	5.09536	0.000976327	0
+N285	0.535098	0.637696	1.76733e-07	0
+N286	3.5301	13.1303	4.60581e-07	0
+N287	4.48784	7.04778	0.000460094	0
+N288	0.860202	0.361415	0.830359	0
+Carex_delicata	1.4615	0.531074	0.00431862	0
+Carex_ledebouriana	0.798463	0.867884	0.0042104	0
+N289	0.473763	4.6831	7.87938e-07	0
+Carex_krausei	2.96483e-11	2.80828e-16	0.996397	0
+Carex_capillaris	0.00318319	0.00610108	0	0
+Carex_williamsii	4.67259	11.4362	0.000184617	0
+N290	3.23784	0.998812	0.00126672	0
+Carex_frigida	12.3734	12.6824	0.000166176	0
+N291	0.844961	0.25688	7.5767e-05	0
+N292	1.35038	0.457312	1.04592e-05	0
+N293	0.239295	0.184623	3.62554e-08	0
+N294	0.488988	0.388822	1.99992e-09	0
+N295	6.77295	7.57891	5.34471e-06	0
+Carex_rainbowii	3.15493	3.29664	2.9609e-06	0
+N296	0.797427	0.854877	2.49319e-08	0
+Carex_sylvatica	2.33486	2.41909	4.55217e-10	0
+Carex_cretica	2.33486	2.41909	4.55217e-10	0
+N297	2.06493	1.46527	2.05426e-08	0
+Carex_strigosa	10.0458	7.60011	0.000425331	0
+N298	6.38252	5.9894	1.3804e-05	0
+Carex_hostiana	1.40598	4.34657	2.3395e-08	0
+N299	0.505964	0.155631	1.71661e-08	0
+Carex_castroviejoi	1.99252	2.28447	3.774e-10	0
+N300	1.31026	0.34855	3.6809e-10	0
+N301	0.059332	0.265769	1.59459e-14	0
+Carex_flava	0.607552	2.65472	2.39603e-15	0
+Carex_cryptolepis	1.21435	1.26152	2.40261e-15	0
+N302	0.217095	0.0124734	2.2018e-14	0
+N303	2.42798	0.440793	2.42476e-15	0
+Carex_derelicta	0.664251	0.111167	7.78333e-17	0
+N304	0.0953836	0.103964	1.5003e-16	0
+N305	0.0259304	0.451942	1.52741e-19	0
+Carex_lepidocarpa	0.00597861	0.0183075	2.06683e-23	0
+Carex_lepidocarpa_subsp._nevadensis	0.00597861	0.0183075	2.06683e-23	0
+Carex_demissa	0.598254	0.0365951	1.07102e-19	0
+Carex_viridula	2.32697	0.786693	2.45707e-15	0
+N306	3.48544	3.38438	1.1715e-07	0
+Carex_doniana	8.04339	6.99196	1.14073e-05	0
+N307	3.59834	4.02534	1.81521e-06	0
+Carex_microcarpa	3.80103	3.32244	1.32758e-08	0
+N308	0.599151	0.766753	4.91106e-09	0
+Carex_pendula	2.66888	3.02266	1.80411e-10	0
+Carex_bequaertii	2.66888	3.02266	1.80411e-10	0
+N309	4.65179	2.04422	2.21945e-06	0
+N310	4.75251	2.15975	1.58148e-07	0
+N311	0.573316	0.169678	5.2254e-09	0
+Carex_helodes	4.69637	4.09387	1.35941e-10	0
+N312	0.827596	0.282557	1.06776e-10	0
+N313	0.216524	0.12619	3.91986e-13	0
+N314	0.0719343	0.0713277	2.21921e-15	0
+Carex_perraudieriana	4.06091	3.09492	5.48792e-17	0
+N315	0.141768	0.184202	4.09523e-17	0
+N316	0.362946	0.467948	6.17787e-20	0
+Carex_aethiopica	3.54768	2.43421	1.69295e-20	0
+Carex_mairei	2.14552	4.03205	5.88036e-21	0
+N317	0.13432	0.135751	5.97468e-20	0
+N318	0.160072	0.233953	1.75937e-22	0
+Carex_paulo-vargasii	3.59898	2.51519	7.05056e-24	0
+N319	0.525868	1.10322	6.21427e-24	0
+Carex_simensis	1.9816	2.32044	2.5379e-20	0
+N320	0.359107	0.648453	1.23828e-20	0
+Carex_fischeri	1.56574	1.61522	3.11551e-21	0
+N321	0.213114	0.372197	1.60307e-21	0
+N322	0.261612	0.224144	4.32969e-24	0
+Carex_petitiana	0.980664	0.908523	9.55238e-26	0
+Carex_petitiana_subsp._attenuata	0.980664	0.908523	9.55238e-26	0
+N323	0.189404	0.386875	3.6393e-24	0
+N324	0.259331	0.760875	1.54719e-25	0
+Carex_boryana	0.284254	0.475629	1.28061e-23	0
+Carex_borbonica	0.284254	0.475629	1.28061e-23	0
+N325	1.04514	0.738441	7.42413e-26	0
+Carex_mannii	0.00301726	0.00263876	0	0
+Carex_mannii_subsp._friesiorum	0.00301726	0.00263876	0	0
+N326	0.869624	0.602137	2.37115e-22	0
+Carex_binervis	2.82039	2.07801	1.05604e-20	0
+N327	0.0675714	0.0634912	5.6833e-21	0
+Carex_camposii	2.20699	2.46867	1.25664e-21	0
+N328	0.470696	0.39561	8.05114e-22	0
+Carex_fissirostris	1.71229	2.04906	1.44493e-20	0
+Carex_laevigata	2.23863	1.5754	4.02368e-20	0
+Carex_hochstetteriana	4.78517	2.81859	2.6404e-15	0
+Carex_lowei	5.01618	2.95923	5.30515e-13	0
+N329	1.87271	2.87253	6.54373e-09	0
+Carex_punctata	2.27261	2.26633	4.30101e-11	0
+Carex_fuscula	1.84999	2.84372	4.30186e-11	0
+N330	0.62018	0.600405	6.04423e-08	0
+N331	0.663418	0.608957	2.08222e-09	0
+N332	3.05903	4.21802	1.97083e-10	0
+Carex_extensa	2.36534	3.68118	3.37007e-11	0
+N333	0.261417	0.233408	2.12744e-11	0
+Carex_vixdentata	2.5434	2.88723	3.2536e-12	0
+Carex_ecklonii	3.10484	2.44867	3.70158e-12	0
+N334	2.20814	1.47297	6.80119e-10	0
+N335	4.04191	3.17559	6.93733e-09	0
+N336	1.04152	0.276281	1.82488e-10	0
+Carex_troodi	0.312192	1.15389	1.08243e-12	0
+Carex_idaea	2.3198	0.161762	8.66686e-13	0
+N337	0.09393	0.280123	4.14701e-11	0
+Carex_distans	3.45517	0.352941	9.85051e-11	0
+Carex_diluta	0.142441	3.97743	4.54338e-11	0
+Carex_lainzii	5.24639	4.45643	2.60737e-08	0
+N338	7.06415	7.45653	1.98153e-06	0
+Carex_forsteri	0.00332497	1.7863	4.43883e-09	0
+Carex_calcis	1.03455	0.00787256	5.10128e-09	0
+N339	7.97708	7.12773	5.14634e-05	0
+Carex_michauxiana	5.6706	3.41789	1.69871e-05	0
+Carex_folliculata	3.63463	5.38167	1.63849e-06	0
+Carex_richardsonii	18.2008	17.569	0.00273328	0
+Carex_kitaibeliana	17.4267	23.9073	0.000942613	0
+N340	15.381	16.2359	0.00345804	0
+Carex_echinochloe	11.2961	11.591	0.00205566	0
+Carex_filicina	11.2961	11.591	0.00205566	0
+N341	5.94001	6.09941	0.000358831	0
+N342	9.63829	7.99606	0.00384635	0
+Carex_humilis_var._nana	11.3178	15.9908	0.00111671	0
+N343	10.9301	6.3905	0.0542569	0
+N344	4.1125	1.06128	0.0426211	0
+Carex_pediformis_subsp._macroura	4.03646	2.04723	0.000509105	0
+Carex_rhizina_subsp._rhizina	4.03646	2.04723	0.000509105	0
+Carex_pediformis	3.43105	7.51806	0.000924516	0
+N345	0.162643	0.201115	2.15487e-06	0
+N346	18.4051	16.1086	0.00931552	0
+Carex_quadriflora	4.11274	5.46154	2.97257e-05	0
+N347	3.26426	2.14574	0.000141497	0
+Carex_pallidula	1.74417	2.21326	6.47908e-07	0
+N348	1.61908	0.84249	6.34899e-07	0
+Carex_ornithopoda	1.19815	0.443862	1.29528e-09	0
+Carex_digitata	0.622011	0.867727	1.29692e-09	0
+N349	1.50553	2.12947	8.35447e-06	0
+N350	0.874304	0.690581	2.45196e-05	0
+N351	1.13564	1.1943	6.79767e-06	0
+N352	13.1631	14.4163	0.00216215	0
+Carex_tristachya	4.79534	3.994	0.000155627	0
+Carex_tristachya_var._pocilliformis	3.79444	4.9924	9.15586e-05	0
+N353	1.90358	1.82941	5.0899e-05	0
+N354	2.65138	1.66695	0.00255574	0
+Carex_gifuensis	13.4879	15.0487	0.00288705	0
+N355	14.3995	8.08912	0.130786	0
+N356	1.93943	3.18955	0.000402192	0
+Carex_brevicollis	0.360854	2.14914	6.85698e-07	0
+Carex_michelii	1.66326	0.451583	6.74617e-07	0
+Carex_nodaeana	5.92596	1.96848	0.000546492	0
+N357	3.63369	5.55685	4.90996e-05	0
+Carex_tsushimensis	10.1472	13.737	0.00136509	0
+N358	1.78899	2.02069	0.000291516	0
+Carex_blepharicarpa	7.97154	12.3279	0.000757004	0
+Carex_pisiformis_var._sikokiana	12.335	8.68415	0.643655	0
+N359	3.91963	2.94572	0.000467807	0
+N360	8.16365	5.22729	0.00692308	0
+N361	7.88101	5.23203	0.00118567	0
+N362	0.18476	0.759411	3.5618e-06	0
+N363	0.213437	0.185927	1.58031e-08	0
+Carex_holostoma	3.65133	1.27225	1.11466e-09	0
+Carex_adelostoma	1.69825	3.17945	0.995356	0
+Carex_buxbaumii	1.66479	4.66676	0.994544	0
+Carex_hartmanii	6.88855	1.05987	1.88755e-05	0
+N364	3.14082	3.02464	9.83532e-05	0
+Carex_melanantha	5.35028	6.97001	2.30033e-05	0
+N365	2.30483	1.70682	1.14275e-05	0
+N366	0.638478	0.801455	1.73265e-09	0
+N367	0.439128	0.478652	4.18425e-12	0
+Carex_albonigra	2.74097	2.7561	1.2541e-09	0
+N368	0.259875	0.282528	2.42138e-14	0
+Carex_aterrima_subsp._medwedewii	0.0250741	4.69898	4.03427e-14	0
+N369	0.496524	0.0303343	7.94634e-09	0
+N370	0.323963	0.0840523	2.03148e-11	0
+N371	0.482322	0.377681	8.87545e-14	0
+Carex_atrata	1.72541	1.52951	3.24167e-15	0
+Carex_atratiformis	1.72541	1.52951	3.24167e-15	0
+N372	0.462931	0.154808	7.83779e-14	0
+Carex_norvegica	2.35992	1.36753	4.338e-14	0
+Carex_media	2.35992	1.36753	4.338e-14	0
+N373	0.284791	0.0680132	1.97701e-11	0
+Carex_gmelinii	5.1952	0.871605	7.99202e-11	0
+Carex_melanocephala	1.80239	2.47879	3.85763e-12	0
+N374	0.934034	1.07815	7.91271e-11	0
+Carex_bella	0.788531	6.69814	2.99627e-13	0
+N375	0.0942978	0.0119713	1.34204e-10	0
+N376	0.79779	0.176037	3.06437e-11	0
+Carex_parviflora	1.91345	1.52867	2.3431e-11	0
+Carex_raynoldsii	3.28033	0.895553	2.3431e-11	0
+N377	2.29289	1.34428	4.23511e-11	0
+Carex_hallii	0.252446	0.194112	1.41322e-12	0
+Carex_parryana	0.252446	0.194112	1.41322e-12	0
+N378	0.0492481	0.0290334	1.14447e-09	0
+Carex_obscura_var._brachycarpa	4.95235	3.19023	2.98532e-08	0
+N379	2.1004	1.92223	6.61486e-10	0
+Carex_infuscata	2.22246	1.63852	8.75076e-10	0
+Carex_caucasica	1.6908	2.10685	8.31535e-10	0
+N380	8.19653	9.61388	0.000489893	0
+Carex_sprengelii	6.91826	6.97727	0.000534667	0
+Carex_arnellii	6.4882	7.54519	0.000389296	0
+N381	1.41193	2.53151	6.40296e-07	0
+Carex_liparocarpos	17.6058	18.8459	0.005263	0
+N382	2.08801	3.49933	6.51281e-06	0
+N383	1.57387	2.17181	2.01031e-05	0
+N384	4.93438	4.03859	0.00147037	0
+Carex_petricosa	7.64796	10.735	0.000514547	0
+N385	1.91208	1.11481	0.00164977	0
+Carex_inanis	8.1657	7.08001	0.00127348	0
+Carex_baccans	9.27832	6.23993	0.0048481	0
+N386	3.96168	6.68168	8.22073e-05	0
+Carex_pilulifera	5.78737	12.2437	0.00110527	0
+N387	5.49325	4.37138	0.0033517	0
+N388	0.984318	0.506055	6.2807e-06	0
+N389	0.107	0.0532181	1.11438e-08	0
+Carex_inops	2.93001	2.0647	2.14446e-06	0
+Carex_albicans	2.93001	2.0647	2.14446e-06	0
+Carex_nigromarginata	2.51606	2.59679	6.30752e-08	0
+N390	0.206833	0.319877	4.78424e-07	0
+N391	0.46675	0.498678	2.55047e-07	0
+Carex_peckii	3.38087	1.83843	2.315e-05	0
+N392	0.795256	1.55504	9.9392e-08	0
+Carex_deflexa	0.480154	4.17519	6.15286e-08	0
+Carex_rossii	2.96701	0.671321	0.000749839	0
+N393	0.219917	0.318938	1.84924e-09	0
+N394	0.483702	0.303854	3.90063e-08	0
+Carex_pensylvanica	3.12553	1.69566	1.77039e-06	0
+N395	1.34972	1.54816	2.95233e-07	0
+Carex_lucorum	3.74501	0.117002	2.93667e-05	0
+N396	0.00359067	0.0865497	7.4907e-11	0
+N397	0.0740237	0.364743	2.80005e-11	0
+Carex_umbellata	0.26285	1.26059	6.3034e-13	0
+Carex_tonsa	0.527016	0.524752	1.47058e-12	0
+Carex_novae-angliae	0.348745	1.6373	2.52825e-11	0
+Carex_communis	1.81057	4.20081	5.78037e-08	0
+N398	5.29367	6.43129	0.000356867	0
+N399	2.54499	2.40186	0.000334953	0
+Carex_glacialis	6.6463	7.43387	0.000821169	0
+Carex_supina	7.6942	6.49677	0.00206098	0
+N400	3.82653	4.92688	0.000196396	0
+Carex_fritschii	4.45981	5.99569	8.54945e-05	0
+N401	3.93469	3.76744	0.000446266	0
+Carex_montana	2.82472	0.53291	0.000161533	0
+N402	0.454478	2.28409	1.42589e-06	0
+Carex_riloensis	0.0269163	1.9036	5.93796e-11	0
+Carex_tricolor	0.679808	0.106014	0.785822	0
+Carex_durieui	31.8641	28.561	0.0289013	0
+N403	10.6393	10.3859	0.00525922	0
+N404	12.3049	10.0761	0.0185694	0
+N405	3.67857	5.0979	6.53163e-05	0
+N406	17.2554	33.7319	0.0105484	0
+Carex_physodes	1.00512	1.41064	0.000126001	0
+Carex_pachystylis	1.00512	1.41064	0.000126001	0
+N407	10.9174	7.65904	0.0242194	0
+N408	15.6929	12.2955	0.00846707	0
+Carex_siccata	3.94295	1.15255	1.01629e-05	0
+N409	0.770774	2.074	9.62698e-06	0
+Carex_pseudofoetida_subsp._afghanica	0.824476	0.729883	1.70314e-08	0
+Carex_maritima	0.446776	1.35218	1.70468e-08	0
+N410	12.4996	11.1515	0.0033518	0
+Carex_hookeriana	3.73146	4.79881	2.34136e-06	0
+N411	0.60831	0.422425	2.18092e-06	0
+N412	2.43329	1.57275	9.36157e-08	0
+Carex_curaica	2.11401	1.228	5.97383e-10	0
+N413	0.749211	0.837833	5.53431e-10	0
+Carex_disticha	0.67119	0.696553	6.71801e-14	0
+N414	0.0429576	0.0462456	6.45181e-14	0
+Carex_sartwellii	0.615108	0.637186	9.95227e-16	0
+Carex_disticha_subsp._lithophila	0.615108	0.637186	9.95227e-16	0
+Carex_hoodii	3.51492	3.76836	9.30852e-08	0
+N415	1.76722	1.0428	0.00682824	0
+N416	1.6268	1.21984	0.00266371	0
+N417	4.31036	3.51644	0.000907712	0
+N418	16.214	19.3933	0.00142611	0
+Carex_retroflexa	3.12775	8.50854	8.92926e-06	0
+N419	2.11302	0.933009	0.000583777	0
+N420	1.31761	0.89858	1.06534e-06	0
+Carex_radiata	3.74763	1.73826	2.30297e-08	0
+Carex_rosea	2.11097	3.10161	2.10563e-08	0
+N421	0.609411	0.394365	9.73876e-07	0
+Carex_appalachica	2.80085	3.58761	6.25758e-08	0
+Carex_socialis	4.46938	2.25614	7.91187e-08	0
+N422	23.5613	15.9313	0.122342	0
+Carex_kobomugi	5.71119	2.42805	0.000334657	0
+Carex_macrocephala	2.91432	4.62926	0.000319784	0
+N423	19.8085	17.7517	0.631328	0
+Carex_leiorhyncha	6.23163	12.9572	0.0140971	0
+N424	3.89657	1.49632	0.10862	0
+Carex_nubigena	6.41884	5.64543	0.00072732	0
+N425	0.811302	0.352154	0.000576115	0
+Carex_albata	6.74199	4.42978	8.85864e-05	0
+Carex_neurocarpa	6.74199	4.42978	8.85864e-05	0
+N426	3.67821	2.88619	0.000580328	0
+N427	2.91976	2.93411	1.60867e-05	0
+N428	1.21511	1.02649	8.10327e-06	0
+Carex_decomposita	22.885	19.2041	0.00449709	0
+N429	4.42113	4.44392	4.08883e-05	0
+N430	3.81499	3.59855	3.42278e-05	0
+N431	0.587077	0.813825	8.40991e-08	0
+N432	3.18707	2.68284	2.17631e-06	0
+Carex_bromoides	11.1876	6.92742	0.00176712	0
+Carex_vernacula	7.61369	10.3233	1.19227e-05	0
+N433	3.28184	5.4144	1.3962e-06	0
+Carex_cephalophora	6.5668	8.6392	6.01403e-06	0
+N434	2.10736	2.64345	6.41355e-07	0
+N435	0.666066	0.618039	2.50921e-08	0
+Carex_aggregata	4.56649	4.15072	4.68547e-09	0
+N436	0.190417	0.194447	2.31651e-10	0
+Carex_cephaloidea	3.87181	4.452	1.09909e-11	0
+N437	0.335007	0.297879	9.03148e-12	0
+N438	0.926193	1.73989	1.48744e-13	0
+Carex_conjuncta	1.73208	3.53567	1.19027e-11	0
+Carex_alopecoidea	2.58589	2.38949	6.94397e-12	0
+N439	0.281602	0.133162	4.78189e-13	0
+Carex_triangularis	4.27125	3.03714	5.83392e-13	0
+N440	0.0305611	0.0203793	1.70867e-14	0
+Carex_densa	4.23179	3.00786	8.06294e-13	0
+Carex_vulpinoidea	3.68312	3.4592	4.60252e-12	0
+Carex_leavenworthii	4.33873	5.87492	3.57761e-07	0
+N441	2.64814	1.80279	5.14509e-06	0
+N442	3.31276	2.41892	6.72315e-06	0
+Carex_simulata	8.35208	6.5256	0.000100786	0
+N443	2.51217	2.34832	8.53267e-07	0
+Carex_cusickii	5.30234	4.63813	1.43452e-06	0
+Carex_diandra	4.78825	5.12408	4.16071e-06	0
+Carex_occidentalis	10.7183	9.99886	0.000178941	0
+N444	7.8417	8.36272	0.000102061	0
+N445	2.16053	4.65016	1.11796e-06	0
+N446	1.84921	2.54085	1.60691e-07	0
+N447	0.620521	0.846905	1.00166e-09	0
+Carex_gravida	1.70098	1.98706	3.84942e-11	0
+Carex_mesochorea	1.70098	1.98706	3.84942e-11	0
+N448	0.918937	0.925196	8.86003e-10	0
+Carex_annectens	1.89196	1.39817	5.36468e-11	0
+Carex_sparganioides	1.3987	1.90491	7.06901e-11	0
+Carex_muehlenbergii	3.92547	6.12962	4.66352e-08	0
+N449	2.77558	1.37858	0.000150478	0
+N450	4.91333	4.56002	2.90406e-05	0
+Carex_praegracilis	1.62789	1.07857	5.1084e-08	0
+Carex_pansa	1.10873	1.55941	4.78175e-08	0
+Carex_prairea	8.41752	4.5235	0.000549697	0
+N451	5.46756	6.51155	3.04338e-05	0
+Carex_nervina	15.3969	16.418	0.00108917	0
+N452	2.18089	2.43738	1.55188e-05	0
+Carex_crus-corvi	13.3042	14.0663	0.000990699	0
+Carex_conferta	13.3042	14.0663	0.000990699	0
+N453	4.58395	3.58197	0.000147542	0
+N454	1.65196	1.91613	1.65059e-06	0
+N455	1.32468	1.39994	5.25504e-07	0
+N456	6.74945	5.58143	0.000247234	0
+Carex_appropinquata	12.5266	10.4461	0.00119047	0
+Carex_appressa	11.5332	11.4404	0.00047003	0
+N457	9.22492	11.8002	0.000122165	0
+Carex_deweyana	7.535	6.68944	4.1566e-05	0
+N458	1.27991	1.84761	9.87253e-07	0
+N459	3.17903	2.88344	4.48701e-06	0
+Carex_leptopoda	3.0452	1.92679	3.99321e-07	0
+Carex_bolanderi	1.98718	2.86877	1.07855e-07	0
+Carex_infirminervia	4.38174	6.96767	1.42609e-07	0
+N460	6.41412	7.04386	3.70099e-05	0
+Carex_foetida	12.6462	11.8344	0.000943886	0
+N461	4.36425	5.12804	2.42227e-05	0
+Carex_elongata	7.69595	7.11114	0.000333342	0
+N462	2.33538	2.97454	1.19176e-06	0
+N463	0.804807	0.62508	1.72207e-08	0
+Carex_exilis	6.47717	2.43099	0.000196403	0
+Carex_seorsa	2.75693	5.70761	9.51753e-08	0
+N464	1.18373	1.94703	9.59052e-09	0
+Carex_atlantica	1.69098	5.69837	2.12214e-09	0
+N465	3.28667	1.61323	6.49832e-07	0
+Carex_echinata	1.65517	0.336164	8.15588e-09	0
+Carex_interior	0.457148	1.1381	7.58404e-09	0
+N466	4.8653	3.2819	8.86856e-05	0
+N467	1.0893	0.444554	2.12567e-05	0
+N468	3.8444	3.47058	9.51694e-06	0
+Carex_maackii	13.0635	11.744	0.000454253	0
+N469	5.05278	5.08074	7.84178e-06	0
+Carex_resectans	6.00528	8.65036	1.70757e-06	0
+N470	3.79503	2.65186	8.58263e-06	0
+Carex_kirkii	4.62594	3.41449	6.31894e-07	0
+Carex_trachycarpa	4.08875	3.87729	6.01659e-07	0
+N471	11.6364	5.2296	0.00638158	0
+N472	1.05875	0.608085	9.24065e-06	0
+N473	0.255549	0.147224	1.07195e-08	0
+N474	3.77745	3.06388	7.40928e-10	0
+N475	0.370456	0.166773	1.50702e-12	0
+N476	0.462409	0.257291	2.68451e-14	0
+Carex_praticola	2.17387	3.69456	8.07474e-16	0
+N477	1.08769	0.35806	7.53153e-16	0
+Carex_leporinella	2.60708	1.85758	2.71963e-16	0
+Carex_phaeocephala	3.26735	1.51785	2.1247e-16	0
+Carex_argyrantha	3.56563	2.88114	3.71285e-14	0
+Carex_davyi	2.56284	4.6746	2.44133e-12	0
+N478	1.35688	0.960678	7.1596e-10	0
+N479	0.222026	0.0846117	1.51015e-13	0
+N480	2.01777	1.31043	3.57281e-14	0
+Carex_subfusca	4.72405	3.36337	4.39757e-13	0
+Carex_mariposana	4.14581	3.78513	6.71256e-13	0
+Carex_gracilior	7.39201	4.32395	3.69701e-14	0
+N481	0.464026	0.86334	2.1549e-13	0
+N482	0.264564	0.082686	3.47081e-16	0
+Carex_preslii	5.71247	4.28929	7.48162e-18	0
+N483	0.253814	0.105815	5.0967e-18	0
+N484	1.93289	0.939709	1.19628e-18	0
+Carex_pachystachya	3.03869	3.7571	1.7914e-13	0
+Carex_macloviana	5.42668	2.1451	5.35223e-13	0
+N485	1.18529	1.0149	1.87556e-19	0
+N486	2.38914	1.59993	4.33616e-16	0
+Carex_harfordii	1.76582	1.45034	1.52017e-13	0
+Carex_subbracteata	1.76582	1.45034	1.52017e-13	0
+Carex_abrupta	3.22936	4.12467	9.25272e-16	0
+N487	0.474305	2.75372	3.54587e-16	0
+N488	0.042832	0.506206	1.08097e-18	0
+N489	0.280229	1.46654	8.04714e-21	0
+N490	0.224871	0.517936	5.39347e-23	0
+Carex_leporina	2.10987	3.27624	2.29339e-22	0
+N491	0.639123	0.946167	2.11462e-22	0
+N492	0.0700609	0.305246	6.11655e-20	0
+Carex_cumulata	0.538103	5.11884	2.86349e-21	0
+N493	0.349255	0.158868	3.25692e-21	0
+Carex_crawfordii	1.43257	1.24707	4.92543e-21	0
+N494	1.0378	0.55	3.67939e-21	0
+Carex_bebbii	0.326753	0.629059	3.83862e-20	0
+N495	0.0265769	0.00730997	1.65824e-20	0
+N496	0.279917	0.715373	1.02153e-21	0
+Carex_projecta	4.14071e-05	1.33686	2.97382e-26	0
+Carex_tribuloides_var._sangamonensis	1.04387	0.000258252	0	0
+N497	0.501154	0.0529429	8.33407e-22	0
+Carex_tribuloides_var._tribuloides	0.36111	0.131116	2.42564e-25	0
+Carex_cristatella	0.36111	0.131116	2.42564e-25	0
+N498	0.558296	0.18977	7.47449e-20	0
+N499	0.22156	0.292198	1.86689e-22	0
+N500	1.51842	0.0682803	1.83299e-19	0
+N501	0.0306782	0.00774565	3.07356e-19	0
+N502	0.0389883	0.753352	2.29849e-22	0
+N503	0.242085	0.0168226	2.10523e-23	0
+Carex_oronensis	1.97451	0.117205	4.52595e-26	0
+N504	0.105525	0.115469	4.7255e-26	0
+Carex_merritt-fernaldii	0.187129	0.319881	3.61217e-30	0
+N505	0.0117431	0.00685035	2.88028e-30	0
+N506	0.000603288	0.24201	1.02058e-24	0
+Carex_molesta	0.0792713	0.951717	3.3299e-20	0
+Carex_opaca	0.0627055	1.93515	6.47374e-21	0
+N507	0.775845	0.0008196	5.42058e-24	0
+Carex_tincta	1.14817	0.0761079	8.56919e-21	0
+Carex_echinodes	2.1194	0.0473503	8.57338e-21	0
+N508	0.00266209	1.22039	1.08818e-24	0
+N509	0.00219462	1.69757	8.86803e-25	0
+Carex_shinnersii	0.209147	0.684469	1.97478e-24	0
+Carex_missouriensis	7.05714e-05	2.69287	1.59206e-24	0
+Carex_normalis	0.645477	0.324043	7.72494e-24	0
+N510	0.303284	0.00380229	1.02652e-20	0
+Carex_muskingumensis	4.245	0.179011	3.38283e-21	0
+N511	0.0423986	0.0160077	2.9859e-21	0
+Carex_bicknellii	2.26048	0.22088	3.75788e-21	0
+Carex_festucacea	0.320235	1.28064	3.45994e-21	0
+Carex_silicea	1.71831	0.327735	1.00678e-18	0
+Carex_tenera	0.0363181	3.76177	6.60779e-23	0
+N512	0.342792	0.089426	4.24508e-22	0
+Carex_molestiformis	1.44083	0.922134	1.16967e-23	0
+N513	0.344004	0.140463	5.14771e-24	0
+Carex_hyalina	2.68458	0.369423	4.14913e-25	0
+N514	0.026431	0.0817278	1.26751e-25	0
+N515	0.00260837	0.270378	5.85799e-27	0
+Carex_tetrastachya	0.405793	1.76485	3.54495e-18	0
+Carex_brevior	0.168702	4.50743	3.51174e-18	0
+Carex_reniformis	5.60639	0.248646	1.12598e-23	0
+N516	0.243131	0.560944	7.26489e-23	0
+N517	0.273873	0.556214	5.68833e-23	0
+Carex_ozarkana	0.745422	6.60121	4.84553e-22	0
+N518	3.89819	0.905637	2.82899e-14	0
+Carex_straminea	0.298399	0.150123	7.32175e-14	0
+Carex_hormathodes	0.298399	0.150123	7.32175e-14	0
+N519	0.858108	0.974753	4.8799e-22	0
+N520	0.937945	0.575804	5.41183e-19	0
+Carex_alata	2.86984	0.256995	6.3878e-19	0
+N521	0.0869451	0.61722	4.83346e-20	0
+Carex_longii	0.167936	3.93241	3.88619e-21	0
+Carex_vexans	1.38596	0.242119	7.6383e-20	0
+N522	0.0501271	0.0926216	3.64803e-19	0
+N523	0.117691	0.114814	4.28644e-21	0
+N524	0.454224	0.448273	1.09571e-22	0
+Carex_albolutescens	0.350497	2.3418	5.17457e-21	0
+Carex_suberecta	2.3656	0.356906	3.60592e-20	0
+Carex_scoparia_var._tessellata	1.37994	1.36529	1.1566e-22	0
+Carex_scoparia_var._scoparia	1.09363	2.07609	5.9683e-21	0
+N525	0.206635	0.48713	5.63282e-21	0
+N526	1.06718	2.64156	5.79404e-22	0
+Carex_athrostachya	1.76357	1.55639	1.45278e-15	0
+Carex_sychnocephala	0.979029	2.77186	1.1682e-15	0
+N527	2.59462	2.48578	6.1027e-18	0
+Carex_xerantica	0.354248	1.8304	2.30712e-13	0
+Carex_petasata	1.88879	0.36507	2.76183e-13	0
+Carex_adusta	5.60874	2.72225	1.90918e-18	0
+N528	1.95408	1.95321	1.53349e-08	0
+Carex_foenea	6.73145	4.02211	2.61974e-10	0
+N529	1.04069	1.73832	1.4096e-10	0
+Carex_feta	2.1759	6.76735	9.39432e-12	0
+Carex_bohemica	5.23806	2.83071	1.77918e-11	0
+N530	2.96058	2.31871	9.86884e-06	0
+Carex_straminiformis	6.77891	4.25971	9.10086e-08	0
+N531	1.70437	2.12604	8.991e-08	0
+N532	1.59106	1.62474	3.75173e-11	0
+Carex_fracta	0.794723	3.8201	4.01659e-13	0
+Carex_integra	3.76381	0.789287	3.89745e-13	0
+N533	0.142946	0.174554	2.7385e-11	0
+Carex_multicostata	2.07067	5.09814	2.04254e-12	0
+N534	1.07742	0.530752	1.87217e-12	0
+N535	2.62317	0.684676	2.64671e-14	0
+Carex_haydeniana	1.23866	0.751394	1.05811e-15	0
+N536	0.054423	0.0233829	8.2426e-17	0
+Carex_ebenea	1.92686	0.47065	1.45513e-16	0
+Carex_microptera	0.673407	1.2172	1.40107e-16	0
+Carex_peucophila	1.71304	3.28722	2.95465e-14	0
+N537	1.69039	2.81013	5.05741e-07	0
+N538	5.37378	9.63591	1.89458e-06	0
+Carex_chordorrhiza	9.92161	5.33402	0.00937909	0
+Carex_pseudocuraica	3.79706	12.8949	1.12208e-05	0
+N539	0.801603	0.743562	1.03661e-06	0
+N540	3.04368	3.3242	3.89755e-07	0
+N541	2.90398	3.38533	9.43421e-07	0
+N542	1.7031	2.31333	3.32032e-09	0
+Carex_bonanzensis	3.77074	6.98882	3.23002e-09	0
+N543	2.77321	2.0367	1.00085e-07	0
+Carex_traiziscana	3.89424	1.84885	3.23232e-08	0
+N544	1.5584	2.40661	2.43916e-08	0
+Carex_lapponica	0.552849	0.659239	2.85462e-11	0
+N545	0.287505	0.372241	2.66763e-11	0
+Carex_canescens	0.175094	0.196748	3.47073e-14	0
+Carex_arctiformis	0.175094	0.196748	3.47073e-14	0
+N546	1.11344	0.956888	6.13628e-09	0
+N547	1.47798	1.50044	1.82238e-09	0
+N548	0.0623075	0.0477132	6.56493e-12	0
+N549	0.683834	0.527865	9.85491e-13	0
+N550	0.451037	0.28423	5.79832e-14	0
+Carex_trisperma	3.83196	3.13185	9.30301e-13	0
+N551	0.356098	0.274948	6.91062e-15	0
+N552	0.963575	0.478838	7.996e-15	0
+Carex_nemurensis	1.16037	5.02625	1.27386e-12	0
+N553	1.04968	0.123252	4.66875e-12	0
+N554	0.642274	0.234388	1.3799e-12	0
+Carex_mackenziei	2.01467	1.2164	9.49411e-14	0
+Carex_lachenalii	2.01467	1.2164	9.49411e-14	0
+N555	1.60049	0.50403	2.10398e-12	0
+Carex_ursina	1.06125	0.951624	1.41641e-13	0
+Carex_glareosa	1.71687	0.607243	1.79757e-13	0
+Carex_heleonastes	2.47127	3.85242	5.64896e-15	0
+N556	1.93057	2.37688	8.90576e-14	0
+Carex_loliacea	0.962262	2.649	6.98977e-12	0
+Carex_marina	2.40156	1.0883	2.43805e-11	0
+Carex_tenuiflora	4.50013	4.4772	1.18149e-12	0
+N557	2.03936	2.70452	7.87391e-12	0
+Carex_brunnescens	1.95403	2.25132	7.40905e-11	0
+Carex_brunnescens_subsp._sphaerostachya	1.95403	2.25132	7.40905e-11	0
+Carex_furva	6.6671	5.65209	4.97593e-06	0
+N558	4.81297	4.5148	4.54729e-06	0
+Carex_laeviculmis	4.97186	6.5798	3.39041e-07	0
+N559	2.8425	2.01388	1.09165e-06	0
+Carex_arcta	3.00804	3.44477	1.3982e-07	0
+Carex_illota	4.12763	2.56436	4.43881e-07	0
+N560	0.456804	0.389004	1.13333e-08	0
+Carex_disperma	16.2445	10.9491	0.0025826	0
+N561	1.24769	1.57733	3.39959e-09	0
+N562	3.17096	2.97289	1.18605e-06	0
+N563	9.30369	7.87468	0.000105326	0
+Carex_paniculata_subsp._lusitanica	0.0112492	0.968329	1.84984e-08	0
+Carex_paniculata	1.05827	0.0153699	1.18742e-08	0
+N564	2.92574	3.24571	1.57192e-06	0
+N565	2.31235	2.47231	4.40001e-08	0
+Carex_otrubae	2.96951	3.01599	1.10192e-11	0
+N566	0.00431981	0.00455687	5.91922e-12	0
+Carex_spicata	2.96624	3.01248	4.01714e-12	0
+N567	0.305611	0.317196	3.69852e-12	0
+N568	0.251113	0.25751	2.02815e-14	0
+Carex_muricata_subsp._muricata	2.34793	2.37625	1.45295e-15	0
+N569	1.67947	1.7036	1.27108e-15	0
+Carex_leersii	0.568006	0.57219	1.90457e-13	0
+Carex_pairae	0.568006	0.57219	1.90457e-13	0
+Carex_divulsa	2.63181	2.66649	2.39736e-14	0
+Carex_canariensis	5.42733	5.63377	1.08376e-07	0
+N570	1.63718	2.21141	1.03847e-09	0
+N571	2.02541	1.93645	4.67228e-08	0
+N572	0.113341	0.193185	1.50871e-10	0
+N573	2.62972	2.04784	1.16647e-08	0
+Carex_duriuscula	5.61544	4.96037	1.09367e-05	0
+Carex_stenophylla	5.61544	4.96037	1.09367e-05	0
+N574	3.26895	7.20421	2.20357e-08	0
+N575	1.42715	3.56787	6.06475e-11	0
+Carex_davalliana	0.506885	0.1937	3.39135e-12	0
+Carex_parallela	0.12668	0.813496	1.79008e-12	0
+N576	0.0416509	0.0366686	4.0029e-11	0
+Carex_gynocrates	2.22031	3.05284	7.5412e-11	0
+Carex_dioica	3.26377	2.0963	7.72723e-08	0
+N577	1.47211	0.823926	5.91106e-09	0
+N578	0.839729	0.507887	1.95599e-09	0
+N579	0.340111	0.251523	4.66727e-11	0
+N580	2.10927	2.77769	2.60777e-11	0
+N581	0.465592	0.544686	8.10515e-12	0
+Carex_brizoides	2.4731	2.63762	1.59831e-13	0
+N582	0.948489	1.04176	1.57307e-13	0
+Carex_praecox	1.47086	1.5421	1.84858e-13	0
+Carex_colchica	1.47086	1.5421	1.84858e-13	0
+N583	1.02002	1.14716	9.02879e-12	0
+Carex_arenaria	1.90809	2.02455	7.36915e-13	0
+Carex_pseudobrizoides	1.90809	2.02455	7.36915e-13	0
+N584	4.363	2.44627	3.56402e-07	0
+Carex_planata	2.98383	1.81259	2.54838e-08	0
+Carex_rochebrunii	2.36021	2.18897	2.73103e-08	0
+Carex_remota	6.57628	5.39989	1.93773e-05	0
+Carex_divisa	6.94155	6.43291	2.3718e-08	0
+N585	7.52094	10.6346	4.86674e-06	0
+Carex_stipata	0.972088	0.612493	1.24746e-08	0
+Carex_laevivaginata	0.510976	1.15138	1.22328e-08	0
+Carex_gibba	37.6139	44.6913	0.017835	0
+N586	33.7907	44.0888	0.854858	0
+N587	11.2131	14.3766	1.04739	0
+Carex_lingii	17.824	17.413	1.65784	0
+N588	3.9746	4.50926	0.522004	0
+N589	1.79196	1.85004	0.234862	0
+Carex_grandiligulata	12.0115	10.9967	1.03555	0
+Carex_pachygyna	12.0115	10.9967	1.03555	0
+Carex_siderosticta	13.8004	12.8528	1.21209	0
+Carex_scaposa	32.7346	29.7463	0.965234	0
+N590	29.2212	25.8188	0.105479	0
+N591	55.9996	48.6997	0.212851	0
+N592	2.29548	2.02679	0.00100517	0
+N593	2.98132	3.7587	0.000231007	0
+Trichophorum_alpinum	14.4937	21.4665	0.000185151	0
+Trichophorum_pumilum	19.0193	16.1712	0.00900761	0
+Trichophorum_cespitosum	25.6044	17.6182	0.270312	0
+Trichophorum_uniflorum	23.3258	22.9186	0.00692407	0
+N594	17.899	18.065	0.0209817	0
+N595	46.6646	52.7875	0.0421037	0
+Scirpus_lineatus	6.88148	8.32971	0.00119809	0
+Scirpus_pendulus	7.86306	7.33156	0.00294956	0
+N596	28.7633	25.5055	0.0577232	0
+N597	2.95245	2.88566	0.000183464	0
+N598	0.139895	0.143438	1.44093e-06	0
+Scirpus_maximowiczii	28.3115	25.9288	0.00964208	0
+N599	13.4879	15.1055	0.000586936	0
+N600	3.47494	3.64099	7.81554e-05	0
+Scirpus_polyphyllus	9.67915	8.36917	0.000930278	0
+N601	6.12208	7.43269	3.83225e-05	0
+N602	0.230502	0.468335	2.69928e-08	0
+Scirpus_atrovirens	1.25456	2.38251	1.01542e-09	0
+Scirpus_georgianus	1.67714	1.80509	1.02422e-09	0
+N603	2.66714	1.60005	4.08788e-08	0
+Scirpus_flaccidifolius	0.00323998	0.436192	0	0
+Scirpus_pallidus	0.568248	0.00120221	9.99602e-13	0
+Scirpus_ancistrochaetus	12.1747	13.0224	0.00047379	0
+N604	10.6645	10.1714	0.000890569	0
+Scirpus_radicans	15.6685	17.644	0.000956055	0
+N605	6.68726	5.66706	0.00077992	0
+N606	4.50542	4.20548	5.8686e-05	0
+Scirpus_sylvaticus	5.84662	6.14327	2.96449e-05	0
+Scirpus_microcarpus	6.33973	5.63659	4.19841e-05	0
+Scirpus_expansus	10.9096	9.90788	0.000178163	0
+N607	3.38154	3.06324	0.000287542	0
+N608	10.976	9.46616	0.00181443	0
+Scirpus_polystachyus	15.9514	17.2096	0.000574686	0
+N609	5.47934	4.38061	0.000654592	0
+Scirpus_longii	11.9353	11.3015	0.000326569	0
+N610	5.8867	4.9747	0.000116286	0
+Scirpus_pedicellatus	6.44677	5.72115	3.09362e-06	0
+N611	3.43814	3.27569	2.6255e-06	0
+Scirpus_atrocinctus	2.93075	2.36757	2.79601e-08	0
+Scirpus_cyperinus	2.43986	2.87668	2.61371e-08	0
+N612	8.61838	9.05858	0.000348149	0
+N613	6.59787	7.04955	0.000169998	0
+N614	1.17291	1.06263	6.54786e-06	0
+Eriophorum_angustifolium	9.87155	9.80933	0.000291625	0
+N615	1.16837	1.06658	6.60799e-07	0
+N616	5.65339	5.54798	1.01741e-05	0
+Eriophorum_callitrix	3.42488	2.56572	1.13454e-07	0
+N617	1.58924	2.08174	1.03223e-07	0
+Scirpus_hattorianus	0.788666	1.437	2.51715e-10	0
+Eriophorum_vaginatum	1.26286	0.911191	2.55169e-10	0
+N618	2.47192	2.30135	2.07958e-07	0
+N619	0.939503	0.994307	1.866e-08	0
+Eriophorum_brachyantherum	5.17619	5.32721	1.03691e-08	0
+Eriophorum_scheuchzeri	5.17619	5.32721	1.03691e-08	0
+Eriophorum_chamissonis	6.67005	5.8761	1.24434e-05	0
+Eriophorum_latifolium	10.1349	11.9582	1.751e-05	0
+N620	10.1897	10.0315	0.000593187	0
+Eriophorum_virginicum	7.49553	7.93741	0.000127987	0
+Eriophorum_gracile	8.01851	7.46066	0.00014222	0
+N621	70.6413	73.1763	0.514377	0
+N622	17.0189	15.9056	0.0438574	0
+Blysmus_compressus	22.0558	20.3551	0.0283715	0
+Blysmus_rufus	21.048	21.239	0.0205951	0
+Dulichium_arundinaceum	36.205	39.0595	0.0969444	0
+#+++++++++++++++++++++++++++++
+
+#Expected number of events from root to leaf
+LEAF	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+Carex_microglochin	113.135	106.588	0.259292	0
+Carex_baldensis	120.381	100.221	0.360485	0
+Carex_curvula	119.237	100.99	0.35686	0
+Carex_pauciflora	110.198	109.494	0.251554	0
+Carex_nigricans	117.018	103.437	0.258311	0
+Carex_micropoda	114.4	105.819	0.258311	0
+Carex_pyrenaica	115.398	103.82	0.258457	0
+Carex_anthoxanthea	111.988	107.301	0.252702	0
+Carex_alatauensis	118.494	101.257	0.273441	0
+Carex_simpliciuscula	117.453	102.209	0.273142	0
+Carex_macroprophylla	113.349	105.659	0.252333	0
+Carex_cercostachys	114.375	104.673	0.25158	0
+Carex_neesii	112.217	106.12	1.22346	0
+Carex_parvula	114.42	104.724	0.252002	0
+Carex_deasyi	108.055	113.477	0.251561	0
+Carex_myosuroides	113.016	106.311	0.251615	0
+Carex_borealipolaris	113.016	106.311	0.251615	0
+Carex_esenbeckii	114.908	104.216	0.252144	0
+Carex_phleoides	119.974	100.866	0.527649	0
+Carex_parvispica	119.289	101.181	0.527632	0
+Carex_subtilis	119.289	101.181	0.527632	0
+Carex_longifructus	117.667	102.557	0.527616	0
+Carex_drucei	117.667	102.557	0.527616	0
+Carex_austrocompacta	117.729	102.618	0.527616	0
+Carex_subviridis	117.344	102.234	0.527616	0
+Carex_banksiana	117.255	102.144	0.527616	0
+Carex_obtusifolia	117.223	102.113	0.527616	0
+Carex_horizontalis	117.099	101.989	0.527616	0
+Carex_aucklandica	117.099	101.989	0.527616	0
+Carex_cyanea	117.193	102.083	0.527616	0
+Carex_healyi	117.113	102.002	0.527616	0
+Carex_potens	117.073	101.962	0.527616	0
+Carex_erythrovaginata	117.073	101.962	0.527616	0
+Carex_punicea	117.327	102.216	0.527616	0
+Carex_purpurata	117.318	102.207	0.527616	0
+Carex_strictissima	117.318	102.207	0.527616	0
+Carex_silvestris	117.341	102.231	0.527616	0
+Carex_egmontiana	117.315	102.205	0.527616	0
+Carex_astricta	117.193	102.082	0.527616	0
+Carex_zotovii	117.193	102.082	0.527616	0
+Carex_minor	117.156	102.045	0.527616	0
+Carex_imbecilla	117.156	102.045	0.527616	0
+Carex_umbricola	117.484	102.373	0.527616	0
+Carex_uncinata	118.621	103.984	0.527616	0
+Carex_perplexa	140.934	103.901	0.527616	0
+Carex_megalepis	117.6	102.49	0.527616	0
+Carex_corynoidea	117.6	102.49	0.527616	0
+Carex_crispa	117.511	102.4	0.527616	0
+Carex_edura	117.511	102.4	0.527616	0
+Carex_erebus	117.751	102.64	0.527616	0
+Carex_leptalea	111.587	107.898	0.252571	0
+Carex_nardina	115.96	104.361	0.257158	0
+Carex_filifolia	111.54	108.867	0.253445	0
+Carex_rupestris	111.073	108.391	0.253229	0
+Carex_obtusata	111.437	107.743	0.252373	0
+Carex_capitata	110.869	108.161	0.251499	0
+Carex_runssoroensis	110.869	108.161	0.251499	0
+Carex_bonatiana	111.159	108.502	0.255028	0
+Carex_saximontana	114.681	105.365	0.270502	0
+Carex_backii	115.063	104.747	0.270502	0
+Carex_latebracteata	119.768	98.9513	0.341075	0
+Carex_willdenowii	118.344	102.041	0.270675	0
+Carex_jamesii	115.484	105.18	0.270672	0
+Carex_pseudorufa	114.339	104.849	0.263789	0
+Carex_uhligii	105.855	114.762	0.234157	0
+Carex_schimperiana	105.425	115.328	0.233591	0
+Carex_spartea	106.741	113.671	0.236166	0
+Carex_ludwigii	107.617	112.604	0.236472	0
+Carex_killickii	113.045	107.591	0.707927	0
+Carex_lancea	115.655	104.652	0.724433	0
+Carex_schweickerdtii	113.669	106.108	0.262278	0
+Carex_capensis	108.133	112.183	0.237899	0
+Carex_distachya	116.993	102.975	0.285831	0
+Carex_oedipostyla	115.513	103.96	0.259009	0
+Carex_pulicaris	113.383	105.768	0.255729	0
+Carex_peregrina	113.844	105.227	0.255646	0
+Carex_bostrychostigma	109.672	109.555	0.234851	0
+Carex_cruciata	109.095	109.78	0.220884	0
+Carex_brunnea	112.993	106.887	0.423605	0
+Carex_ussuriensis	104.616	114.97	0.210985	0
+Carex_alba	108.162	111.894	0.877171	0
+Carex_eburnea	108.162	111.894	0.877171	0
+Carex_macrolepis	107.614	111.165	0.210358	0
+Carex_mucronata	107.614	111.165	0.210358	0
+Carex_firma	107.105	111.633	0.208479	0
+Carex_sempervirens_subsp._sempervirens	106.622	112.14	0.207427	0
+Carex_melanocarpa	105.024	114.536	0.207086	0
+Carex_ericetorum	106.416	112.931	0.207522	0
+Carex_acaulis	111.159	107.764	0.213374	0
+Carex_flacca_subsp._flacca	108.03	110.562	0.207973	0
+Carex_grioletii	110.607	108.172	0.210486	0
+Carex_hispida	108	110.533	0.207984	0
+Carex_ferruginea	112.697	107.625	0.368306	0
+Carex_caudata	106.375	115.848	0.208061	0
+Carex_austroalpina	109.3	110.905	0.2166	0
+Carex_asturica	110.056	108.635	0.211665	0
+Carex_depauperata	109.493	109.049	0.209864	0
+Carex_fimbriata	109.043	109.611	0.210962	0
+Carex_conoidea	115.957	103.59	0.21237	0
+Carex_corrugata	112.958	105.549	0.210172	0
+Carex_grisea	112.326	105.918	0.210172	0
+Carex_amphibola	112.803	106.394	0.210172	0
+Carex_godfreyi	111.717	108.301	0.210172	0
+Carex_oligocarpa	111.914	106.505	0.210172	0
+Carex_bulbostylis	111.941	106.532	0.210172	0
+Carex_acidicola	111.004	107.595	0.210172	0
+Carex_calcifugens	111.465	107.056	0.210172	0
+Carex_planispicata	110.914	107.505	0.210172	0
+Carex_thornei	110.948	107.538	0.210172	0
+Carex_paeninsulae	110.606	108.197	0.210172	0
+Carex_austrocaroliniana	113.071	105.662	0.21017	0
+Carex_plantaginea	111.3	107.891	0.210169	0
+Carex_platyphylla	116.833	103.439	0.210314	0
+Carex_careyana	116.178	103.784	0.210314	0
+Carex_brysonii	110.897	107.487	0.210175	0
+Carex_hitchcockiana	111.896	106.487	0.210175	0
+Carex_asynchrona	111.641	107.232	0.210169	0
+Carex_impressinervia	110.266	108.857	0.210169	0
+Carex_ouachitana	111.392	106.983	0.210237	0
+Carex_cumberlandensis	109.983	108.573	0.210169	0
+Carex_laxiculmis	109.983	108.573	0.210169	0
+Carex_abscondita	110.501	108.091	0.210169	0
+Carex_gholsonii	108.982	112.548	0.210169	0
+Carex_flaccosperma	110.777	109.369	0.210169	0
+Carex_pigra	114.218	107.889	0.210169	0
+Carex_glaucodea	109.66	109.25	0.210169	0
+Carex_granularis	109.225	110.815	0.210169	0
+Carex_crawei	114.286	107.119	0.212157	0
+Carex_microdonta	116.627	106.471	0.212158	0
+Carex_edwardsiana	111.575	107.17	0.210483	0
+Carex_umbrosa_subsp._huetiana	115.106	104.241	0.236948	0
+Carex_pisiformis	116.188	103.323	0.236948	0
+Carex_depressa	114.645	104.78	0.236948	0
+Carex_caryophyllea	115.126	104.262	0.236948	0
+Carex_nervata	117.472	102.608	0.236948	0
+Carex_breviculmis_var._fibrillosa	115.835	103.971	0.236948	0
+Carex_mitrata	115.686	103.821	0.236948	0
+Carex_macrandrolepis	117.163	103.378	0.28879	0
+Carex_atrofusca	108.28	110.819	0.208036	0
+Carex_cruenta	109.575	109.128	0.209238	0
+Carex_tomentosa	110.594	108.163	0.210335	0
+Carex_hordeistichos	112.818	106.589	0.223121	0
+Carex_laxa	113.814	106.491	0.217207	0
+Carex_papulosa	109.802	109.354	0.208977	0
+Carex_vaginata	106.862	112.39	0.207464	0
+Carex_filipes	108.254	110.782	0.207477	0
+Carex_panicea	106.861	112.39	0.207475	0
+Carex_manhartii	106.153	113.682	0.207432	0
+Carex_woodii	110.179	109.708	0.20752	0
+Carex_purpurifera	107.748	111.277	0.207464	0
+Carex_livida	108.214	113.606	0.207442	0
+Carex_tetanica	106.465	113.776	1.1883	0
+Carex_meadii	106.465	113.776	1.1883	0
+Carex_aurea	105.911	114.123	0.884013	0
+Carex_garberi	105.842	114.055	0.884012	0
+Carex_bicolor	105.842	114.055	0.884012	0
+Carex_albursina	109.936	109.466	0.207459	0
+Carex_leptonervia	107.886	111.415	0.207457	0
+Carex_laxiflora	108.586	110.115	0.207457	0
+Carex_striatula	108.219	111.748	0.207457	0
+Carex_radfordii	111.033	109.562	0.207457	0
+Carex_blanda	108.225	110.754	0.207457	0
+Carex_crebriflora	109.273	109.803	0.207457	0
+Carex_styloflexa	111.36	108.889	0.207458	0
+Carex_olbiensis	110.195	108.753	0.209732	0
+Carex_pilosa	109.504	109.043	0.20818	0
+Carex_assiniboinensis	106.972	112.507	0.207851	0
+Carex_tristis	108.156	110.694	0.208098	0
+Carex_fuliginosa	108.595	110.131	0.207814	0
+Carex_stenocarpa	108.595	110.131	0.207814	0
+Carex_lupuliformis	114.261	105.807	0.208182	0
+Carex_lupulina	113.513	107.06	0.208182	0
+Carex_retrorsa	116.424	102.971	0.208182	0
+Carex_lurida	114.859	104.406	0.208182	0
+Carex_hystericina	114.021	106.568	0.208182	0
+Carex_comosa	114.885	104.432	0.208182	0
+Carex_pseudocyperus	115.435	103.982	0.208182	0
+Carex_oligosperma	118.277	101.827	0.208182	0
+Carex_hirta	134.433	100.608	0.208183	0
+Carex_songorica	120.813	101.485	0.208185	0
+Carex_atherodes	117.919	102.51	0.208185	0
+Carex_fedia	116.946	100.357	0.20823	0
+Carex_houghtoniana	114.256	107.801	0.208182	0
+Carex_lasiocarpa	114.976	108.468	0.208182	0
+Carex_pellita	120.034	102.629	0.208182	0
+Carex_laeviconica	136.217	103.593	0.208193	0
+Carex_pumila	116.674	103.689	0.209414	0
+Carex_melanostachya	114.765	108.004	0.208182	0
+Carex_lacustris	118.662	103.236	0.208182	0
+Carex_utriculata	120.578	101.205	0.208182	0
+Carex_rotundata	119.868	101.495	0.208182	0
+Carex_rostrata	118.567	102.194	0.208182	0
+Carex_membranacea	118.145	102.773	0.208182	0
+Carex_vesicaria	120.636	101.264	0.208182	0
+Carex_saxatilis	119.92	101.548	0.208182	0
+Carex_phacota_var._gracilispica	117.787	102.367	0.208771	0
+Carex_frankii	119.777	101.407	0.211108	0
+Carex_intumescens	111.494	109.028	0.208139	0
+Carex_grayi	112.152	107.686	0.208139	0
+Carex_stylosa	111.664	107.209	0.208137	0
+Carex_haydenii	111.945	106.49	0.208138	0
+Carex_aperta	111.945	106.49	0.208138	0
+Carex_augustinowiczii	115.32	103.868	0.208143	0
+Carex_typhina	113.062	107.607	0.208143	0
+Carex_squarrosa	113.333	106.878	0.208143	0
+Carex_gynandra	115.653	103.201	0.208143	0
+Carex_mitchelliana	115.042	103.59	0.208143	0
+Carex_torta	115.042	103.59	0.208143	0
+Carex_crinita	115.089	103.637	0.208143	0
+Carex_nebraskensis	115.306	103.857	0.208143	0
+Carex_microchaeta	114.447	104.998	0.208143	0
+Carex_spectabilis	114.827	104.378	0.208143	0
+Carex_stricta	116.303	103.863	0.208143	0
+Carex_bigelowii	116.694	103.254	0.208143	0
+Carex_scopulorum	118.651	102.211	0.208143	0
+Carex_lenticularis	116.607	104.166	0.208143	0
+Carex_angustata	116.607	104.166	0.208143	0
+Carex_nudata	116.858	103.418	0.208143	0
+Carex_paleacea	117.953	103.513	0.208143	0
+Carex_salina	119.709	102.269	0.208143	0
+Carex_subspathacea	119.599	102.159	0.208143	0
+Carex_aquatilis	118.895	102.455	0.208143	0
+Carex_ramenskii	120.553	102.308	0.208143	0
+Carex_lyngbyei	118.466	103.981	0.208143	0
+Carex_eleusinoides	122.095	101.742	0.208143	0
+Carex_dacica	120.397	102.026	0.208143	0
+Carex_buekii	115.461	116.426	0.208143	0
+Carex_elata	121.62	105.199	0.208143	0
+Carex_appendiculata	121.65	104.229	0.208143	0
+Carex_cespitosa	121.818	103.397	0.208143	0
+Carex_trinervis	123.742	103.321	0.208143	0
+Carex_nigra	122.322	101.901	0.208143	0
+Carex_acuta	122.287	101.867	0.208143	0
+Carex_orbicularis	123.239	101.819	0.208143	0
+Carex_reuteriana	118.264	102.829	0.208143	0
+Carex_macrochaeta	114.105	105.653	0.208143	0
+Carex_mertensii	114.423	104.971	0.208143	0
+Carex_emoryi	117.299	102.847	0.208143	0
+Carex_interrupta	114.837	104.385	0.208143	0
+Carex_podocarpa	114.803	104.352	0.208143	0
+Carex_obnupta	117.198	102.746	0.208143	0
+Carex_pluriflora	111.878	108.425	0.208143	0
+Carex_rariflora	112.256	107.803	0.208143	0
+Carex_magellanica	113.313	105.861	0.208143	0
+Carex_limosa	114.857	104.404	0.208143	0
+Carex_pichinchensis	120.317	101.744	0.244218	0
+Carex_meyeriana	110.583	109.128	0.208137	0
+Carex_alopecuroides	114.07	104.616	0.208172	0
+Carex_pedunculata	106.3	114.671	0.208053	0
+Carex_halleriana	111.055	107.597	0.20832	0
+Carex_rorulenta	110.531	108.073	0.208319	0
+Carex_scabrata	111.965	106.511	0.208373	0
+Carex_scabriuscula	112.921	105.465	0.208227	0
+Carex_curatorum	113.991	104.535	0.208147	0
+Carex_scirpoidea	113.991	104.535	0.208147	0
+Carex_hirtifolia	110.883	107.426	0.208121	0
+Carex_gracillima	111.217	106.759	0.208121	0
+Carex_formosa	111.217	106.759	0.208121	0
+Carex_hirtissima	114.44	104.365	0.208122	0
+Carex_gynodynama	111.672	108.143	0.208121	0
+Carex_castanea	110.502	110.017	0.208121	0
+Carex_arctata	111.751	106.294	0.208121	0
+Carex_mendocinensis	112.737	105.28	0.208121	0
+Carex_debilis	113.382	104.926	0.208121	0
+Carex_caroliniana	110.926	108.469	0.208121	0
+Carex_hirsutella	111.39	106.933	0.208121	0
+Carex_bushii	111.39	106.933	0.208121	0
+Carex_swanii	111.742	106.285	0.208121	0
+Carex_misera	118.71	104.505	0.208159	0
+Carex_aestivalis	112.701	106.248	0.208121	0
+Carex_torreyi	112.868	105.411	0.208149	0
+Carex_pallescens	114.458	104.008	0.208539	0
+Carex_acutiformis	108.895	111.436	0.208116	0
+Carex_nemostachys	120.213	101.985	0.239491	0
+Carex_ischnostachya	114.542	105.5	0.230036	0
+Carex_delicata	107.452	113.676	1.0427	0
+Carex_ledebouriana	106.789	114.013	1.04259	0
+Carex_krausei	105.604	117.467	1.20442	0
+Carex_capillaris	105.607	117.473	0.208025	0
+Carex_williamsii	105.315	117.172	0.207749	0
+Carex_frigida	112.724	106.287	0.208997	0
+Carex_rainbowii	113.202	105.767	0.208925	0
+Carex_sylvatica	113.179	105.745	0.208922	0
+Carex_cretica	113.179	105.745	0.208922	0
+Carex_strigosa	115.385	103.957	0.209342	0
+Carex_hostiana	113.127	106.693	0.208931	0
+Carex_castroviejoi	114.22	104.787	0.208931	0
+Carex_flava	114.204	105.771	0.208931	0
+Carex_cryptolepis	114.811	104.378	0.208931	0
+Carex_derelicta	116.847	103.415	0.208931	0
+Carex_lepidocarpa	116.31	103.878	0.208931	0
+Carex_lepidocarpa_subsp._nevadensis	116.31	103.878	0.208931	0
+Carex_demissa	116.876	103.444	0.208931	0
+Carex_viridula	116.082	103.65	0.208931	0
+Carex_doniana	114.314	104.879	0.208928	0
+Carex_microcarpa	113.67	105.235	0.208919	0
+Carex_pendula	113.137	105.702	0.208919	0
+Carex_bequaertii	113.137	105.702	0.208919	0
+Carex_helodes	117.22	102.786	0.208919	0
+Carex_perraudieriana	117.7	102.267	0.208919	0
+Carex_aethiopica	117.692	102.258	0.208919	0
+Carex_mairei	116.289	103.856	0.208919	0
+Carex_paulo-vargasii	117.674	102.241	0.208919	0
+Carex_simensis	116.583	103.15	0.208919	0
+Carex_fischeri	116.526	103.093	0.208919	0
+Carex_petitiana	116.416	102.982	0.208919	0
+Carex_petitiana_subsp._attenuata	116.416	102.982	0.208919	0
+Carex_boryana	115.906	103.473	0.208919	0
+Carex_borbonica	115.906	103.473	0.208919	0
+Carex_mannii	116.411	102.978	0.208919	0
+Carex_mannii_subsp._friesiorum	116.411	102.978	0.208919	0
+Carex_binervis	117.605	102.172	0.208919	0
+Carex_camposii	117.06	102.626	0.208919	0
+Carex_fissirostris	117.036	102.602	0.208919	0
+Carex_laevigata	117.562	102.129	0.208919	0
+Carex_hochstetteriana	118.352	101.919	0.208919	0
+Carex_lowei	118.367	101.934	0.208919	0
+Carex_punctata	116.095	103.661	0.208919	0
+Carex_fuscula	115.673	104.239	0.208919	0
+Carex_extensa	113.905	105.471	0.208919	0
+Carex_vixdentata	114.345	104.911	0.208919	0
+Carex_ecklonii	114.906	104.472	0.208919	0
+Carex_troodi	116.085	103.651	0.208919	0
+Carex_idaea	118.092	102.658	0.208919	0
+Carex_distans	118.28	102.853	0.208919	0
+Carex_diluta	114.967	106.478	0.208919	0
+Carex_lainzii	115.936	103.501	0.208919	0
+Carex_forsteri	114.885	106.206	0.208921	0
+Carex_calcis	115.916	104.427	0.208921	0
+Carex_michauxiana	114.843	104.407	0.208975	0
+Carex_folliculata	112.807	106.37	0.208959	0
+Carex_richardsonii	111.539	107.111	0.210206	0
+Carex_kitaibeliana	107.836	111.374	0.208163	0
+Carex_echinochloe	109.021	109.578	0.209947	0
+Carex_filicina	109.021	109.578	0.209947	0
+Carex_humilis_var._nana	108.283	110.846	0.209731	0
+Carex_pediformis_subsp._macroura	116.044	104.354	0.306001	0
+Carex_rhizina_subsp._rhizina	116.044	104.354	0.306001	0
+Carex_pediformis	111.327	108.764	0.263796	0
+Carex_quadriflora	110.008	108.63	0.214115	0
+Carex_pallidula	110.903	107.528	0.214228	0
+Carex_ornithopoda	111.976	106.601	0.214228	0
+Carex_digitata	111.4	107.025	0.214228	0
+Carex_tristachya	108.964	109.485	0.207127	0
+Carex_tristachya_var._pocilliformis	107.963	110.483	0.207063	0
+Carex_gifuensis	109.048	109.619	0.210303	0
+Carex_brevicollis	112.26	107.999	0.338605	0
+Carex_michelii	113.562	106.301	0.338605	0
+Carex_nodaeana	115.886	104.628	0.338748	0
+Carex_tsushimensis	106.69	112.198	0.206275	0
+Carex_blepharicarpa	106.303	112.809	0.205958	0
+Carex_pisiformis_var._sikokiana	110.666	109.165	0.848856	0
+Carex_holostoma	113.883	105.503	0.213383	0
+Carex_adelostoma	111.93	107.41	1.20874	0
+Carex_buxbaumii	111.683	108.711	1.20793	0
+Carex_hartmanii	116.722	104.345	0.213398	0
+Carex_melanantha	110.444	108.048	0.212315	0
+Carex_albonigra	111.217	106.821	0.212303	0
+Carex_aterrima_subsp._medwedewii	108.761	109.046	0.212303	0
+Carex_atrata	111.764	106.369	0.212303	0
+Carex_atratiformis	111.764	106.369	0.212303	0
+Carex_norvegica	112.379	105.984	0.212303	0
+Carex_media	112.379	105.984	0.212303	0
+Carex_gmelinii	114.713	105.317	0.212303	0
+Carex_melanocephala	111.32	106.924	0.212303	0
+Carex_bella	109.76	111.362	0.212303	0
+Carex_parviflora	111.777	106.381	0.212303	0
+Carex_raynoldsii	113.143	105.748	0.212303	0
+Carex_hallii	111.611	106.215	0.212303	0
+Carex_parryana	111.611	106.215	0.212303	0
+Carex_obscura_var._brachycarpa	112.4	106.004	0.212303	0
+Carex_infuscata	111.771	106.374	0.212303	0
+Carex_caucasica	111.239	106.843	0.212303	0
+Carex_sprengelii	108.904	109.417	0.206295	0
+Carex_arnellii	108.474	109.985	0.20615	0
+Carex_liparocarpos	108.013	110.567	0.210042	0
+Carex_petricosa	106.651	112.166	0.20679	0
+Carex_inanis	109.081	109.626	0.209199	0
+Carex_baccans	110.194	108.785	0.212774	0
+Carex_pilulifera	103.818	116.318	0.205993	0
+Carex_inops	107.545	111.069	0.208248	0
+Carex_albicans	107.545	111.069	0.208248	0
+Carex_nigromarginata	107.024	111.548	0.208246	0
+Carex_peckii	107.578	111.102	0.208263	0
+Carex_deflexa	105.473	114.994	0.20824	0
+Carex_rossii	107.96	111.49	0.20899	0
+Carex_pensylvanica	107.56	111.084	0.208242	0
+Carex_lucorum	109.529	111.053	0.20827	0
+Carex_umbellata	106.125	112.648	0.20824	0
+Carex_tonsa	106.389	111.912	0.20824	0
+Carex_novae-angliae	106.137	112.66	0.20824	0
+Carex_communis	105.761	113.285	0.20824	0
+Carex_glacialis	106.98	111.487	0.206298	0
+Carex_supina	108.028	110.55	0.207538	0
+Carex_fritschii	106.075	112.574	0.205424	0
+Carex_montana	108.375	110.879	0.205946	0
+Carex_riloensis	106.031	114.534	0.205786	0
+Carex_tricolor	106.684	112.736	0.991608	0
+Carex_durieui	111.522	107.432	0.233108	0
+Carex_physodes	104.055	117.696	0.232841	0
+Carex_pachystylis	104.055	117.696	0.232841	0
+Carex_siccata	116.347	103.66	0.254863	0
+Carex_pseudofoetida_subsp._afghanica	114	105.312	0.254863	0
+Carex_maritima	113.622	105.934	0.254863	0
+Carex_hookeriana	112.942	106.162	0.24974	0
+Carex_curaica	114.367	104.587	0.24974	0
+Carex_disticha	113.673	104.893	0.24974	0
+Carex_sartwellii	113.66	104.88	0.24974	0
+Carex_disticha_subsp._lithophila	113.66	104.88	0.24974	0
+Carex_hoodii	113.334	105.554	0.24974	0
+Carex_retroflexa	109.162	111.136	0.233936	0
+Carex_radiata	113.212	106.197	0.234512	0
+Carex_rosea	111.575	107.561	0.234512	0
+Carex_appalachica	111.557	107.543	0.234512	0
+Carex_socialis	113.226	106.211	0.234512	0
+Carex_kobomugi	119.092	101.594	0.355178	0
+Carex_macrocephala	116.295	103.795	0.355163	0
+Carex_leiorhyncha	111.55	110.427	0.877019	0
+Carex_nubigena	115.633	104.611	0.972268	0
+Carex_albata	116.768	103.748	0.972206	0
+Carex_neurocarpa	116.768	103.748	0.972206	0
+Carex_decomposita	114.581	104.549	0.234031	0
+Carex_bromoides	114.894	103.811	0.231379	0
+Carex_vernacula	111.32	107.207	0.229624	0
+Carex_cephalophora	110.368	108.255	0.229617	0
+Carex_aggregata	111.141	107.028	0.229611	0
+Carex_cephaloidea	110.636	107.523	0.229611	0
+Carex_conjuncta	109.758	108.645	0.229611	0
+Carex_alopecoidea	110.612	107.499	0.229611	0
+Carex_triangularis	111.652	106.54	0.229611	0
+Carex_densa	111.644	106.531	0.229611	0
+Carex_vulpinoidea	111.095	106.982	0.229611	0
+Carex_leavenworthii	110.247	108.134	0.229612	0
+Carex_simulata	114.245	104.135	0.229722	0
+Carex_cusickii	113.707	104.595	0.229623	0
+Carex_diandra	113.193	105.081	0.229626	0
+Carex_occidentalis	113.298	105.189	0.229793	0
+Carex_gravida	110.29	108.176	0.229678	0
+Carex_mesochorea	110.29	108.176	0.229678	0
+Carex_annectens	110.779	107.666	0.229678	0
+Carex_sparganioides	110.286	108.173	0.229678	0
+Carex_muehlenbergii	110.045	108.931	0.229678	0
+Carex_praegracilis	113.275	105.169	0.229857	0
+Carex_pansa	112.756	105.649	0.229857	0
+Carex_prairea	115.152	104.054	0.230377	0
+Carex_nervina	111.345	107.248	0.230646	0
+Carex_crus-corvi	111.433	107.334	0.230563	0
+Carex_conferta	111.433	107.334	0.230563	0
+Carex_appropinquata	114.397	104.31	0.231097	0
+Carex_appressa	113.404	105.304	0.230377	0
+Carex_deweyana	111.881	106.772	0.229823	0
+Carex_leptopoda	111.851	106.74	0.229788	0
+Carex_bolanderi	110.793	107.682	0.229787	0
+Carex_infirminervia	110.008	108.898	0.229783	0
+Carex_foetida	112.857	105.761	0.23064	0
+Carex_elongata	112.271	106.165	0.230054	0
+Carex_exilis	114.193	105.085	0.229918	0
+Carex_seorsa	110.472	108.361	0.229722	0
+Carex_atlantica	109.785	109.674	0.229722	0
+Carex_echinata	113.036	105.925	0.229722	0
+Carex_interior	111.838	106.727	0.229722	0
+Carex_maackii	115.007	103.907	0.230231	0
+Carex_resectans	113.002	105.894	0.229787	0
+Carex_kirkii	115.418	103.31	0.229794	0
+Carex_trachycarpa	114.88	103.773	0.229794	0
+Carex_praticola	117.834	101.86	0.236158	0
+Carex_leporinella	119.355	100.381	0.236158	0
+Carex_phaeocephala	120.015	100.041	0.236158	0
+Carex_argyrantha	118.764	100.789	0.236158	0
+Carex_davyi	117.39	102.416	0.236158	0
+Carex_subfusca	119.371	100.397	0.236158	0
+Carex_mariposana	118.793	100.818	0.236158	0
+Carex_gracilior	120.021	100.047	0.236158	0
+Carex_preslii	118.848	100.874	0.236158	0
+Carex_pachystachya	118.361	101.387	0.236158	0
+Carex_macloviana	120.749	99.7748	0.236158	0
+Carex_harfordii	118.73	100.755	0.236158	0
+Carex_subbracteata	118.73	100.755	0.236158	0
+Carex_abrupta	117.804	101.83	0.236158	0
+Carex_leporina	116.003	105.022	0.236158	0
+Carex_cumulata	115.141	108.116	0.236158	0
+Carex_crawfordii	116.384	104.403	0.236158	0
+Carex_bebbii	116.316	104.335	0.236158	0
+Carex_projecta	116.296	105.766	0.236158	0
+Carex_tribuloides_var._sangamonensis	117.34	104.429	0.236158	0
+Carex_tribuloides_var._tribuloides	116.878	103.898	0.236158	0
+Carex_cristatella	116.878	103.898	0.236158	0
+Carex_oronensis	119.117	104.137	0.236158	0
+Carex_merritt-fernaldii	117.435	104.456	0.236158	0
+Carex_molesta	117.34	105.336	0.236158	0
+Carex_opaca	117.323	106.32	0.236158	0
+Carex_tincta	119.184	104.22	0.236158	0
+Carex_echinodes	120.155	104.191	0.236158	0
+Carex_shinnersii	117.114	107.606	0.236158	0
+Carex_missouriensis	116.905	109.614	0.236158	0
+Carex_normalis	117.548	105.548	0.236158	0
+Carex_muskingumensis	121.41	103.433	0.236158	0
+Carex_bicknellii	119.468	103.491	0.236158	0
+Carex_festucacea	117.527	104.551	0.236158	0
+Carex_silicea	118.549	103.57	0.236158	0
+Carex_tenera	115.349	106.936	0.236158	0
+Carex_molestiformis	116.874	103.893	0.236158	0
+Carex_hyalina	118.462	103.481	0.236158	0
+Carex_tetrastachya	116.212	105.229	0.236158	0
+Carex_brevior	115.975	107.971	0.236158	0
+Carex_reniformis	121.41	103.442	0.236158	0
+Carex_ozarkana	114.931	108.946	0.236158	0
+Carex_straminea	118.382	103.401	0.236158	0
+Carex_hormathodes	118.382	103.401	0.236158	0
+Carex_alata	118.577	103.596	0.236158	0
+Carex_longii	115.962	107.889	0.236158	0
+Carex_vexans	117.18	104.199	0.236158	0
+Carex_albolutescens	115.742	105.761	0.236158	0
+Carex_suberecta	117.757	103.776	0.236158	0
+Carex_scoparia_var._tessellata	116.317	104.336	0.236158	0
+Carex_scoparia_var._scoparia	115.913	104.932	0.236158	0
+Carex_athrostachya	116.426	104.447	0.236158	0
+Carex_sychnocephala	115.641	105.662	0.236158	0
+Carex_xerantica	116.544	104.565	0.236158	0
+Carex_petasata	118.078	103.099	0.236158	0
+Carex_adusta	118.954	101.978	0.236158	0
+Carex_foenea	119.48	100.506	0.236158	0
+Carex_feta	115.965	104.989	0.236158	0
+Carex_bohemica	119.027	101.053	0.236158	0
+Carex_straminiformis	119.475	100.501	0.236159	0
+Carex_fracta	116.787	103.812	0.236159	0
+Carex_integra	119.756	100.781	0.236159	0
+Carex_multicostata	116.614	103.64	0.236159	0
+Carex_haydeniana	119.483	100.508	0.236159	0
+Carex_ebenea	120.226	100.251	0.236159	0
+Carex_microptera	118.972	100.998	0.236159	0
+Carex_peucophila	117.334	102.359	0.236159	0
+Carex_chordorrhiza	113.996	106.028	0.239128	0
+Carex_pseudocuraica	107.871	113.589	0.22976	0
+Carex_bonanzensis	110.924	107.813	0.229749	0
+Carex_traiziscana	113.82	104.71	0.229749	0
+Carex_lapponica	112.037	105.927	0.229749	0
+Carex_canescens	111.947	105.837	0.229749	0
+Carex_arctiformis	111.947	105.837	0.229749	0
+Carex_trisperma	113.07	104.96	0.229749	0
+Carex_nemurensis	111.718	107.608	0.229749	0
+Carex_mackenziei	114.265	104.156	0.229749	0
+Carex_lachenalii	114.265	104.156	0.229749	0
+Carex_ursina	114.269	104.161	0.229749	0
+Carex_glareosa	114.925	103.817	0.229749	0
+Carex_heleonastes	112.066	105.956	0.229749	0
+Carex_loliacea	111.68	106.57	0.229749	0
+Carex_marina	113.119	105.009	0.229749	0
+Carex_tenuiflora	112.604	105.494	0.229749	0
+Carex_brunnescens	112.035	105.924	0.229749	0
+Carex_brunnescens_subsp._sphaerostachya	112.035	105.924	0.229749	0
+Carex_furva	113.23	105.12	0.229754	0
+Carex_laeviculmis	112.331	106.221	0.229753	0
+Carex_arcta	113.209	105.099	0.229754	0
+Carex_illota	114.329	104.219	0.229754	0
+Carex_disperma	116.203	103.14	0.23233	0
+Carex_paniculata_subsp._lusitanica	113.693	105.584	0.229854	0
+Carex_paniculata	114.74	104.631	0.229854	0
+Carex_otrubae	112.585	105.475	0.229751	0
+Carex_spicata	112.586	105.476	0.229751	0
+Carex_muricata_subsp._muricata	112.525	105.415	0.229751	0
+Carex_leersii	112.424	105.314	0.229751	0
+Carex_pairae	112.424	105.314	0.229751	0
+Carex_divulsa	112.557	105.447	0.229751	0
+Carex_canariensis	112.731	105.62	0.229751	0
+Carex_duriuscula	113.228	105.117	0.229759	0
+Carex_stenophylla	113.228	105.117	0.229759	0
+Carex_davalliana	110.186	109.075	0.229748	0
+Carex_parallela	109.805	109.695	0.229748	0
+Carex_gynocrates	110.513	108.403	0.229748	0
+Carex_dioica	111.557	107.446	0.229748	0
+Carex_brizoides	112.569	105.459	0.229748	0
+Carex_praecox	112.515	105.406	0.229748	0
+Carex_colchica	112.515	105.406	0.229748	0
+Carex_arenaria	112.559	105.449	0.229748	0
+Carex_pseudobrizoides	112.559	105.449	0.229748	0
+Carex_planata	114.868	103.758	0.229748	0
+Carex_rochebrunii	114.244	104.135	0.229748	0
+Carex_remota	113.757	104.648	0.229767	0
+Carex_divisa	113.283	105.173	0.229748	0
+Carex_stipata	111.337	107.227	0.229753	0
+Carex_laevivaginata	110.876	107.765	0.229753	0
+Carex_gibba	107.424	112.07	0.221367	0
+Carex_lingii	101.063	115.797	3.67231	0
+Carex_grandiligulata	101.017	115.74	3.80688	0
+Carex_pachygyna	101.017	115.74	3.80688	0
+Carex_siderosticta	101.014	115.746	3.74856	0
+Carex_scaposa	104.761	113.754	1.93231	0
+Trichophorum_alpinum	112.003	108.43	0.337963	0
+Trichophorum_pumilum	116.529	103.135	0.346786	0
+Trichophorum_cespitosum	120.133	100.823	0.607859	0
+Trichophorum_uniflorum	115.559	104.097	0.343466	0
+Scirpus_lineatus	107.678	111.66	0.187974	0
+Scirpus_pendulus	108.66	110.662	0.189726	0
+Scirpus_maximowiczii	114.299	105.007	0.212223	0
+Scirpus_polyphyllus	112.63	106.193	0.204176	0
+Scirpus_atrovirens	110.558	108.108	0.203284	0
+Scirpus_georgianus	110.98	107.53	0.203284	0
+Scirpus_flaccidifolius	111.743	107.293	0.203284	0
+Scirpus_pallidus	112.308	106.858	0.203284	0
+Scirpus_ancistrochaetus	111.65	107.206	0.203641	0
+Scirpus_radicans	112.181	106.75	0.204426	0
+Scirpus_sylvaticus	113.552	105.122	0.204338	0
+Scirpus_microcarpus	114.045	104.615	0.20435	0
+Scirpus_expansus	114.109	104.681	0.204428	0
+Scirpus_polystachyus	113.204	105.788	0.205073	0
+Scirpus_longii	114.668	104.26	0.205479	0
+Scirpus_pedicellatus	115.066	103.655	0.205272	0
+Scirpus_atrocinctus	114.988	103.577	0.205271	0
+Scirpus_cyperinus	114.497	104.086	0.205271	0
+Eriophorum_angustifolium	112.538	106.092	0.2035	0
+Eriophorum_callitrix	112.913	105.463	0.203219	0
+Scirpus_hattorianus	111.866	106.416	0.203219	0
+Eriophorum_vaginatum	112.34	105.89	0.203219	0
+Eriophorum_brachyantherum	112.422	105.972	0.203209	0
+Eriophorum_scheuchzeri	112.422	105.972	0.203209	0
+Eriophorum_chamissonis	112.977	105.527	0.203221	0
+Eriophorum_latifolium	111.628	107.178	0.203219	0
+Eriophorum_virginicum	112.581	106.139	0.203753	0
+Eriophorum_gracile	113.104	105.663	0.203767	0
+Blysmus_compressus	109.716	109.437	0.586605	0
+Blysmus_rufus	108.708	110.321	0.578829	0
+Dulichium_arundinaceum	106.846	112.236	0.611321	0
