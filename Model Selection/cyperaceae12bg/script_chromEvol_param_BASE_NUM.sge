@@ -1,0 +1,8 @@
+#$ -S /bin/bash
+#$ -N chromEvol_param_BASE_NUM_cyperaceae
+#$ -wd /home/aescudero/PIP/cyperaceae12bg
+#$ -o chromevol_cyperaceae.salida
+#$ -e chromevol_cyperaceae.err
+#$ -q diaria_simple
+/home/aescudero/PIP/chromEvol param_BASE_NUM
+
