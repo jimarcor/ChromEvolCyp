@@ -1,0 +1,8 @@
+#$ -S /bin/bash
+#$ -N chromEvol_param_LINEAR_RATE_DEMI_EST_cyperaceae
+#$ -wd /home/aescudero/PIP/cyperaceae2bg
+#$ -o chromevol_cyperaceae.salida
+#$ -e chromevol_cyperaceae.err
+#$ -q media_simple
+/home/aescudero/PIP/chromEvol param_LINEAR_RATE_DEMI_EST
+
