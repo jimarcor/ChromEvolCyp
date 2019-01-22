@@ -1,0 +1,60 @@
+chromEvol Version: 2.0. Last updated December 2013
+
+Error - unable to open tree file cyperaceae.tree
+System Error: No such file or directory
+chromEvol: errorMsg.cpp:41: static void errorMsg::reportError(const std::string&, int): Assertion `0' failed.
+/opt/sge/default/spool/bigfoot/job_scripts/153449: línea 7: 32242 Abortado                (`core' generado) /home/aescudero/PIP/chromEvol param_BASE_NUM_DUPL
+chromEvol Version: 2.0. Last updated December 2013
+
+Error - unable to open tree file cyperaceae.tree
+System Error: No such file or directory
+chromEvol: errorMsg.cpp:41: static void errorMsg::reportError(const std::string&, int): Assertion `0' failed.
+/opt/sge/default/spool/bigfoot/job_scripts/153450: línea 7: 32255 Abortado                (`core' generado) /home/aescudero/PIP/chromEvol param_BASE_NUM
+chromEvol Version: 2.0. Last updated December 2013
+
+Error - unable to open tree file cyperaceae.tree
+System Error: No such file or directory
+chromEvol: errorMsg.cpp:41: static void errorMsg::reportError(const std::string&, int): Assertion `0' failed.
+/opt/sge/default/spool/bigfoot/job_scripts/153451: línea 7: 32423 Abortado                (`core' generado) /home/aescudero/PIP/chromEvol param_CONST_RATE_DEMI_EST
+chromEvol Version: 2.0. Last updated December 2013
+
+Error - unable to open tree file cyperaceae.tree
+System Error: No such file or directory
+chromEvol: errorMsg.cpp:41: static void errorMsg::reportError(const std::string&, int): Assertion `0' failed.
+/opt/sge/default/spool/bigfoot/job_scripts/153452: línea 7: 32516 Abortado                (`core' generado) /home/aescudero/PIP/chromEvol param_CONST_RATE_DEMI
+chromEvol Version: 2.0. Last updated December 2013
+
+Error - unable to open tree file cyperaceae.tree
+System Error: No such file or directory
+chromEvol: errorMsg.cpp:41: static void errorMsg::reportError(const std::string&, int): Assertion `0' failed.
+/opt/sge/default/spool/bigfoot/job_scripts/153454: línea 7: 32755 Abortado                (`core' generado) /home/aescudero/PIP/chromEvol param_CONST_RATE_NO_DUPL
+chromEvol Version: 2.0. Last updated December 2013
+
+Error - unable to open tree file cyperaceae.tree
+System Error: No such file or directory
+chromEvol: errorMsg.cpp:41: static void errorMsg::reportError(const std::string&, int): Assertion `0' failed.
+/opt/sge/default/spool/bigfoot/job_scripts/153453: línea 7: 32765 Abortado                (`core' generado) /home/aescudero/PIP/chromEvol param_CONST_RATE
+chromEvol Version: 2.0. Last updated December 2013
+
+Error - unable to open tree file cyperaceae.tree
+System Error: No such file or directory
+chromEvol: errorMsg.cpp:41: static void errorMsg::reportError(const std::string&, int): Assertion `0' failed.
+/opt/sge/default/spool/bigfoot/job_scripts/153455: línea 7: 32867 Abortado                (`core' generado) /home/aescudero/PIP/chromEvol param_LINEAR_RATE_DEMI_EST
+chromEvol Version: 2.0. Last updated December 2013
+
+Error - unable to open tree file cyperaceae.tree
+System Error: No such file or directory
+chromEvol: errorMsg.cpp:41: static void errorMsg::reportError(const std::string&, int): Assertion `0' failed.
+/opt/sge/default/spool/bigfoot/job_scripts/153456: línea 7: 32961 Abortado                (`core' generado) /home/aescudero/PIP/chromEvol param_LINEAR_RATE_DEMI
+chromEvol Version: 2.0. Last updated December 2013
+
+Error - unable to open tree file cyperaceae.tree
+System Error: No such file or directory
+chromEvol: errorMsg.cpp:41: static void errorMsg::reportError(const std::string&, int): Assertion `0' failed.
+/opt/sge/default/spool/bigfoot/job_scripts/153457: línea 7: 33057 Abortado                (`core' generado) /home/aescudero/PIP/chromEvol param_LINEAR_RATE
+chromEvol Version: 2.0. Last updated December 2013
+
+Error - unable to open tree file cyperaceae.tree
+System Error: No such file or directory
+chromEvol: errorMsg.cpp:41: static void errorMsg::reportError(const std::string&, int): Assertion `0' failed.
+/opt/sge/default/spool/bigfoot/job_scripts/153458: línea 7: 33151 Abortado                (`core' generado) /home/aescudero/PIP/chromEvol param_LINEAR_RATE_NO_DUPL

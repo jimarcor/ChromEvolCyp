@@ -1,0 +1,280 @@
+#Nodes with GAIN events with expectation above 0.5
+N2: 43.2244
+N3: 22.3888
+N4: 20.0354
+N5: 49.1615
+Cyperus_compressus: 304.464
+N6: 41.375
+N7: 22.8855
+N8: 65.8353
+Cyperus_longus: 192.359
+Cyperus_elegans: 130.093
+N9: 38.7492
+Cyperus_articulatus: 209.434
+N10: 17.6194
+N11: 68.2195
+N12: 7.9311
+Cyperus_digitatus: 78.7825
+Cyperus_alopecuroides: 57.2322
+N13: 47.5397
+Cyperus_pilosus: 18.1861
+Cyperus_papyrus: 42.0864
+N14: 131.395
+Cyperus_nutans: 14.1832
+Cyperus_rotundus: 22.1187
+N15: 21.7387
+Cyperus_imbricatus: 267.9
+N16: 152.869
+Cyperus_grayi: 170.341
+N17: 17.4777
+N18: 98.5172
+Cyperus_schweinitzii: 1.10415
+Cyperus_houghtonii: 0.628473
+Cyperus_lupulinus: 151.535
+N19: 30.5763
+Cyperus_esculentus: 334.346
+Pycreus_polystachyos: 317.641
+N20: 67.482
+N21: 25.1998
+N22: 20.4651
+N23: 94.8083
+Kyllinga_odorata: 1.50485
+Kyllinga_brevifolia: 91.8293
+Kyllinga_bulbosa: 109.79
+Cyperus_exaltatus: 251.885
+N24: 60.4023
+Cyperus_rubicundus: 240.814
+N25: 1.19121
+N26: 51.1982
+Lipocarpha_micrantha: 186.372
+N27: 7.37684
+Lipocarpha_microcephala: 170.981
+Lipocarpha_drummondii: 180.546
+Queenslandiella_hyalina: 328.047
+N28: 46.816
+N29: 10.3218
+N30: 24.6242
+N31: 272.201
+N32: 27.8783
+Pycreus_flavidus: 158.783
+N33: 50.5566
+N34: 99.3317
+Cyperus_tenuispica: 27.4274
+Pycreus_sanguinolentus: 43.4047
+Pycreus_flavescens: 181.039
+N35: 1.92126
+Cyperus_squarrosus: 353.49
+Cyperus_distans: 272.225
+N36: 39.6949
+Cyperus_laevigatus: 309.595
+Cyperus_cyperoides: 306.942
+Total number of gain events: 7326.18
+#+++++++++++++++++++++++++++++
+
+#Nodes with LOSS events with expectation above 0.5
+N2: 43.747
+N3: 22.1161
+N4: 17.2352
+N5: 45.7272
+Cyperus_compressus: 310.321
+N6: 39.4267
+N7: 25.4716
+N8: 69.4747
+Cyperus_longus: 181.743
+Cyperus_elegans: 154.416
+N9: 42.4545
+Cyperus_articulatus: 204.735
+N10: 20.5709
+N11: 76.8791
+N12: 8.71882
+Cyperus_digitatus: 73.6178
+Cyperus_alopecuroides: 71.0667
+N13: 50.7485
+Cyperus_pilosus: 34.3771
+Cyperus_papyrus: 26.8463
+N14: 142.655
+Cyperus_nutans: 21.2074
+Cyperus_rotundus: 17.1511
+N15: 19.3192
+Cyperus_imbricatus: 271.341
+N16: 142.172
+Cyperus_grayi: 160.598
+N17: 18.8449
+N18: 127.219
+Cyperus_schweinitzii: 0.756822
+Cyperus_houghtonii: 1.28114
+Cyperus_lupulinus: 139.561
+N19: 29.3117
+Cyperus_esculentus: 332.267
+Pycreus_polystachyos: 321.371
+N20: 81.0218
+N21: 34.081
+N22: 25.01
+N23: 104.5
+Kyllinga_pumila: 1.55154
+Kyllinga_brevifolia: 103.047
+Kyllinga_bulbosa: 127.565
+Cyperus_exaltatus: 237.617
+N24: 64.1156
+Cyperus_rubicundus: 259.135
+N25: 1.22435
+N26: 57.0234
+Lipocarpha_micrantha: 197.816
+N27: 8.04883
+Lipocarpha_microcephala: 184.752
+Lipocarpha_drummondii: 190.317
+Queenslandiella_hyalina: 315.553
+N28: 50.0505
+N29: 11.6118
+N30: 28.4175
+N31: 277.678
+N32: 32.8116
+Pycreus_flavidus: 185.051
+N33: 53.6168
+N34: 112.148
+Cyperus_tenuispica: 37.7909
+Pycreus_sanguinolentus: 37.7934
+Pycreus_flavescens: 177.246
+N35: 1.93504
+Cyperus_squarrosus: 347.659
+Cyperus_distans: 291.243
+N36: 39.0122
+Cyperus_laevigatus: 312.72
+Cyperus_cyperoides: 311.042
+Total number of loss events: 7564.99
+#+++++++++++++++++++++++++++++
+
+#Nodes with duplication events with expectation above 0.5
+N23: 1.18586
+Kyllinga_brevifolia: 1.48193
+Kyllinga_bulbosa: 1.9583
+Pycreus_flavidus: 1.58896
+Total number of duplication events: 6.70575
+#+++++++++++++++++++++++++++++
+
+#Nodes with demi-duplication events with expectation above 0.5
+Total number of demi-dulications events: 0
+#+++++++++++++++++++++++++++++
+
+#EVENTS NOT ACCOUNTED FOR IN THE SIMULATIONS: 
+N31:ML=34 to Cyperus_iria:ML=16  sum expections= 0.00216182
+	HEURISTIC ESTIMATION:	Gains = 0	Losses = 18	Duplications = 0	Demi-dupl = 0
+N31:ML=34 to Cyperus_microiria:ML=52  sum expections= 0.0351004
+	HEURISTIC ESTIMATION:	Gains = 18	Losses = 0	Duplications = 0	Demi-dupl = 0
+#+++++++++++++++++++++++++++++
+
+#ALL EVENTS EXPECTATIONS PER NODE
+NODE	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+N2	43.2244	43.747	3.62587e-11	0
+N3	22.3888	22.1161	6.1452e-11	0
+N4	20.0354	17.2352	4.9848e-11	0
+N5	49.1615	45.7272	1.11833e-10	0
+Cyperus_compressus	304.464	310.321	8.14389e-06	0
+N6	41.375	39.4267	9.10652e-12	0
+N7	22.8855	25.4716	2.5467e-13	0
+N8	65.8353	69.4747	1.14558e-08	0
+Cyperus_longus	192.359	181.743	0	0
+Cyperus_elegans	130.093	154.416	0.000108093	0
+N9	38.7492	42.4545	3.21636e-11	0
+Cyperus_articulatus	209.434	204.735	4.14366e-11	0
+N10	17.6194	20.5709	1.89924e-10	0
+N11	68.2195	76.8791	5.30246e-08	0
+N12	7.9311	8.71882	2.07259e-10	0
+Cyperus_digitatus	78.7825	73.6178	0	0
+Cyperus_alopecuroides	57.2322	71.0667	1.08712e-07	0
+N13	47.5397	50.7485	2.37488e-09	0
+Cyperus_pilosus	18.1861	34.3771	2.40582e-13	0
+Cyperus_papyrus	42.0864	26.8463	0	0
+N14	131.395	142.655	6.10667e-06	0
+Cyperus_nutans	14.1832	21.2074	0	0
+Cyperus_rotundus	22.1187	17.1511	0	0
+N15	21.7387	19.3192	1.68494e-13	0
+Cyperus_imbricatus	267.9	271.341	5.74163e-12	0
+N16	152.869	142.172	1.65912e-11	0
+Cyperus_grayi	170.341	160.598	0	0
+N17	17.4777	18.8449	1.0074e-19	0
+N18	98.5172	127.219	4.63547e-18	0
+Cyperus_schweinitzii	1.10415	0.756822	0	0
+Cyperus_houghtonii	0.628473	1.28114	0	0
+Cyperus_lupulinus	151.535	139.561	0	0
+N19	30.5763	29.3117	3.42106e-09	0
+Cyperus_esculentus	334.346	332.267	5.71344e-06	0
+Pycreus_polystachyos	317.641	321.371	3.51504e-05	0
+N20	67.482	81.0218	0.000141805	0
+N21	25.1998	34.081	0.00436819	0
+N22	20.4651	25.01	0.0362437	0
+N23	94.8083	104.5	1.18586	0
+Kyllinga_odorata	1.50485	0.0303897	0	0
+Kyllinga_pumila	0.0260828	1.55154	0	0
+Kyllinga_brevifolia	91.8293	103.047	1.48193	0
+Kyllinga_bulbosa	109.79	127.565	1.9583	0
+Cyperus_exaltatus	251.885	237.617	0.00475851	0
+N24	60.4023	64.1156	5.21403e-07	0
+Cyperus_rubicundus	240.814	259.135	0.0270577	0
+N25	1.19121	1.22435	5.29075e-08	0
+N26	51.1982	57.0234	6.31407e-05	0
+Lipocarpha_micrantha	186.372	197.816	0.016225	0
+N27	7.37684	8.04883	4.18304e-05	0
+Lipocarpha_microcephala	170.981	184.752	0.0294568	0
+Lipocarpha_drummondii	180.546	190.317	0.0121189	0
+Queenslandiella_hyalina	328.047	315.553	2.9978e-05	0
+N28	46.816	50.0505	7.9601e-09	0
+N29	10.3218	11.6118	3.3134e-08	0
+N30	24.6242	28.4175	2.65273e-06	0
+N31	272.201	277.678	0.0202238	0
+Cyperus_iria	0	18	0	0
+Cyperus_microiria	18	0	0	0
+N32	27.8783	32.8116	0.000140641	0
+Pycreus_flavidus	158.783	185.051	1.58896	0
+N33	50.5566	53.6168	0.00429438	0
+N34	99.3317	112.148	0.124623	0
+Cyperus_tenuispica	27.4274	37.7909	0.102346	0
+Pycreus_sanguinolentus	43.4047	37.7934	0.00602021	0
+Pycreus_flavescens	181.039	177.246	0.0221053	0
+N35	1.92126	1.93504	1.30508e-08	0
+Cyperus_squarrosus	353.49	347.659	0.000561147	0
+Cyperus_distans	272.225	291.243	0.0675041	0
+N36	39.6949	39.0122	1.75478e-06	0
+Cyperus_laevigatus	309.595	312.72	0.00451877	0
+Cyperus_cyperoides	306.942	311.042	0.00767519	0
+#+++++++++++++++++++++++++++++
+
+#Expected number of events from root to leaf
+LEAF	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+Cyperus_compressus	439.274	439.147	8.14415e-06	0
+Cyperus_longus	457.265	444.941	1.17246e-08	0
+Cyperus_elegans	394.999	417.615	0.000108104	0
+Cyperus_articulatus	447.254	440.913	3.42353e-10	0
+Cyperus_digitatus	410.372	415.965	5.37227e-08	0
+Cyperus_alopecuroides	388.822	413.414	1.62434e-07	0
+Cyperus_pilosus	389.384	418.754	5.58905e-08	0
+Cyperus_papyrus	413.285	411.223	5.58903e-08	0
+Cyperus_nutans	401.017	420.612	6.10716e-06	0
+Cyperus_rotundus	408.953	416.555	6.10716e-06	0
+Cyperus_imbricatus	465.824	458.913	2.74408e-10	0
+Cyperus_grayi	521.133	490.341	2.85258e-10	0
+Cyperus_schweinitzii	467.892	476.564	2.85258e-10	0
+Cyperus_houghtonii	467.416	477.088	2.85258e-10	0
+Cyperus_lupulinus	519.805	488.149	2.85258e-10	0
+Cyperus_esculentus	450.571	444.677	5.71701e-06	0
+Pycreus_polystachyos	433.865	433.781	3.5154e-05	0
+Kyllinga_odorata	275.073	310.507	1.22662	0
+Kyllinga_pumila	273.595	312.028	1.22662	0
+Kyllinga_brevifolia	270.589	309.023	1.52269	0
+Kyllinga_bulbosa	268.085	308.531	1.96281	0
+Cyperus_exaltatus	384.98	384.501	0.00490031	0
+Cyperus_rubicundus	344.441	366.998	0.0270582	0
+Lipocarpha_micrantha	342.388	363.927	0.0162887	0
+Lipocarpha_microcephala	334.374	358.911	0.0295623	0
+Lipocarpha_drummondii	343.939	364.476	0.0122245	0
+Queenslandiella_hyalina	432.865	424.64	3.05523e-05	0
+Cyperus_iria	353.963	385.758	0.0202265	0
+Cyperus_microiria	371.963	367.758	0.0202265	0
+Pycreus_flavidus	268.424	307.942	1.58911	0
+Cyperus_tenuispica	286.956	326.447	0.231407	0
+Pycreus_sanguinolentus	302.933	326.449	0.135081	0
+Pycreus_flavescens	341.236	353.754	0.026543	0
+Cyperus_squarrosus	412.549	411.256	0.000561201	0
+Cyperus_distans	331.284	354.841	0.0675041	0
+Cyperus_laevigatus	396.106	401.783	0.00452054	0
+Cyperus_cyperoides	393.453	400.105	0.00767696	0
