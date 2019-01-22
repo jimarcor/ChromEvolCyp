@@ -1,0 +1,8 @@
+#$ -S /bin/bash
+#$ -N chromEvol_param_CONST_RATE_cyperaceae
+#$ -wd /home/aescudero/PIP/cyperaceae23bg
+#$ -o chromevol_cyperaceae.salida
+#$ -e chromevol_cyperaceae.err
+#$ -q diaria_simple
+/home/aescudero/PIP/chromEvol param_CONST_RATE
+
