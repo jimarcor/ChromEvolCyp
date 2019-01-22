@@ -1,0 +1,272 @@
+#Nodes with GAIN events with expectation above 0.5
+N2: 5.82442
+N3: 1.59049
+N4: 5.76279
+N5: 1.45674
+Lagenocarpus_guianensis: 97.2494
+N6: 21.9669
+N7: 4.44255
+Gahnia_aspera: 83.4509
+Oreobolus_pectinatus: 72.5846
+N8: 12.0969
+Morelotia_affinis: 66.9635
+N9: 1.46097
+N10: 11.0262
+Schoenus_brevifolius: 46.7013
+N11: 12.0369
+Schoenus_nigricans: 42.1227
+Schoenus_apogon: 33.3984
+N12: 21.818
+N13: 23.9101
+Machaerina_mariscoides: 27.0816
+Machaerina_articulata: 14.9087
+Tetraria_capillaris: 37.3672
+N14: 33.654
+N15: 36.4932
+Rhynchospora_corniculata: 23.4352
+N16: 11.3804
+Rhynchospora_albiceps: 12.6806
+N17: 7.00746
+Rhynchospora_rubra: 5.58066
+Rhynchospora_globosa: 6.63612
+N18: 9.12268
+N19: 41.454
+Rhynchospora_chinensis: 22.4866
+N21: 2.43064
+Rhynchospora_microcarpa: 12.2048
+N22: 2.23522
+Rhynchospora_rugosa: 10.0157
+N23: 7.23388
+N24: 3.90987
+N25: 1.92376
+Rhynchospora_alba: 6.44068
+Rhynchospora_fusca: 6.44068
+Rhynchospora_capillacea: 8.42897
+N26: 17.066
+Rhynchospora_robusta: 30.3691
+N27: 5.27688
+Rhynchospora_nervosa: 24.957
+Rhynchospora_latifolia: 24.957
+N28: 15.4294
+N29: 25.7703
+Scleria_pergracilis: 54.6206
+N30: 33.6856
+Scleria_microcarpa: 24.8294
+N31: 8.37491
+Scleria_tessellata: 18.6489
+Scleria_foliosa: 16.61
+Calyptrocarya_glomerulata: 84.3433
+N32: 101.586
+Cladium_mariscus: 6.49273
+Cladium_mariscoides: 16.4267
+N33: 91.2008
+Lepironia_articulata: 20.8625
+Chrysitrix_capensis: 23.9603
+Total number of gain events: 1562.1
+#+++++++++++++++++++++++++++++
+
+#Nodes with LOSS events with expectation above 0.5
+N2: 5.86687
+N3: 1.78114
+N4: 5.20493
+N5: 1.09579
+Lagenocarpus_guianensis: 95.774
+N6: 16.135
+N7: 3.6856
+Gahnia_aspera: 65.5786
+Oreobolus_pectinatus: 75.7122
+N8: 10.6354
+Morelotia_affinis: 66.7948
+N9: 1.27875
+N10: 8.59318
+Schoenus_brevifolius: 26.2602
+N11: 17.4536
+Schoenus_nigricans: 40.1292
+Schoenus_apogon: 49.364
+N12: 24.3639
+N13: 20.5473
+Machaerina_mariscoides: 12.9645
+Machaerina_articulata: 26.6268
+Tetraria_capillaris: 47.8342
+N14: 39.3417
+N15: 37.1265
+Rhynchospora_corniculata: 23.2769
+N16: 10.4025
+Rhynchospora_albiceps: 12.5002
+N17: 6.21103
+Rhynchospora_rubra: 6.19665
+Rhynchospora_globosa: 5.25212
+N18: 9.59355
+N19: 33.1271
+Rhynchospora_chinensis: 8.87282
+N21: 2.87007
+Rhynchospora_microcarpa: 11.0814
+N22: 2.88951
+Rhynchospora_rugosa: 8.23787
+N23: 11.2997
+N24: 6.47465
+N25: 2.61977
+Rhynchospora_alba: 7.49539
+Rhynchospora_fusca: 7.49539
+Rhynchospora_capillacea: 10.1799
+N26: 20.5828
+Rhynchospora_robusta: 30.8547
+N27: 5.74346
+Rhynchospora_nervosa: 24.9758
+Rhynchospora_latifolia: 24.9758
+N28: 18.7559
+N29: 28.4712
+Scleria_pergracilis: 58.1957
+N30: 32.5605
+Scleria_microcarpa: 24.5295
+N31: 7.46967
+Scleria_tessellata: 15.2544
+Scleria_foliosa: 17.2156
+Calyptrocarya_glomerulata: 85.6196
+N32: 88.7352
+Cladium_mariscus: 15.8891
+Cladium_mariscoides: 6.15527
+N33: 86.8406
+Lepironia_articulata: 23.0602
+Chrysitrix_capensis: 20.1582
+Total number of loss events: 1522.33
+#+++++++++++++++++++++++++++++
+
+#Nodes with duplication events with expectation above 0.5
+Lagenocarpus_guianensis: 1.07699
+Schoenus_apogon: 1.3288
+N14: 0.939
+N15: 2.08414
+Rhynchospora_corniculata: 0.706951
+N19: 0.650863
+N26: 1.56224
+Rhynchospora_robusta: 3.68334
+N27: 0.741102
+Rhynchospora_nervosa: 3.12271
+Rhynchospora_latifolia: 3.12271
+N29: 1.37693
+Scleria_pergracilis: 5.2526
+N30: 1.89652
+Scleria_microcarpa: 0.524557
+Calyptrocarya_glomerulata: 3.76867
+N33: 0.966498
+Total number of duplication events: 35.0711
+#+++++++++++++++++++++++++++++
+
+#Nodes with demi-duplication events with expectation above 0.5
+Total number of demi-dulications events: 0
+#+++++++++++++++++++++++++++++
+
+#EVENTS NOT ACCOUNTED FOR IN THE SIMULATIONS: 
+N23:ML=12 to Rhynchospora_brownii:ML=18  sum expections= 0.197536
+	HEURISTIC ESTIMATION:	Gains = 6	Losses = 0	Duplications = 0	Demi-dupl = 0
+N23:ML=12 to Rhynchospora_marisculus:ML=5  sum expections= 0.033062
+	HEURISTIC ESTIMATION:	Gains = 0	Losses = 7	Duplications = 0	Demi-dupl = 0
+#+++++++++++++++++++++++++++++
+
+#ALL EVENTS EXPECTATIONS PER NODE
+NODE	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+N2	5.82442	5.86687	0.0299739	0
+N3	1.59049	1.78114	0.00820488	0
+N4	5.76279	5.20493	0.0247025	0
+N5	1.45674	1.09579	0.00473678	0
+Lagenocarpus_guianensis	97.2494	95.774	1.07699	0
+N6	21.9669	16.135	0.0242662	0
+N7	4.44255	3.6856	0.000364449	0
+Gahnia_aspera	83.4509	65.5786	0.00410862	0
+Oreobolus_pectinatus	72.5846	75.7122	0.091938	0
+N8	12.0969	10.6354	0.000469324	0
+Morelotia_affinis	66.9635	66.7948	0.0182904	0
+N9	1.46097	1.27875	1.37129e-05	0
+N10	11.0262	8.59318	5.15018e-05	0
+Schoenus_brevifolius	46.7013	26.2602	0	0
+N11	12.0369	17.4536	0.000906849	0
+Schoenus_nigricans	42.1227	40.1292	0.00837803	0
+Schoenus_apogon	33.3984	49.364	1.3288	0
+N12	21.818	24.3639	0.00255814	0
+N13	23.9101	20.5473	0.00178055	0
+Machaerina_mariscoides	27.0816	12.9645	0	0
+Machaerina_articulata	14.9087	26.6268	7.98896e-05	0
+Tetraria_capillaris	37.3672	47.8342	0.138271	0
+N14	33.654	39.3417	0.939	0
+N15	36.4932	37.1265	2.08414	0
+Rhynchospora_corniculata	23.4352	23.2769	0.706951	0
+N16	11.3804	10.4025	0.288288	0
+Rhynchospora_albiceps	12.6806	12.5002	0.0607693	0
+N17	7.00746	6.21103	0.0260283	0
+Rhynchospora_rubra	5.58066	6.19665	0.000483107	0
+Rhynchospora_globosa	6.63612	5.25212	0.000352892	0
+N18	9.12268	9.59355	0.486573	0
+N19	41.454	33.1271	0.650863	0
+Rhynchospora_chinensis	22.4866	8.87282	0	0
+N20	0.014232	0.0281895	1.28264e-11	0
+N21	2.43064	2.87007	3.32577e-09	0
+Rhynchospora_microcarpa	12.2048	11.0814	4.37874e-08	0
+N22	2.23522	2.88951	9.7695e-09	0
+Rhynchospora_rugosa	10.0157	8.23787	0	0
+N23	7.23388	11.2997	1.18124e-05	0
+Rhynchospora_brownii	6	0	0	0
+Rhynchospora_marisculus	0	7	0	0
+N24	3.90987	6.47465	1.87431e-07	0
+N25	1.92376	2.61977	8.32046e-08	0
+Rhynchospora_alba	6.44068	7.49539	9.34196e-07	0
+Rhynchospora_fusca	6.44068	7.49539	9.34196e-07	0
+Rhynchospora_capillacea	8.42897	10.1799	8.94624e-07	0
+N26	17.066	20.5828	1.56224	0
+Rhynchospora_robusta	30.3691	30.8547	3.68334	0
+N27	5.27688	5.74346	0.741102	0
+Rhynchospora_nervosa	24.957	24.9758	3.12271	0
+Rhynchospora_latifolia	24.957	24.9758	3.12271	0
+N28	15.4294	18.7559	0.257491	0
+N29	25.7703	28.4712	1.37693	0
+Scleria_pergracilis	54.6206	58.1957	5.2526	0
+N30	33.6856	32.5605	1.89652	0
+Scleria_microcarpa	24.8294	24.5295	0.524557	0
+N31	8.37491	7.46967	0.17344	0
+Scleria_tessellata	18.6489	15.2544	0.062906	0
+Scleria_foliosa	16.61	17.2156	0.12977	0
+Calyptrocarya_glomerulata	84.3433	85.6196	3.76867	0
+N32	101.586	88.7352	0.419506	0
+Cladium_mariscus	6.49273	15.8891	6.65945e-14	0
+Cladium_mariscoides	16.4267	6.15527	0	0
+N33	91.2008	86.8406	0.966498	0
+Lepironia_articulata	20.8625	23.0602	0.00115238	0
+Chrysitrix_capensis	23.9603	20.1582	0.000639669	0
+#+++++++++++++++++++++++++++++
+
+#Expected number of events from root to leaf
+LEAF	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+Lagenocarpus_guianensis	111.884	109.723	1.14461	0
+Gahnia_aspera	124.495	99.3479	0.0963574	0
+Oreobolus_pectinatus	113.628	109.482	0.184187	0
+Morelotia_affinis	115.662	107.514	0.110644	0
+Schoenus_brevifolius	107.887	76.8512	0.0924188	0
+Schoenus_nigricans	115.345	108.174	0.101704	0
+Schoenus_apogon	106.621	117.409	1.42212	0
+Machaerina_mariscoides	122.969	99.8736	0.096706	0
+Machaerina_articulata	110.796	113.536	0.0967859	0
+Tetraria_capillaris	109.345	114.196	0.233196	0
+Rhynchospora_corniculata	106.76	112.598	3.79297	0
+Rhynchospora_albiceps	107.386	112.224	3.43508	0
+Rhynchospora_rubra	107.293	112.131	3.40082	0
+Rhynchospora_globosa	108.349	111.187	3.40069	0
+Rhynchospora_chinensis	119.895	103.788	2.13932	0
+Rhynchospora_microcarpa	112.058	108.895	2.13932	0
+Rhynchospora_rugosa	112.104	108.941	2.13932	0
+Rhynchospora_brownii	115.322	112.003	2.13933	0
+Rhynchospora_marisculus	109.322	119.003	2.13933	0
+Rhynchospora_alba	109.697	111.533	2.13932	0
+Rhynchospora_fusca	109.697	111.533	2.13932	0
+Rhynchospora_capillacea	109.761	111.598	2.13932	0
+Rhynchospora_robusta	103.389	113.226	6.73404	0
+Rhynchospora_nervosa	103.254	113.09	6.91451	0
+Rhynchospora_latifolia	103.254	113.09	6.91451	0
+Scleria_pergracilis	103.235	113.071	6.9252	0
+Scleria_microcarpa	107.13	111.965	4.09368	0
+Scleria_tessellata	109.324	110.16	3.80547	0
+Scleria_foliosa	107.285	112.121	3.87233	0
+Calyptrocarya_glomerulata	107.188	112.023	4.06434	0
+Cladium_mariscus	113.903	110.491	0.44948	0
+Cladium_mariscoides	123.837	100.757	0.44948	0
+Lepironia_articulata	112.063	109.901	0.967651	0
+Chrysitrix_capensis	115.161	106.999	0.967138	0
